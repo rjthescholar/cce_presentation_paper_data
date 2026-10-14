@@ -1,0 +1,27 @@
+page faults
+mmu
+sharing pages
+boot block
+fat
+contiguous allocation
+page sharing
+physical page frame
+paging
+dirty pages
+file allocation table
+virtual addresses
+locking pages
+page fault
+tlb
+page locking
+page table
+page frame
+partition table
+master boot record
+index nodes
+super block
+virtual memory
+linked allocation
+locked pages
+virtual address
+page tables

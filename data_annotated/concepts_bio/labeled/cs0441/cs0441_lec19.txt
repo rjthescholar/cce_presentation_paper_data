@@ -1,0 +1,7 @@
+permutations with repetition
+partition
+combinations with repetition
+distinguishable
+stirling number of the second kind
+indistinguishable
+partitions

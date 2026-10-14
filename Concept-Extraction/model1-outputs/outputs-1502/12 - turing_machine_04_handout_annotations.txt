@@ -1,0 +1,22 @@
+recognizable language
+decidable language
+undecidable language
+turing machine
+TM
+decider
+infinite loop
+polynomial root
+integral root
+Hilbert’s tenth problem
+brute-force algorithm
+string representation
+one-variable polynomial
+formal description
+state diagram
+implementation description
+high-level description
+where clause
+universal turing machine
+subroutine
+Church–Turing thesis
+algorithm

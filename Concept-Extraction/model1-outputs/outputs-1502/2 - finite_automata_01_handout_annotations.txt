@@ -1,0 +1,20 @@
+finite automata
+finite-state machine
+finite-state automaton
+computation model
+state
+start state
+accept state
+non-accept state
+state diagram
+state transition table
+transition function
+alphabet
+symbol
+input string
+accepted string
+rejected string
+language
+formal definition
+empty string
+substring

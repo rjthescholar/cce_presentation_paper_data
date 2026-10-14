@@ -1,0 +1,31 @@
+backend
+the runtime
+codegen
+symbolic linking
+object files
+position-independent code
+abi
+the runtime library
+call graph
+serializes
+linking
+stdlib
+library
+standard library
+executable format
+stack frame
+libraries
+core
+linker
+std
+absolute addresses
+runtime library
+relocations
+executable
+application binary interface
+operating systems
+symbol table
+executables
+executable formats
+serialize
+code generation

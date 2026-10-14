@@ -1,0 +1,156 @@
+title,keywords,name
+0 - cs1502_syllabus_handout (Part 1),formal methods,cs1502-1-P1
+0 - cs1502_syllabus_handout (Part 2),formal methods; logical reasoning; algorithms; turing machine; ↔; salesman; shortest path,cs1502-1-P2
+0 - cs1502_syllabus_handout (Part 3),formal methods,cs1502-1-P3
+0 - cs1502_syllabus_handout (Part 4),formal methods; rational,cs1502-1-P4
+1 - math_prelim_handout (Part 1),mathematics preliminaries predicates,cs1502-2-P1
+1 - math_prelim_handout (Part 2),big union notation,cs1502-2-P2
+1 - math_prelim_handout (Part 3),sortlex order; lexicographic ordering; lexicographc order; distributive; logical reasoning,cs1502-2-P3
+1 - math_prelim_handout (Part 4),,cs1502-2-P4
+1 - math_prelim_handout (Part 5),,cs1502-2-P5
+10 - turing_machine_02_handout (Part 1),turing machine,cs1502-3-P1
+10 - turing_machine_02_handout (Part 2),turing machine,cs1502-3-P2
+10 - turing_machine_02_handout (Part 3),→ 0,cs1502-3-P3
+11 - turing_machine_03_handout (Part 1),machine; turing machines; palindrome,cs1502-4-P1
+11 - turing_machine_03_handout (Part 2),turing machine; algorithms; multitape machine,cs1502-4-P2
+11 - turing_machine_03_handout (Part 3),simulate; branch,cs1502-4-P3
+11 - turing_machine_03_handout (Part 4),turing machine; church turing thesis; state machine,cs1502-4-P4
+12 - turing_machine_04_handout (Part 1),turing machine; turing; polynomial; decidable languages,cs1502-5-P1
+12 - turing_machine_04_handout (Part 2),turing machine; integral root; undecidable,cs1502-5-P2
+12 - turing_machine_04_handout (Part 3),turing machine; universal turing machine,cs1502-5-P3
+12-5 - exam_01_review_hanbdout (Part 1),dfa; regular languages; formal,cs1502-6-P1
+12-5 - exam_01_review_hanbdout (Part 2),dfa; nfa; arrow,cs1502-6-P2
+12-5 - exam_01_review_hanbdout (Part 3),regular expression; dfa; nfa; regular language; transition functions,cs1502-6-P3
+12-5 - exam_01_review_hanbdout (Part 4),regular expression; nfa,cs1502-6-P4
+12-5 - exam_01_review_hanbdout (Part 5),pumping lemma; pumping; regular language,cs1502-6-P5
+12-5 - exam_01_review_hanbdout (Part 6),,cs1502-6-P6
+13 - decidability_01_handout (Part 1),dfa; decidability; is decidable,cs1502-7-P1
+13 - decidability_01_handout (Part 2),dfa; simulate; decider; turing machine,cs1502-7-P2
+13 - decidability_01_handout (Part 3),dfa; nfa; accept; non accept; an accept; convert nfa; a non accept state; simulation; decidable,cs1502-7-P3
+13 - decidability_01_handout (Part 4),dfa; regular expression; nfa; language; algorithm; decidable; machine,cs1502-7-P4
+13 - decidability_01_handout (Part 5),nfa; regular expression; decidable,cs1502-7-P5
+14  - decidability_02_handout (Part 1),dfa; turing machine; graph theory; decidable; edfa; decidable languages,cs1502-8-P1
+14  - decidability_02_handout (Part 2),dfa; decidability; edfa,cs1502-8-P2
+14  - decidability_02_handout (Part 3),dfa; eq dfa; decidability; nfa; turing machines,cs1502-8-P3
+14  - decidability_02_handout (Part 4),dfa; eq dfa,cs1502-8-P4
+15 - decidability_03_handout (Part 1),atm; atm decidable; undecidable,cs1502-9-P1
+15 - decidability_03_handout (Part 2),,cs1502-9-P2
+15 - decidability_03_handout (Part 3),rational numbers; countable; decidability,cs1502-9-P3
+15 - decidability_03_handout (Part 4),rational numbers; countable; decidability; countable correspond,cs1502-9-P4
+16 - decidability_04_handout (Part 1),decidability 04; → r; valid,cs1502-10-P1
+16 - decidability_04_handout (Part 2),,cs1502-10-P2
+16 - decidability_04_handout (Part 3),decidability,cs1502-10-P3
+16 - decidability_04_handout (Part 4),decidability; correspondence; languages; list,cs1502-10-P4
+17 - decidability_05_handout (Part 1),decidability,cs1502-11-P1
+17 - decidability_05_handout (Part 2),decidable; boolean algebra; recognizable; parallel; rejects,cs1502-11-P2
+17 - decidability_05_handout (Part 3),diagonalization; countable; correspondence; algorithm,cs1502-11-P3
+18 - reducibility_01_handout (Part 1),lady; ⊆ y; specific element; ⊆ x; ↔,cs1502-12-P1
+18 - reducibility_01_handout (Part 2),lady; decidable; boolean algebra,cs1502-12-P2
+18 - reducibility_01_handout (Part 3),decidable; atm; undecidable,cs1502-12-P3
+19 - reducibility_02_handout (Part 1),language; turing machine; following turing machine,cs1502-13-P1
+19 - reducibility_02_handout (Part 2),turing machine; language,cs1502-13-P2
+19 - reducibility_02_handout (Part 3),turing machine; language; rejects,cs1502-13-P3
+19 - reducibility_02_handout (Part 4),language; turing machine; input; string; rejects,cs1502-13-P4
+2 - finite_automata_01_handout (Part 1),finite automata; automata,cs1502-14-P1
+2 - finite_automata_01_handout (Part 2),finite automata; finite state machine; valid; valid input,cs1502-14-P2
+2 - finite_automata_01_handout (Part 3),finite automata,cs1502-14-P3
+2 - finite_automata_01_handout (Part 4),finite; finite automata,cs1502-14-P4
+20 - reducibility_as_methods_handout (Part 1),turing machines; java; java methods; methods language; language; type string,cs1502-15-P1
+20 - reducibility_as_methods_handout (Part 2),type string; turing machine; language; signature,cs1502-15-P2
+20 - reducibility_as_methods_handout (Part 3),language; methods language; methods,cs1502-15-P3
+21 - reducibility_04_handout (Part 1),,cs1502-16-P1
+21 - reducibility_04_handout (Part 2),halt; atm,cs1502-16-P2
+21 - reducibility_04_handout (Part 3),input; rejects,cs1502-16-P3
+21 - reducibility_04_handout (Part 4),decider; atm,cs1502-16-P4
+21 - reducibility_04_handout (Part 5),,cs1502-16-P5
+21 - reducibility_04_handout (Part 6),decider,cs1502-16-P6
+22 - reducibility_05_handout (Part 1),algorithm,cs1502-17-P1
+22 - reducibility_05_handout (Part 2),regular language; decider,cs1502-17-P2
+22 - reducibility_05_handout (Part 3),algorithm; decider; contradict; atm,cs1502-17-P3
+22 - reducibility_05_handout (Part 4),decider,cs1502-17-P4
+22 - reducibility_05_handout (Part 5),decider; atm,cs1502-17-P5
+22 - reducibility_05_handout (Part 6),atm; decidable; undecidable language,cs1502-17-P6
+23 - reducibility_06_handout (Part 1),match,cs1502-18-P1
+23 - reducibility_06_handout (Part 2),computation; turing machine; computation histories; linear bounded automaton; atm; algorithm; configuration,cs1502-18-P2
+23 - reducibility_06_handout (Part 3),configurations; bounded automaton,cs1502-18-P3
+23 - reducibility_06_handout (Part 4),computation history; history; configurations; atm; input; computation history method; string; finite; on input; decidable,cs1502-18-P4
+23 - reducibility_06_handout (Part 5),atm; decider,cs1502-18-P5
+24 - pcp_handout (Part 1),correspondence; post correspondence; decider; post correspondence problem; atm; computable,cs1502-19-P1
+24 - pcp_handout (Part 2),pcp; correspondence; match; post correspondence problem; atm; undecidable,cs1502-19-P2
+24 - pcp_handout (Part 3),correspondence; correspondence problem; match; post correspondence problem; post correspondence,cs1502-19-P3
+24 - pcp_handout (Part 4),correspondence,cs1502-19-P4
+24 - pcp_handout (Part 5),correspondence; correspondence problem; dominoes,cs1502-19-P5
+24 - pcp_handout (Part 6),bottom string; correspondence; top string; dominoes,cs1502-19-P6
+24 - pcp_handout (Part 7),correspondence; dominoes; post correspondence problem,cs1502-19-P7
+24 - pcp_handout (Part 8),,cs1502-19-P8
+24 - pcp_handout (Part 9),,cs1502-19-P9
+24 - pcp_handout (Part 10),correspondence,cs1502-19-P10
+24 - pcp_handout (Part 11),correspondence,cs1502-19-P11
+24 - pcp_handout (Part 12),pcp; match; bottom start; correspondence; atm,cs1502-19-P12
+25 - reducibility_08_handout (Part 1),reduction; decidable,cs1502-20-P1
+25 - reducibility_08_handout (Part 2),atm; computable; halt; decidable; undecidable,cs1502-20-P2
+25 - reducibility_08_handout (Part 3),,cs1502-20-P3
+25 - reducibility_08_handout (Part 4),regular; atm; reduction; mapping reducibility; string,cs1502-20-P4
+25 - reducibility_08_handout (Part 5),match; post correspondence problem; reduction; undecidable language,cs1502-20-P5
+26 - time_complexity_01_handout (Part 1),asymptotic analysis; turing machine; turing machine runs,cs1502-21-P1
+26 - time_complexity_01_handout (Part 2),turing machine,cs1502-21-P2
+26 - time_complexity_01_handout (Part 3),,cs1502-21-P3
+26 - time_complexity_01_handout (Part 4),run time complexity; turing machine; language,cs1502-21-P4
+26 - time_complexity_01_handout (Part 5),s k tapes,cs1502-21-P5
+26 - time_complexity_01_handout (Part 6),computation tree; nondeterministic turing machine,cs1502-21-P6
+27 - time_complexity_02_handout (Part 1),turing machine,cs1502-22-P1
+27 - time_complexity_02_handout (Part 2),breadth first search; path analysis,cs1502-22-P2
+27 - time_complexity_02_handout (Part 3),greatest common divisor; euclidean,cs1502-22-P3
+27 - time_complexity_02_handout (Part 4),hampath,cs1502-22-P4
+28 - time_complexity_03_handout (Part 1),hampath; hamiltonian path; directed graph,cs1502-23-P1
+28 - time_complexity_03_handout (Part 2),hampath; turing machine; nfa; brute force algorithm; → 0; string,cs1502-23-P2
+28 - time_complexity_03_handout (Part 3),turing machine; language,cs1502-23-P3
+28 - time_complexity_03_handout (Part 4),clique; ⊆,cs1502-23-P4
+28 - time_complexity_03_handout (Part 5),,cs1502-23-P5
+29 - time_complexity_04_handout (Part 1),reducibility; reducibility property; language; polynomial time algorithm; polynomial time reduction; time reduction; polynomial time computable; ≤p,cs1502-24-P1
+29 - time_complexity_04_handout (Part 2),cnf formula; boolean formula; satisfiable boolean formula; conjunctive normal form; satisfiability; boolean operators,cs1502-24-P2
+29 - time_complexity_04_handout (Part 3),np complete,cs1502-24-P3
+29 - time_complexity_04_handout (Part 4),≤p sat; sat; np complete; np complete language; φ,cs1502-24-P4
+29 - time_complexity_04_handout (Part 5),np complete; hampath,cs1502-24-P5
+3 - finite_automata_02_handout (Part 1),finite automata; finite automaton; finite state; computational model; language,cs1502-25-P1
+3 - finite_automata_02_handout (Part 2),dfa; finite automata; regular; algorithms,cs1502-25-P2
+3 - finite_automata_02_handout (Part 3),,cs1502-25-P3
+3 - finite_automata_02_handout (Part 4),dfa; regular; regular language; union operation; finite automata,cs1502-25-P4
+3 - finite_automata_02_handout (Part 5),union operation; finite automata,cs1502-25-P5
+30 - spring_2021_final_review_handout (Part 1),dfa; decider,cs1502-26-P1
+30 - spring_2021_final_review_handout (Part 2),decider,cs1502-26-P2
+30 - spring_2021_final_review_handout (Part 3),,cs1502-26-P3
+30 - spring_2021_final_review_handout (Part 4),,cs1502-26-P4
+4 - finite_automata_03_handout (Part 1),finite automaton; dfa; finite automata; nfa; splits,cs1502-27-P1
+4 - finite_automata_03_handout (Part 2),dfa; finite automaton; nfa; finite automata,cs1502-27-P2
+4 - finite_automata_03_handout (Part 3),dfa; finite automaton; finite automata; deterministic finite automaton; dfa nfa; nfa,cs1502-27-P3
+4 - finite_automata_03_handout (Part 4),dfa; finite; finite automata; nfa; function,cs1502-27-P4
+4 - finite_automata_03_handout (Part 5),dfa; finite automata; nfa,cs1502-27-P5
+4 - finite_automata_03_handout (Part 6),finite,cs1502-27-P6
+4 - finite_automata_03_handout (Part 7),union operation; state diagram; finite; finite automata,cs1502-27-P7
+4 - finite_automata_03_handout (Part 8),finite automata; state diagram,cs1502-27-P8
+4 - finite_automata_03_handout (Part 9),dfa; finite; finite automata; regular languages; nfa,cs1502-27-P9
+5 - finite_automata_04_handout (Part 1),regular expression; finite automata; definition,cs1502-28-P1
+5 - finite_automata_04_handout (Part 2),regular expressions; finite; finite automata,cs1502-28-P2
+5 - finite_automata_04_handout (Part 3),finite automata,cs1502-28-P3
+5 - finite_automata_04_handout (Part 4),regular expression; dfa; finite automata; regular language; language; regular recall; nfa,cs1502-28-P4
+5 - finite_automata_04_handout (Part 5),regular expression; finite automata; nfa,cs1502-28-P5
+5 - finite_automata_04_handout (Part 6),expression; nfa; regular expression; finite automata,cs1502-28-P6
+5 - finite_automata_04_handout (Part 7),nfa; regular expression; finite automata,cs1502-28-P7
+6 - finite_automata_05_handout (Part 1),finite; dfa; regular expression; finite state machine; finite automaton; finite automata; regular languages; generalized nondeterministic finite automaton,cs1502-29-P1
+6 - finite_automata_05_handout (Part 2),dfa; regular expression; →; finite automata; string,cs1502-29-P2
+6 - finite_automata_05_handout (Part 3),regular expression; dfa; finite; finite automata; regular language; ba∪a,cs1502-29-P3
+6 - finite_automata_05_handout (Part 4),language; regular language; finite automata; regular expression,cs1502-29-P4
+7 - finite_automata_06_handout (Part 1),finite; finite state machine; finite automata; regular language; languages; non regular language; infinite languages,cs1502-30-P1
+7 - finite_automata_06_handout (Part 2),dfa; pumping lemma; regular language; finite automata; pumping length; following language; finite state,cs1502-30-P2
+7 - finite_automata_06_handout (Part 3),pumping lemma; dfa; finite automata,cs1502-30-P3
+7 - finite_automata_06_handout (Part 4),pumping lemma; finite automata,cs1502-30-P4
+7 - finite_automata_06_handout (Part 5),finite automata,cs1502-30-P5
+7 - finite_automata_06_handout (Part 6),finite automata,cs1502-30-P6
+8 - finite_automata_07_handout (Part 1),finite automata,cs1502-31-P1
+8 - finite_automata_07_handout (Part 2),pumping lemma; finite automata; regular,cs1502-31-P2
+8 - finite_automata_07_handout (Part 3),finite automata,cs1502-31-P3
+9 - turing_machine_01_handout (Part 1),turing machine; dfa; finite state machine; human computation,cs1502-32-P1
+9 - turing_machine_01_handout (Part 2),turing machine; →; transition function,cs1502-32-P2
+9 - turing_machine_01_handout (Part 3),,cs1502-32-P3
+9 - turing_machine_01_handout (Part 4),decidable; turing decidable; turing machines; dfa,cs1502-32-P4

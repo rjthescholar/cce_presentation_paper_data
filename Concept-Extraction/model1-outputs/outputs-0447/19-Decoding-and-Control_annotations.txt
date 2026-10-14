@@ -1,0 +1,70 @@
+instruction execution
+fetch
+IF
+F
+decode
+ID
+D
+execute
+EX
+X
+memory access
+MEM
+M
+write-back
+WB
+W
+operand fetch
+instruction decoding
+encoded instruction
+instruction format
+R-type instruction
+I-type instruction
+J-type instruction
+opcode
+register
+register file
+PC
+ALU
+instruction memory
+data memory
+structural hazard
+Harvard architecture
+Von Neumann architecture
+multi-cycle machine
+clock cycle
+interconnect
+interconnect matrix
+datapath
+load-store architecture
+CISC
+effective address calculation
+control
+control unit
+control signal
+select
+write enable
+MUX
+demux
+decoder
+priority encoder
+boolean function
+truth table
+no-op
+nop
+conditional branch
+instruction immediate
+instruction field
+rs
+rt
+rd
+shamt
+funct
+immediate
+target
+RegWrite
+MemWrite
+RegDataSrc
+ALUSrc
+ALUOp
+PCSrc

@@ -1,0 +1,46 @@
+semantics
+semantic analysis
+static semantics
+dynamic semantics
+compile-time
+runtime
+static checks
+halting problem
+abstraction
+HLL
+high-level language
+CPU
+central processing unit
+type
+type system
+untyped language
+primitive type
+compound type
+generic type
+type constructor
+type argument
+struct
+class
+tuple
+array
+array length
+undecidable type system
+name resolution
+static name resolution
+dynamic name resolution
+scope
+scoping
+static scope
+dynamic scope
+shadowing
+evaluation
+side effect
+evaluation order
+eager evaluation
+lazy evaluation
+higher-order function
+dynamically-typed language
+runtime type checking
+AST
+abstract syntax tree
+AST interpreter

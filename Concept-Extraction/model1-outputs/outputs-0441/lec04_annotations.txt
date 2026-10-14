@@ -1,0 +1,32 @@
+propositional logic
+predicate logic
+syllogism
+major premise
+minor premise
+conclusion
+predicate
+propositional function
+variable
+truth value
+proposition
+quantifier
+universe of discourse
+domain
+universal quantifier
+universal quantification
+existential quantifier
+existential quantification
+restricted domain of quantification
+quantifier precedence
+logical equivalence
+logical equivalence in predicate logic
+counterexample
+negation
+conjunction
+disjunction
+implication
+De Morgan’s laws for quantifiers
+negation over universal quantifier
+negation over existential quantifier
+double negation law
+translation into logical expressions

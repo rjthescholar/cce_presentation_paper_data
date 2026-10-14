@@ -1,0 +1,39 @@
+liveness
+liveness algorithm
+backwards analysis
+forward analysis
+before-state
+after-state
+in-state
+out-state
+live state
+dead state
+transfer function
+join function
+variable use
+variable definition
+termination
+monotonic state changes
+bit vector problems
+register allocation
+register pressure
+memory accesses
+loads and stores
+argument registers
+return value registers
+temporary registers
+saved temporary registers
+function inlining
+register interference graph
+RIG
+graph coloring
+k-colorability
+chromatic number
+coloring heuristic
+spilling
+spill candidate
+live range
+code rewriting
+iterative register allocation algorithm
+coalescing
+pre-coloring

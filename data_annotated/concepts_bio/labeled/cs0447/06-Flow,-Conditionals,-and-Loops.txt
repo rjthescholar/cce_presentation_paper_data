@@ -1,0 +1,40 @@
+bgtz
+label
+logical and
+initialization
+bge
+conditional branch instructions
+jump
+branch if equal
+short circuit evaluation
+initialize
+while
+beq
+for loop
+pseudo-instructions
+branch
+if-else
+basic block
+set if less than
+bne
+bgez
+basic blocks
+branches
+conditionals
+ble
+logical or
+dead code
+slt
+j
+blt
+bltz
+pseudo-code
+labels
+bgt
+control flow
+else if
+infinite loop
+increment
+jumps
+flow-chart
+blez

@@ -1,0 +1,14 @@
+scope
+curly brackets
+if statement
+else-if block
+switch-case statement
+case
+break statement
+harmonic series
+list
+array
+array element
+array length
+while loop
+condition

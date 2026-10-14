@@ -1,0 +1,15 @@
+if statement
+boolean condition
+if block
+else if
+else
+boolean expression
+optimization
+common code
+simple choice operator
+?:
+readability
+code length
+comment
+scope
+curly brackets

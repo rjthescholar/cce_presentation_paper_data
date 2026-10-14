@@ -1,0 +1,16 @@
+title,keywords,name
+CS1541_Lecture1.1_Introduction,carbon nanotubes; collaboration; software hardware; supercomputers; my classmates; windows; competition collaboration; stuff,cs1541-1
+CS1541_Lecture1.2_Technology_Advances,miniaturization; semiconductor industry; design future; technology; zoom breakout; radamson; s law,cs1541-2
+CS1541_Lecture1.3_Technology_Constraints,power; dvfs; cores; multi cores; thermal design power; leakage power; power wall; bandwidth; architecture; technology constraints,cs1541-3
+CS1541_Lecture2.1_Processor_Review,mips; mips review; clocking review; processor review,cs1541-4
+CS1541_Lecture2.2_Processor_Pipelining,pipelined; clock cycle; instruction; instruction flows; cycle; datapath; pipelined parallelism; decoder; utilization; processor pipelining,cs1541-5
+CS1541_Lecture2.3_Optimizing_Pipeline_Hazards,structural hazard; pipeline,cs1541-6
+CS1541_Lecture2.4_Branch_Prediction,predict; branch prediction; predicting branch; branch; →; taken branch prediction; hazards; data hazard; branch history table; code analysis,cs1541-7
+CS1541_Lecture2.5_VLIW_Processors,pipeline; cycle; structural hazard; data forwarding; cycle time; hazard; deep pipelines; power consumption; →; cycletimepipelined,cs1541-8
+CS1541_Lecture2.6_Superscalar_Processors,ilp; instruction; instruction level parallelism; order superscalar; instruction queue; superscalar processors; superscalars; wide issue processor; out of order superscalar; hazards,cs1541-9
+CS1541_Lecture3.1_Memory_Hierarchy,memory hierarchy; benchmarks,cs1541-10
+CS1541_Lecture3.2_Cache_Design,cache; multi level cache; cache designs; oracle caches; access time; evaluate; dram memory; metric,cs1541-11
+CS1541_Lecture3.3_Cache_Design2,cache; write; write back; write back cache block; cache block; lw; cache design; sw change,cs1541-12
+CS1541_Lecture3.4_Virtual_Memory,virtualization; virtual memory; memory; physical memory; virtual memory review; physical memory process; caching; virtual page number; spatial locality; s memory,cs1541-13
+CS1541_Lecture3.5_Multi_Processors,ajax; datarace; xml; web apps; multiprocessors; caches; directives; mpi; ethernet; java threads,cs1541-14
+CS1541_Lecture3.6_SIMD_And_GPUs,simd; mips; gpus; vector; mips translation; single instruction; data parallel workloads; index,cs1541-15

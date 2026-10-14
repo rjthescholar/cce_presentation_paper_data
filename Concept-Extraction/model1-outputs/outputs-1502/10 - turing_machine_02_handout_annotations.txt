@@ -1,0 +1,18 @@
+Turing machine
+TM
+language A
+language B
+tape
+tape head
+left-most square
+blank symbol
+state
+state diagram
+transition
+shorthand notation
+accept state
+reject state
+crossing off symbols
+marking the left-most symbol
+moving the tape head back
+shifting symbols right by one square

@@ -1,0 +1,33 @@
+proton
+electron
+positive charge
+negative charge
+electricity
+voltage
+current
+vacuum tube
+thermionic valve
+transistor
+MOSFET
+metal-oxide semiconductor field-effect transistor
+BJT
+electrically controlled switch
+gate
+drain
+source
+ground terminal
+bit
+n-type MOSFET
+p-type MOSFET
+logic gate
+boolean logic function
+NOT gate
+NAND gate
+AND gate
+NOR gate
+OR gate
+XOR gate
+exclusive OR
+wire bundle
+truth table
+universal gate

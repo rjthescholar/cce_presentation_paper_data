@@ -1,0 +1,22 @@
+direct proof
+proof by contradiction
+proof by contraposition
+proof by cases
+existential statement
+universally quantified statement
+mathematical induction
+base case
+inductive hypothesis
+inductive step
+conjecture
+well ordering axiom
+least element
+summation
+sum of the first n odd positive integers
+sum of the first n positive squares
+inequality
+factorial
+divisibility
+finite set
+cardinality
+subset

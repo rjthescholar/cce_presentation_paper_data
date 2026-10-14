@@ -1,0 +1,14 @@
+string
+character
+application programming interface
+API
+index
+substring
+charAt method
+substring method
+math class
+exponentiation
+pow method
+static
+class name
+variable name

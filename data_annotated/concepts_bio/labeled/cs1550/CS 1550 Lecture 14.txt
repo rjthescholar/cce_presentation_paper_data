@@ -1,0 +1,42 @@
+fixed partitions
+base
+physical page number
+main memory
+page table entry
+multiprogramming
+page tables
+cache
+memory partition
+memory management unit
+page table length register
+tlb
+translation lookaside buffer
+ptbr
+fixed memory partitions
+physical addresses
+mmu
+virtual addresses
+virtual page number
+base and limit registers
+limit
+virtual memory
+paging
+page table
+physical address
+page
+memory partitions
+vm
+valid bit
+referenced bit
+page frame number
+address translation
+memory hierarchy
+page table base register
+memory protection
+virtual address
+pte
+memory management
+dirty bit
+memory manager
+logical address
+ptlr

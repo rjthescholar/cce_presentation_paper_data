@@ -1,0 +1,86 @@
+title,keywords,name
+Lecture0 (Part 1),homework; system; operating systems; replacement algorithms,cs1550-1-P1
+Lecture1 (Part 1),systems; operating systems; homework; virtualization; dual mode,cs1550-2-P1
+Lecture1 (Part 2),printf; java virtual machine; arguments; jvm,cs1550-2-P2
+Lecture10 (Part 1),operating systems; homework 5,cs1550-3-P1
+Lecture10 (Part 2),deadlock break; deadlock detection,cs1550-3-P2
+Lecture10 (Part 3),deadlock break; deadlock detection,cs1550-3-P3
+Lecture10 (Part 4),deadlock; deadlock break; deadlock detection; sequence; event sequence; deadlock avoidance; banker ’ s algorithm,cs1550-3-P4
+Lecture10 (Part 5),,cs1550-3-P5
+Lecture11 (Part 1),systems; operating systems; homework 5,cs1550-4-P1
+Lecture11 (Part 2),broadcasting,cs1550-4-P2
+Lecture12 (Part 1),homework; operating systems; semaphores; locks; mesa semantics; algorithm,cs1550-5-P1
+Lecture12 (Part 2),response time; response; scheduling; queue scheduling; first scheduling; scheduling policies; •,cs1550-5-P2
+Lecture12 (Part 3),decision mode; ready queue; interrupt; preference; shortest jobs,cs1550-5-P3
+Lecture12 (Part 4),interrupt; pre emptive a process; decision mode; mode; queue; ready queue; robin selection function; clock interrupt,cs1550-5-P4
+Lecture12 (Part 5),ready queue; fcfs; clock interrupt; emptive a process; a; pre emptive a process; mode; decision mode,cs1550-5-P5
+Lecture12 (Part 6),,cs1550-5-P6
+Lecture13 (Part 1),homework; systems; operating systems; algorithm; first serve scheduling,cs1550-6-P1
+Lecture13 (Part 2),feedback scheduling; process arrival time,cs1550-6-P2
+Lecture13 (Part 3),feedback scheduling,cs1550-6-P3
+Lecture13 (Part 4),feedback scheduling; turnaround time,cs1550-6-P4
+Lecture13 (Part 5),,cs1550-6-P5
+Lecture14 (Part 1),homework; scheduling; systems; feedback scheduling; operating systems; queues,cs1550-7-P1
+Lecture14 (Part 2),device drivers; processes; partition; processes use; partitions divide; protection; memory management; flexibility; systems,cs1550-7-P2
+Lecture14 (Part 3),virtual memory; memory; physical memory; virtual page; virtual address space; virtual page number; addresses disk controller,cs1550-7-P3
+Lecture14 (Part 4),,cs1550-7-P4
+Lecture15 (Part 1),wait algorithm; operating systems; bankers algorithm; resource trajectory,cs1550-8-P1
+Lecture15 (Part 2),deadlock; deadlock prevention; locking,cs1550-8-P2
+Lecture16 (Part 1),homework; operating systems; algorithm; replacement algorithm,cs1550-9-P1
+Lecture16 (Part 2),algorithm; nfu; algorithms components; approximate lru,cs1550-9-P2
+Lecture16 (Part 3),,cs1550-9-P3
+Lecture17 (Part 1),algorithms; homework; replacement algorithm; clock algorithm; operating systems; clock interrupt concept,cs1550-10-P1
+Lecture17 (Part 2),replacement algorithm; reference string; page replacement algorithms,cs1550-10-P2
+Lecture17 (Part 3),algorithms; lru; reference string; stack algorithms; distance string; virtual memory; fault,cs1550-10-P3
+Lecture18 (Part 1),homework; page fault; fault; thrashing; operating systems; systems; global allocation,cs1550-11-P1
+Lecture18 (Part 2),scheduling,cs1550-11-P2
+Lecture19 (Part 1),homework; operating systems,cs1550-12-P1
+Lecture19 (Part 2),indexing; logical address; address translation; size; page size; granularity; multi level page tables; tradeoff,cs1550-12-P2
+Lecture19 (Part 3),standard cache techniques; lookup; tlb lookup; logical page; parallel,cs1550-12-P3
+Lecture19 (Part 4),,cs1550-12-P4
+Lecture2 (Part 1),homework; operating systems,cs1550-13-P1
+Lecture2 (Part 2),pcb; context pcb; switch; mutual exclusion; context switch; race conditions,cs1550-13-P2
+Lecture20 (Part 1),homework; operating systems; paging algorithms,cs1550-14-P1
+Lecture20 (Part 2),buffer; pages; page fault; page locking; replacement page faults; write; instruction; selected; scheduled; clock,cs1550-14-P2
+Lecture20 (Part 3),linked allocation,cs1550-14-P3
+Lecture21 (Part 1),homework; systems; operating systems,cs1550-15-P1
+Lecture21 (Part 2),,cs1550-15-P2
+Lecture22 (Part 1),homework; directories; linked allocation; systems; partition,cs1550-16-P1
+Lecture22 (Part 2),rotate; device; device independence; device driver; disk drive,cs1550-16-P2
+Lecture22 (Part 3),raid; raid 5; raid 4; systems,cs1550-16-P3
+Lecture23 (Part 1),homework; bonus homework; raid5; raid4; operating systems; ecc,cs1550-17-P1
+Lecture23 (Part 2),free list duplicate block; device drivers; files; polling •; flash,cs1550-17-P2
+Lecture23 (Part 3),interrupt handler; interrupt time,cs1550-17-P3
+Lecture24 (Part 1),homework; bonus homework; device drivers; bonus point; lecture24,cs1550-18-P1
+Lecture24 (Part 2),disk scheduling,cs1550-18-P2
+Lecture24 (Part 3),order,cs1550-18-P3
+Lecture24 (Part 4),count; lecture24,cs1550-18-P4
+Lecture25 (Part 1),homework; bonus homework; bonus point; systems; operating systems; file system,cs1550-19-P1
+Lecture25 (Part 2),double buffer; protection domains; user space buffer; input buffering,cs1550-19-P2
+Lecture25 (Part 3),,cs1550-19-P3
+Lecture26 (Part 1),homework; bonus homework; bonus point; operating systems,cs1550-20-P1
+Lecture26 (Part 2),security; security model; integrity model; reference monitor; prevent information; policies; object server; trusted computing,cs1550-20-P2
+Lecture26 (Part 3),locking; file locking; authentication; passwords; password attacks; security,cs1550-20-P3
+Lecture26 (Part 4),algorithm; encryption algorithms; data encryption standard; cracking codes; symmetric,cs1550-20-P4
+Lecture26 (Part 5),digital signature; algorithm; pretty good privacy; hash; authenticate; way hash function,cs1550-20-P5
+Lecture26 (Part 6),passwords; password attacks; sample breakin; systems; hashing; operating systems; match,cs1550-20-P6
+Lecture26 (Part 7),side channel attack; smart card; authentication; biometrics,cs1550-20-P7
+Lecture26 (Part 8),hash,cs1550-20-P8
+Lecture26 (Part 9),virtualization; virtual machine; worm,cs1550-20-P9
+Lecture27 (Part 1),operating systems,cs1550-21-P1
+Lecture3 (Part 1),homework; operating systems; switching; context switches; graphic; race condition prevention,cs1550-22-P1
+Lecture3 (Part 2),semaphore,cs1550-22-P2
+Lecture3 (Part 3),multi core •; spinlocks,cs1550-22-P3
+Lecture4 (Part 1),homework; homework 2; busy waiting; semaphore; operating systems,cs1550-23-P1
+Lecture4 (Part 2),semaphore; queues; critical,cs1550-23-P2
+Lecture5 (Part 1),systems; operating systems,cs1550-24-P1
+Lecture5 (Part 2),,cs1550-24-P2
+Lecture6 (Part 1),systems; homework; fork tracing; operating systems,cs1550-25-P1
+Lecture6 (Part 2),shared buffer,cs1550-25-P2
+Lecture6 (Part 3),sherif khattab,cs1550-25-P3
+Lecture7 (Part 1),homework; operating systems,cs1550-26-P1
+Lecture8 (Part 1),systems; homework; operating systems; semaphore,cs1550-27-P1
+Lecture8 (Part 2),writer process; mutex,cs1550-27-P2
+Lecture9 (Part 1),homework; systems; operating systems; semaphores; reader writer problem,cs1550-28-P1
+Lecture9 (Part 2),deadlock,cs1550-28-P2
+Lecture9 (Part 3),deadlock break,cs1550-28-P3

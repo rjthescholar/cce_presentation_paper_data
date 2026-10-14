@@ -1,0 +1,51 @@
+defense in depth
+error detection
+error correction
+device driver
+device controller
+bus
+device independence
+uniform naming
+error handling
+synchronous transfer
+asynchronous transfer
+interrupt-driven transfer
+buffering
+sharable device
+dedicated device
+user-level I/O software
+device-independent OS software
+interrupt handler
+disk drive
+platter
+surface
+track
+sector
+cylinder
+cylinder group
+read/write head
+actuator
+spindle
+disk request
+disk block
+seek time
+rotational delay
+transfer time
+disk sector
+preamble
+ECC
+error correcting code
+parity
+1-d parity
+2-d parity
+spare sector
+bad-sector remapping
+RAID
+redundant array of inexpensive disks
+strip
+stripe
+RAID 0
+RAID 1
+mirroring
+RAID 4
+RAID 5

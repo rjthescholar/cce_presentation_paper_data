@@ -1,0 +1,11 @@
+linear bounded automaton
+rejection computation history
+computation history
+rejecting computation history
+alba
+accepting computation history
+lba
+reduction via computation histories
+reductions
+elba
+reductions via computation histories

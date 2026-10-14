@@ -1,0 +1,30 @@
+zero detection
+propagation delay
+one-bit adder
+carry in
+read port
+nand
+d flip-flop
+overflow
+flip-flops
+write port
+demux
+ainvert
+datapath
+mux
+carry out
+binvert
+write enable
+2s complement
+d flip-flops
+control
+bit-slicing
+bnegate
+32-bit alu
+nor
+overflow detection
+slt
+alu
+1-bit alu
+select signal
+register file

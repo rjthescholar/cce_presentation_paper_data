@@ -1,0 +1,31 @@
+multivariable polynomial
+integral root
+post correspondence problem
+algorithm
+computational model
+finite automata
+turing machine
+decidability
+reducibility
+time complexity
+modified travel salesman problem
+proof
+assumption
+hypothesis
+logical reasoning
+integer
+even number
+odd number
+implication
+truth table
+proof by contradiction
+logical equivalence
+negation
+rational number
+irrational number
+numerator
+denominator
+irreducible fraction
+coprime integers
+common factor
+canonical form

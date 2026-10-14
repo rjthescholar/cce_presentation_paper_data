@@ -1,0 +1,11 @@
+semaphore
+deadlock detection
+ostrich algorithm
+deadlock prevention
+deadlock
+semaphores
+deadlocks
+resource allocation graphs
+deadlock avoidance
+dining philosophers
+deadlock detection algorithm

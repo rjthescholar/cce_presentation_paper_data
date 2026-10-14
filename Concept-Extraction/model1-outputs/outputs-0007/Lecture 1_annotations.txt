@@ -1,0 +1,19 @@
+difference engine
+analytical engine
+general-purpose computer
+punch cards
+variable cards
+operational cards
+computer program
+ENIAC
+compiler
+Moore's law
+Java
+syntax
+code readability
+virtual machine
+software layers
+applications
+system software
+operating system
+device drivers

@@ -1,0 +1,15 @@
+distance
+page replacement algorithms
+page replacement algorithm
+clock
+fifo
+lru
+optimal
+belady’ s anomaly
+reference string
+stack algorithms
+page fault
+page replacement
+opt
+page faults
+stack algorithm

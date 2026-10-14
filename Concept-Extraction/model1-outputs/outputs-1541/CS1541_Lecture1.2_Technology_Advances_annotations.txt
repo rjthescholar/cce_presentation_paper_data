@@ -1,0 +1,56 @@
+technology advances
+Moore’s law
+transistor miniaturization
+transistor density
+semiconductor industry roadmap
+SIA
+semiconductor industry association
+ITRS
+international technology roadmap for semiconductors
+IRDS
+international roadmap for devices and systems
+technology node
+CPU performance
+response time
+number of cores
+clock speed
+cache size
+execution time
+clock cycle
+clock frequency
+CPI
+cycles per instruction
+IPC
+instructions per cycle
+instructions per program
+ISA
+instruction set architecture
+processor organization
+transistor implementation
+physical layer
+pipelining
+parallel execution
+value prediction
+speculative execution
+memory caching
+transistor speed
+channel length
+capacitance
+supply voltage
+frequency scaling
+TDP
+thermal design power
+CPU power
+activity factor
+Dennard scaling
+MOSFET
+metal oxide silicon field effect transistor
+Vdd
+CPU supply voltage
+Vth
+threshold voltage
+subthreshold leakage
+leakage current
+dynamic power
+leakage power
+dark silicon

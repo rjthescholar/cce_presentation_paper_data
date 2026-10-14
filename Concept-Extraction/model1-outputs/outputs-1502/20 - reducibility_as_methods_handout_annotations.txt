@@ -1,0 +1,18 @@
+turing machine
+language of a turing machine
+method
+language of a method
+method signature
+method argument
+string
+accepted string
+accept
+reject
+infinite loop
+empty string
+ε
+Σ*
+empty language
+∅
+0ⁿ1ⁿ
+{0ⁿ1ⁿ | n ≥ 0}

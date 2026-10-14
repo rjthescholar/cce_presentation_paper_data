@@ -1,0 +1,18 @@
+critical path
+id
+instruction decode
+mem
+if
+single-cycle implementation
+ex
+decoded
+instruction fetch
+execute
+multiplexer
+register writeback
+clock
+multi-cycle implementation
+propagation delay
+decoder
+minimal mips
+wb

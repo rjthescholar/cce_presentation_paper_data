@@ -1,0 +1,31 @@
+for loop
+while loop
+iteration
+array
+multi-dimensional array
+2-D array
+N-D array
+array element
+array indexing
+null
+recursion
+base case
+factorial
+recursive factorial
+object-oriented programming
+OOP
+object
+class
+instance
+field
+method
+static
+static field
+static method
+inter-class relationships
+subclass
+superclass
+ownership
+assembly
+structured programming
+subroutine

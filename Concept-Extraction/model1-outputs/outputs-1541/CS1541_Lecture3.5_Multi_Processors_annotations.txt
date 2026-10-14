@@ -1,0 +1,58 @@
+distributed memory system
+shared memory system
+multiprocessor system
+message passing interface
+MPI
+asynchronous JavaScript and XML
+Ajax
+Pthreads
+POSIX threads
+Java threads
+OpenMP
+shared data
+data race
+nondeterministic result
+mutex
+data replication
+CPU registers
+private cache
+shared cache
+write-back cache
+cache incoherence
+cache coherence
+cache coherence protocol
+memory consistency model
+invalidation
+out-of-order stores
+out-of-order loads
+cache miss
+branch prediction
+sequential consistency
+SC
+write buffer
+instruction queue
+compiler optimization
+synchronization
+MSI
+modified-shared-invalid
+MESI
+modified-exclusive-shared-invalid
+modified state
+shared state
+invalid state
+snooping
+read miss
+write miss
+read hit
+write hit
+BusRead
+BusReadX
+BusInvalidate
+cache controller FSM
+TLB coherence
+TLB
+PTE
+page table entry
+TLB shootdown
+IPI
+inter-processor interrupt

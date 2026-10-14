@@ -1,0 +1,6 @@
+modular operation
+code
+equality
+ascii
+integer division
+modular arithmetic

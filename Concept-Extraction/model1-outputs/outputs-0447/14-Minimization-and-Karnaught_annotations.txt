@@ -1,0 +1,25 @@
+integrated circuit
+IC
+manufacturing yield
+logic minimization
+boolean function
+logical adjacency
+boolean expression
+truth table
+multiplexer
+sum-of-products
+boolean algebra
+idempotent law
+commutative law
+associative law
+distributive law
+De Morgan’s laws
+full adder
+carry-out bit
+gray code
+Karnaugh map
+K-map
+minterm
+XOR
+7 segment LED display
+don’t-care output

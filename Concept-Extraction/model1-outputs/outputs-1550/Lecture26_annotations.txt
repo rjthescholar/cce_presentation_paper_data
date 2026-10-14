@@ -1,0 +1,101 @@
+protection
+security
+access control matrix
+domain
+domain transfer
+domain permissions
+capability
+capability list
+object permissions
+cryptographically protected capability
+access control list
+ACL
+reference monitor
+trusted computing base
+protection commands
+security level
+bell-la padula multilevel security model
+simple security property
+* property
+biba multilevel integrity model
+simple integrity principle
+integrity * property
+covert channel
+file locking
+steganography
+confidentiality
+integrity
+availability
+denial of service
+user authentication
+password attack
+password stealing
+social engineering
+login spoofing
+key logger
+trojan horse
+password file
+password hash
+hashing
+one-way function
+cryptography
+plaintext
+ciphertext
+encryption
+decryption
+encryption key
+decryption key
+secret-key encryption
+symmetric-key encryption
+monoalphabetic substitution
+vigenere cipher
+data encryption standard
+DES
+AES
+blowfish
+brute force
+one-time pad
+public-key cryptography
+public key
+private key
+digital signature
+pretty good privacy
+PGP
+shared key
+buffer overflow
+password guessing
+default password
+password cracking
+offline password cracking
+online password cracking
+salt
+side-channel attack
+magnetic card
+smart card
+biometrics
+virus
+ransomware
+dropper
+virus payload
+polymorphic virus
+integrity checker
+behavioral checker
+antivirus software
+sandboxing
+interpreted code
+signed code
+worm
+internet worm
+virtualization
+virtual machine
+VM
+snapshot
+clone
+templating
+live migration
+cloud computing
+hypervisor
+type 0 hypervisor
+type 1 hypervisor
+type 2 hypervisor
+VMM

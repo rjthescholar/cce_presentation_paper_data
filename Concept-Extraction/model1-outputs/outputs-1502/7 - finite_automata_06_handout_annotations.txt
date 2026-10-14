@@ -1,0 +1,26 @@
+language
+string
+set
+empty language
+finite language
+infinite language
+regular language
+non-regular language
+regular infinite language
+regular expression
+finite state machine
+DFA
+deterministic finite automaton
+state
+start state
+accept state
+loop
+pigeonhole principle
+pumping lemma
+pumping length
+pumping
+string length
+concatenation
+empty string
+substring
+proof by contradiction

@@ -1,0 +1,33 @@
+bottom-up parsing
+top-down parsing
+recursive descent
+hybrid parsing
+expression
+expression grammar
+primary expression
+parenthesized expression
+term
+literal
+identifier
+operator
+binary operator
+unary operator
+postfix operator
+operator precedence
+operator associativity
+left-associative operator
+right-associative operator
+non-associative operator
+order of operations
+parentheses
+left-branching
+right-branching
+recursion
+AST
+operator stack
+operand stack
+syntactic sugar
+desugaring
+semantic analysis
+generic for loop
+iterator

@@ -1,0 +1,47 @@
+variable
+global variable
+value
+address
+memory address
+system memory
+persistent storage
+byte
+word
+half-word
+byte-addressable machine
+register
+CPU
+load
+store
+load-store architecture
+read-modify-write
+MIPS
+ISA
+load word
+lw
+store word
+sw
+load address
+la
+load byte
+lb
+store byte
+sb
+load half-word
+lh
+store half-word
+sh
+unsigned byte load
+lbu
+zero extension
+sign extension
+signed number
+unsigned number
+sign bit
+MSB
+truncation
+endianness
+little-endian
+big-endian
+bi-endian
+.data

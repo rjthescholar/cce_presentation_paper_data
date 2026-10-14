@@ -1,0 +1,18 @@
+exhaustive proof
+non-constructive approach
+proof by contraposition
+counterexample
+non-constructive existence proof
+proof strategy
+direct proof
+proof by contradiction
+proof by counterexample
+forward reasoning
+constructive existence proof
+constructive approach
+proof strategies
+uniqueness
+proof by cases
+existence proof
+reason backwards
+backward reasoning

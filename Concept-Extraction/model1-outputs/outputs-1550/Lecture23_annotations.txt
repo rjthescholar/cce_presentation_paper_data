@@ -1,0 +1,74 @@
+parity
+bit error
+ECC
+disk request time
+seek time
+rotational delay
+transfer time
+disk drive
+head
+sector
+platter
+track
+cylinder
+spindle
+actuator
+page table
+page frame
+
+error detection
+error correction
+defense in depth
+spare sector
+bad sector
+sector remapping
+
+RAID
+redundant array of inexpensive disks
+RAID 0
+RAID 1
+RAID 4
+RAID 5
+striping
+mirroring
+parity rotation
+
+file system dump
+directory
+file
+i-node number
+bitmap
+file system consistency
+lost block
+free list
+duplicate block
+
+caching
+file block cache
+disk cache
+log-structured file system
+LFS
+disk log
+flash file system
+wear leveling
+SSD
+disk block size
+data rate
+disk space efficiency
+
+device driver
+I/O device
+polling
+interrupt
+DMA
+single-bus
+dual-bus
+shared bus
+bandwidth
+memory-mapped I/O
+separate I/O space
+I/O port
+hybrid I/O space
+programmed I/O
+interrupt-driven I/O
+interrupt handler

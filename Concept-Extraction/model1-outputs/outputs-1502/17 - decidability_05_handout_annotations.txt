@@ -1,0 +1,28 @@
+ATM
+complement of ATM
+undecidable language
+decidable language
+recognizable language
+unrecognizable language
+complement of a language
+decider
+TM
+Turing machine
+machine encoding
+diagonalization
+boolean algebra
+ADFA
+ANFA
+AREX
+EDFA
+EQDFA
+DFA
+NFA
+regular expression
+correspondence
+one-to-one correspondence
+onto correspondence
+countable set
+uncountable set
+infinite set
+natural numbers

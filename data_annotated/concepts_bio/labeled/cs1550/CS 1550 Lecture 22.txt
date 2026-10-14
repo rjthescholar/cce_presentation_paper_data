@@ -1,0 +1,41 @@
+raid 4
+rotation time
+device independence
+uniform naming
+raids
+cylinder
+redundant array of inexpensive disks
+2-d parity
+error handling
+transfer time
+stripe
+ecc
+controllers
+preamble
+device drivers
+head
+error correcting code
+parity
+heads
+track
+actuator
+raid 5
+device driver
+device controllers
+sector
+seek time
+surfaces
+raid 0
+buffering
+platters
+rotational delay
+cylinders
+1-d parity
+tracks
+sectors
+strip
+raid 1
+defense in depth
+spindle
+platter
+controller

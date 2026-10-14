@@ -1,0 +1,22 @@
+decidability
+decidable language
+language
+string
+decider
+Turing machine
+TM
+deterministic finite automaton
+DFA
+nondeterministic finite automaton
+NFA
+regular expression
+accept state
+reject state
+membership problem
+string representation
+ADFA
+ANFA
+AREX
+DFA simulation
+NFA-to-DFA conversion
+regular-expression-to-NFA conversion

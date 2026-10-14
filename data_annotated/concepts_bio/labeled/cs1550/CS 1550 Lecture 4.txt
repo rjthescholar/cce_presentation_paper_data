@@ -1,0 +1,8 @@
+mutex
+starvation
+priority inversion
+semaphores
+semaphore
+fork
+mutual exclusion
+deadlock

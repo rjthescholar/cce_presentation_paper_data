@@ -1,0 +1,51 @@
+base-10
+lsb
+decimal
+gigabyte
+binary
+megabit
+nybble
+exabyte
+bit
+octal
+hex digit
+byte
+numbers and bases
+tebibyte
+bit patterns
+binary digits
+exbibyte
+0x
+msb
+bytes
+unsigned integer
+kilobyte
+positional number systems
+base-2
+utf-16
+word
+binary digit
+bits
+hex
+nibble
+megabyte
+base-8
+dword
+gibibyte
+mebibyte
+number representation
+n-bit number
+unicode
+signed integer
+pattern of bits
+base-16
+word size
+double word
+numeric bases
+mbps
+kibibyte
+terabyte
+hexadecimal
+powers of two
+ascii
+range of numbers

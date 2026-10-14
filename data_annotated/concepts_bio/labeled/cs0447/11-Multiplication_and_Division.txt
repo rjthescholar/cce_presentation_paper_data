@@ -1,0 +1,35 @@
+mfhi
+multiplier
+partial products
+srt division
+divide-and-conquer
+multiplication
+product
+dividend
+modulo
+divisor
+arithmetic right shift
+lo
+hi
+pseudo-op
+division
+repeated subtraction
+truncated division
+multiplicand
+quotient
+mult
+remainder
+mul
+masking
+repeated addition
+and
+mflo
+foil
+flooring division
+signed multiplication
+shifting
+commutativity
+signed division
+signed numbers
+o (log (n))
+polynomials

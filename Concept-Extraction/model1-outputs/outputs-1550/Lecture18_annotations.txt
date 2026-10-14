@@ -1,0 +1,29 @@
+page replacement
+page replacement algorithm
+FIFO
+CLOCK
+LRU
+OPT
+local allocation
+global allocation
+page eviction
+page frame
+page fault
+page fault rate
+thrashing
+degree of multiprogramming
+swapping to disk
+backing up an instruction
+instruction restart
+minimum memory allocation
+disk write
+LRU stack algorithm
+page replacement policy
+page replacement mechanism
+external pager
+fault handler
+MMU handler
+page table
+page table entry
+PTE
+page size

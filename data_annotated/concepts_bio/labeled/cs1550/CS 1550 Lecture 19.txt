@@ -1,0 +1,30 @@
+hashing
+virtual page number
+page frame number
+hit ratio
+frame number
+hardware tlb replacement
+pte
+eat
+logical address
+effective access time
+translation lookaside buffer
+two-level page tables
+page offset
+page number
+inverted page table
+page table
+physical addresses
+logical page number
+page tables
+address translation
+tlb misses
+page size
+physical address
+software tlb replacement
+tlb
+multi-level page tables
+page table entries
+ptes
+logical addresses
+two-level page table

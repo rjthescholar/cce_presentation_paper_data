@@ -1,0 +1,47 @@
+pipeline hazard
+structural hazard
+resource contention
+stall
+hardware duplication
+instruction memory
+data memory
+instruction cache
+data cache
+i-cache
+d-cache
+ALU
+adder
+memory port
+register read port
+register write port
+register file
+CPI
+cycles per instruction
+IPC
+superscalar processor
+critical path
+data hazard
+data dependency
+data forwarding
+forwarding unit
+use-after-load hazard
+compiler reordering
+static scheduling
+dynamic scheduling
+pointer analysis
+memory wall
+power wall
+control hazard
+branch instruction
+branch direction
+pipeline flush
+pipeline flush penalty
+pipeline depth
+hazard detection unit
+HDU
+no-op
+delay slot
+control dependency
+branch comparison
+comparator
+forwarding path

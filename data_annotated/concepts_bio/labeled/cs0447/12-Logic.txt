@@ -1,0 +1,22 @@
+nands
+or gate
+gate
+mosfet transistors
+xor
+exclusive or
+not gates
+or
+and gate
+transistors
+not
+logic
+mosfets
+nand gate
+not gate
+boolean logic
+xor gate
+transistor
+and
+gates
+nor
+nand

@@ -1,0 +1,13 @@
+banker’ s algorithm
+deadlock detection algorithm
+rendezvous
+deadlock prevention
+semaphores
+sleepy barbers
+customer processes
+deadlock
+worker processes
+worker process
+customer process
+deadlocks
+deadlock avoidance

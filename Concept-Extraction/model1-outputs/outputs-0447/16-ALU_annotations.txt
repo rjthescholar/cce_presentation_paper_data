@@ -1,0 +1,42 @@
+register
+register file
+32-bit register
+D flip-flop
+read port
+write port
+write enable
+select signal
+clock signal
+MUX
+demux
+control
+control signal
+datapath
+CPU
+CISC
+RISC
+ISA
+MIPS
+ALU
+arithmetic and logic unit
+one-bit adder
+one-bit ALU
+32-bit ALU
+carry in
+carry out
+two’s complement
+addition
+subtraction
+AND
+OR
+NOT
+NAND
+NOR
+boolean algebra
+overflow detection
+propagation delay
+SLT
+set if less than
+zero detection
+MSB
+bit-slicing

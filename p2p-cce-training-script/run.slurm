@@ -1,0 +1,24 @@
+#!/bin/bash
+#SBATCH --job-name=p2pselftraining
+#SBATCH --nodes=1
+#SBATCH --time=5:00:00
+#SBATCH --ntasks-per-node=1
+#SBATCH --gres=gpu:4
+#SBATCH --cluster=gpu
+#SBATCH --partition=a100
+#SBATCH --mail-user=rek94@pitt.edu    
+#SBATCH --mail-type=END,FAIL 
+
+## SBATCH --constraint=40g
+
+module purge
+module load gcc/8.2.0
+module load python/ondemand-jupyter-python3.11
+
+source activate /ix/dmosse/rek94/envs/pytorch_gpu
+
+#python3 /ihome/dmosse/rek94/p2p-cce-training-script/main.py --train-path /ihome/dmosse/rek94/data_annotated/labeled_data_bio/train_set --val-path /ihome/dmosse/rek94/data_annotated/labeled_data_bio/dev_set --test-path /ihome/dmosse/rek94/data_annotated/labeled_data_bio/test_set \
+#--self-label-1-path /ihome/dmosse/rek94/data_annotated/labeled_data_bio/self_training_1 --self-label-2-path /ihome/dmosse/rek94/data_annotated/labeled_data_bio/self_training_2 -o /ix/dmosse/rek94/models > /ihome/dmosse/rek94/results.txt
+
+python3 -u /ihome/dmosse/rek94/p2p-cce-training-script/main.py --labeled-path /ihome/dmosse/rek94/data_annotated/labeled_data_bio/labeled --val-path /ihome/dmosse/rek94/data_annotated/labeled_data_bio/dev_set \
+ -o /ix/dmosse/rek94/models > /ihome/dmosse/rek94/results.txt

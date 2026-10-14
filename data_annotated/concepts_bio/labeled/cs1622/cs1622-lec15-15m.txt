@@ -1,0 +1,51 @@
+reference type variables
+prefixed
+constructors
+struct
+virtual methods
+tuple
+syntactic sugar
+struct padding
+offsets
+virtual method calls
+padding
+prefixed representation
+static dispatch
+padded
+record type
+virtual method
+offset
+structs
+structured
+reference
+heterogeneous
+value types
+runtime error
+dynamic dispatch
+tuples
+nominal identity
+oop
+method calls
+object-oriented programming
+structural identity
+value
+method indexes
+memory allocator
+data inheritance
+virtual method tables
+methods
+run-time type identification
+constructor
+data layout
+value type variables
+rtti
+struct runtime representation
+types
+method call
+prefixing
+reference types
+indirect function call
+vtable
+method inheritance
+bottom type
+vtables

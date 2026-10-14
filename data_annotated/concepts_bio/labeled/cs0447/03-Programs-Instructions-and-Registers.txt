@@ -1,0 +1,68 @@
+s0
+x86-64
+s7
+instruction
+program
+cognitive load
+hlls
+zero
+cpus
+risc
+add
+v0
+immediate
+t9
+instructions
+machine language
+sub
+cpu
+compiler
+registers
+programs
+pc
+asm
+processor
+s4
+load immediate
+saved registers
+k1
+amd64
+memory
+s1
+t0
+temporary registers
+isa
+control
+isas
+cisc
+x86
+v1
+a3
+k0
+li
+fp
+reduced instruction set computer
+register
+datapath
+gp
+s2
+persistent storage
+machine language instructions
+t1
+assembly language
+instruction set architecture
+s3
+mul
+hi
+mips
+sp
+ra
+move
+lo
+high-level languages
+div
+complex instruction set computer
+turing machine
+t7
+t8
+a0

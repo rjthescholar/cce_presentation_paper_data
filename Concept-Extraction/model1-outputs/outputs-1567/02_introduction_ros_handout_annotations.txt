@@ -1,0 +1,27 @@
+ROS
+robot operating system
+meta-operating system
+OS
+operating system
+ROS core
+ROS master
+roscore
+rosout
+RPC
+remote procedure call
+ROS node
+ROS topic
+ROS message
+publisher
+subscriber
+publish/subscribe semantics
+strongly typed topic
+hardware abstraction
+distributed communication
+camera node
+cmvision node
+control node
+kobuki node
+image topic
+blobs topic
+velocity topic

@@ -1,0 +1,42 @@
+double
+exponent
+sign-magnitude
+biased notation
+infinity
+nan
+float
+floating point
+ieee 754
+fractional part
+32-bit float format
+binary point
+fraction field
+exponent field
+single-precision
+normalized scientific notation
+significand
+sign-bit
+denormalized number
+not a number
+normalized representation
+fractional numbers
+integer part
+half-precision
+decimal point
+fractional binary
+biased representation
+bias constant
+sign
+double-precision
+floating-point arithmetic
+fraction
+zero
+fixed-point representation
+biased exponent
+multiply floating point numbers
+divide floating point numbers
+scientific notation
+floating-point number representation
+adding floating point numbers
+binary scientific notation
+integer numbers

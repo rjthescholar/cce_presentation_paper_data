@@ -1,0 +1,85 @@
+logic components
+NOT gate
+AND gate
+OR gate
+XOR gate
+NAND gate
+transistor
+decoder
+binary decoder
+truth table
+multiplexer
+MUX
+ALU
+control signal
+clock signal
+rising edge
+register
+flip-flop
+logic circuit
+propagation delay
+critical path
+clock speed
+
+MIPS
+ISA
+MIPS ISA
+general-purpose register
+register usage convention
+RISC
+reduced instruction set computer
+load-store architecture
+memory
+byte
+halfword
+word
+big-endian
+address alignment
+load instruction
+store instruction
+jump instruction
+branch instruction
+instruction execution phase
+IF
+instruction fetch
+ID
+instruction decode
+EX
+execute
+MEM
+memory phase
+WB
+register writeback
+
+single-cycle implementation
+multi-cycle implementation
+cycle time
+instruction mix
+average instruction execution time
+internal latch
+pipeline
+instruction memory
+data memory
+register file
+instruction decoder
+PC
+CPU
+register write
+RegDataSrc
+RegWrite
+ALUSrc
+ALUOp
+MemWrite
+PCSrc
+immediate
+branch target
+jump target
+lw
+sw
+add
+sub
+and
+or
+slt
+beq
+j

@@ -1,0 +1,61 @@
+positional number system
+digit
+place value
+most significant digit
+least significant digit
+number representation
+numeric base
+decimal
+binary
+hexadecimal
+hex
+octal
+bit
+binary digit
+n-bit number
+byte
+nibble
+nybble
+word
+word size
+double word
+dword
+CPU
+MSB
+most significant bit
+LSB
+least significant bit
+binary-to-decimal conversion
+decimal-to-binary conversion
+binary-to-hexadecimal conversion
+hexadecimal digit
+octal digit
+powers of two
+kilobyte
+kB
+kibibyte
+kiB
+megabyte
+MB
+mebibyte
+MiB
+gigabyte
+GB
+gibibyte
+GiB
+terabyte
+TB
+tebibyte
+TiB
+exabyte
+EB
+exbibyte
+EiB
+bit pattern
+interpretation of bit patterns
+character encoding
+ASCII
+UTF-16
+Unicode
+signed integer
+unsigned integer

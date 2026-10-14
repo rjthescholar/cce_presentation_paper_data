@@ -1,0 +1,65 @@
+CPU scheduling
+multilevel feedback scheduling
+MFS
+shortest job first
+SJF
+exponential averaging
+CPU burst
+time quantum
+time slice
+memory management
+memory hierarchy
+cache
+L1 cache
+L2 cache
+L3 cache
+static random-access memory
+SRAM
+dynamic random-access memory
+DRAM
+main memory
+disk
+non-volatile memory
+memory partition
+memory protection
+multiprogramming
+degree of multiprogramming
+CPU utilization
+I/O wait
+I/O-bound process
+basic memory management
+fixed memory partition
+input queue
+base register
+limit register
+kernel mode
+logical address
+physical address
+virtual address
+address translation
+memory management unit
+MMU
+virtual memory
+VM
+physical memory
+address space
+paging
+page
+virtual page
+physical page
+virtual page number
+physical page number
+page table
+page table entry
+PTE
+valid bit
+page frame number
+referenced bit
+dirty bit
+protection information
+page table base register
+PTBR
+page table length register
+PTLR
+translation lookaside buffer
+TLB

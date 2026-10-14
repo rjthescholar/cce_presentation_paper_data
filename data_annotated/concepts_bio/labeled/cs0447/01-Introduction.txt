@@ -1,0 +1,61 @@
+memory stored program
+universal automatic computer
+cpus
+hexadecimal
+registers
+iot
+memory
+supercomputer
+high-level languages
+machine language
+microcontrollers
+octal
+electronic numerical integrator and computer
+assembly language
+assembly
+processor
+internet of things
+eniac
+jacquard machine
+peripherals
+input/output devices
+server
+mips
+decimal
+embedded systems
+edvac
+univac
+transistors
+servers
+microprocessor
+data representation
+moore’ s law
+hardware-software interface
+supercomputers
+logic design
+raspberry pi
+network
+mainframes
+program execution
+binary
+computer organization
+analytical engine
+logical operations
+electronic delay storage automatic calculator
+cpu
+differential engine
+data representations
+edsac
+transistor
+machine code
+datapath
+number bases
+integrated circuit
+electronic discrete variable automatic computer
+hollerith electric tabulating system
+control
+isa
+high-level language
+persistent storage
+antikythera mechanism
+instruction set architecture

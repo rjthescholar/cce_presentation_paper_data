@@ -1,0 +1,67 @@
+cache consistency
+write-through
+write-back
+cache block
+cache hit
+cache miss
+read miss
+write hit
+write miss
+no write allocate
+write allocate
+write buffer
+pending write
+memory bandwidth
+dirty block
+clean block
+dirty bit
+valid bit
+cache block metadata
+block eviction
+victim cache
+store latency
+AMAT
+hit time
+miss rate
+miss penalty
+blocking cache
+non-blocking cache
+hit under miss
+miss under miss
+memory level parallelism
+MLP
+instruction level parallelism
+ILP
+miss status handling register
+MSHR
+pending request
+out-of-order execution
+split cache
+unified cache
+i-cache
+d-cache
+structural hazard
+working set
+private cache
+shared cache
+multi-core system
+cache banking
+bank
+cache block interleaving
+read/write port
+prefetching
+compiler-driven prefetching
+hardware-driven prefetching
+prefetch instruction
+prefetcher
+sequential access
+reverse sequential access
+strided sequential access
+stride detection
+stride detector
+linked-list traversal
+pointer chasing
+spatial locality
+temporal locality
+cold miss
+cache pollution

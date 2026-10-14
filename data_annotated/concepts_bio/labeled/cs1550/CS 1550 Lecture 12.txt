@@ -1,0 +1,47 @@
+nonpreemptive
+shortest-job-first
+shortest process next
+selection function
+long jobs
+priority scheduling
+shortest job first
+non-preemptive
+pre-emptive
+decision mode
+time quantum
+i/o-bound
+clock interrupt
+starvation
+i/o bound
+dynamic priorities
+round robin
+first come first served
+ready queues
+multilevel feedback queue scheduling
+cpu bursts
+dispatcher
+throughput
+spn
+first-come,first-served
+multilevel queue scheduling
+preemptive
+priority
+short-term scheduler
+cpu-bound
+fcfs
+cpu burst
+rr
+convoy effect
+response time
+ready queue
+cpu bound
+turnaround time
+cpu scheduling
+service time
+sjf
+time slice
+i/o burst
+priorities
+cpu-i/o cycle
+quantum
+round-robin

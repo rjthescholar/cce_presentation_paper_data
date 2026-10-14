@@ -1,0 +1,24 @@
+title,keywords,name
+lec01,homework; submission homework; recitation; discrete structures; web page; limit; tactics,cs0441-1
+lec02,logic; video games; negation; propositional logic; negation examples; proof propositional logic,cs0441-2
+lec03,puzzles; equivalence; propositional equivalences; logic puzzles; support revisited; logically another,cs0441-3
+lec04,propositional logic; quantifiers propositional logic; logical reasoning; syllogisms,cs0441-4
+lec05,nested quantifiers; nested quantifiers logic; prolog; security example,cs0441-5
+lec06,formally; inference l logical equivalences; inference; ground truths; logically valid ways; formal proof; informal proof,cs0441-6
+lec07,proof; proof strategies; proof techniques; applicable proof methods; direct proof; contraposition,cs0441-7
+lec08,set theory; builder notation,cs0441-8
+lec09,logical equivalences; logical; set builder; complex set definitions; associative; logical operations; logical equivalences functions; specific functions; distributive,cs0441-9
+lec10,cardinality,cs0441-10
+lec11,divisibility; division algorithm; divisibility property; number theory; mathematics; modular arithmetic; positive integers; positive; factor; materials,cs0441-11
+lec12,composite; composite number,cs0441-12
+lec13,mathematical induction; inductive step; kth step; base case; discrete structures,cs0441-13
+lec14,induction; mathematical induction; strong induction; materials; types,cs0441-14
+lec15,recursion; algorithm; induction; structural induction; types; factorial function; learn; strong induction; data structures; recursive objects,cs0441-15
+lec16,combinatorics; arrangements; product rule; discrete objects; algorithm complexity; complete; task; security; computer systems,cs0441-16
+lec17,pigeonhole principle; inclusion exclusion principle; the pigeonhole principle; set theory; complete,cs0441-17
+lec18,permutations; r permutation; combinations; race,cs0441-18
+lec19,permutations; r permutations; repetition; discrete structures; ordered collections,cs0441-19
+lec20,combinatorics; genetics algorithm; probability; count event space; discrete probability; risk assessment; materials; structures; likelihood,cs0441-20
+lec21,mathematical induction; games; probability distribution,cs0441-21
+lec22,conditional probability; positive; bayes,cs0441-22
+lec23,convergent; probability; distribution; definition,cs0441-23

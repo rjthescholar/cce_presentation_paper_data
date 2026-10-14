@@ -1,0 +1,63 @@
+multicycle design
+single-cycle design
+multicycle datapath
+single-cycle datapath
+multicycle control
+clock cycle
+clock cycle time
+clock speed
+instruction execution phases
+instruction fetch
+instruction decode
+instruction execution
+memory access
+write back
+datapath
+functional unit
+register
+register file
+instruction memory
+data memory
+shared memory
+multiplexer
+MUX
+ALU
+PC
+control signal
+memread
+memwrite
+alusela
+alus elb
+aluop
+regdst
+regwrite
+memtoreg
+iord
+irwrite
+pcwrite
+pcwritecond
+pcsource
+opcode
+combinational circuit
+sequential circuit
+state machine
+finite state machine
+CPI
+cycles per instruction
+IPC
+instructions per cycle
+average CPI
+instruction mix
+instruction count
+performance equation
+latency
+response time
+throughput
+multi-issue CPU
+multi-core CPU
+R-type instruction
+I-type instruction
+J-type instruction
+branch offset
+effective address
+control flow

@@ -1,0 +1,63 @@
+superscalar processor
+in-order superscalar
+out-of-order superscalar
+wide-issue processor
+dynamic scheduling
+instruction level parallelism
+ILP
+data dependency graph
+instruction window
+scheduling window
+instruction queue
+instruction scheduler
+instruction dispatch
+instruction issue
+instruction reordering
+instruction hazard
+structural hazard
+data hazard
+control hazard
+RAW dependency
+WAR dependency
+WAW dependency
+register renaming
+register renamer
+register alias table
+RAT
+architectural register
+physical register
+physical register file
+architectural register file
+single assignment rule
+instructions per cycle
+IPC
+branch prediction
+branch misprediction
+precise exception
+architectural state
+exception handler
+software exception
+trap
+hardware exception
+interrupt
+page fault
+system call
+in-order commit
+retirement register file
+RRF
+store queue
+load queue
+load/store queue
+memory renaming
+memory dependency
+RAW violation
+instruction flush
+physical register recycling
+cycle time
+energy efficiency
+VLIW
+ARM Cortex-A8
+AMD Opteron X4
+Intel Core i7
+cycles per instruction
+CPI

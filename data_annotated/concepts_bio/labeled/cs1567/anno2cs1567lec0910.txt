@@ -1,0 +1,12 @@
+gaussian normal distribution
+integrated web camera
+yuv format
+gscam
+cmvision
+web cam
+yuv
+filter
+gaussian blur
+gscam node
+rgb
+rgb format

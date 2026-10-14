@@ -1,0 +1,25 @@
+API
+scanner
+input stream
+console input
+System.in
+object declaration
+constructor
+new keyword
+primitive type
+string
+cannot find symbol error
+package
+import
+function
+function call
+static function call
+non-static function call
+function components
+function header
+function body
+visibility type
+static
+return type
+function name
+parameters

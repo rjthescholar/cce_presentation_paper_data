@@ -1,0 +1,19 @@
+array
+array element
+array element address calculation
+element size
+memory address
+register
+word
+half-word
+byte
+endianness
+alignment
+string
+zero terminator
+unterminated string
+pointer
+load address
+la
+load instruction
+store instruction

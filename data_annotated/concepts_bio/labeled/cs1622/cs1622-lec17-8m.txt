@@ -1,0 +1,27 @@
+strength reduction
+cfg
+ssa
+single assignment form
+common subexpression elimination
+interprocedural optimization
+peephole optimizations
+global optimizations
+bbs
+dce
+ir
+cse
+dead store elimination
+constant folding
+global optimization
+copy propagation
+single static assignment
+local optimization
+function inlining
+interprocedural optimizations
+optimization
+local optimizations
+dead store
+algebraic simplification
+single static assignment form
+dead code elimination
+optimizations

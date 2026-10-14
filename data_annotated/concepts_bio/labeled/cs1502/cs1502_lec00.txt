@@ -1,0 +1,12 @@
+turing machine
+integers
+proof by contradiction
+proofs
+rational number
+irrational number
+odd
+proof
+finite automata
+integer
+even
+post correspondence problem

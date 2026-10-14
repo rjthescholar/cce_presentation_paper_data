@@ -1,0 +1,44 @@
+type
+valid values
+valid operations
+type theory
+type system
+type error
+type safety
+progress
+preservation
+undefined behavior
+UB
+decidability
+type checking
+halting problem
+primitive types
+problem domain
+domain-specific languages
+DSL
+static typing
+dynamic typing
+subtyping
+virtual methods
+existential polymorphism
+type coercion
+type conversion
+implicit conversion
+strong typing
+weak typing
+type inference
+term
+expression
+inference rule
+axiomatic rule
+type context
+name resolution
+symbol table
+function type
+type constructor
+return type
+higher-order function
+statement
+AST
+depth-first traversal
+type equality

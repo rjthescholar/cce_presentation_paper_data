@@ -1,0 +1,12 @@
+readers and writers problem
+reader process
+writer process
+semaphore
+semaphore-based solution
+mutex
+condition variables
+shared variables
+database queries
+solution tracing
+reader events
+writer events

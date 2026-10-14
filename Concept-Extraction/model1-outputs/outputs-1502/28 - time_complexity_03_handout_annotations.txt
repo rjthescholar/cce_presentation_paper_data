@@ -1,0 +1,31 @@
+Hamiltonian path
+HAMPATH
+directed graph
+verifier
+polynomial time verifier
+polynomial verifiability
+certificate
+proof of membership
+COMPOSITES
+factor
+NP
+nondeterministic polynomial time
+P
+nondeterministic computation
+NFA
+nondeterministic finite automaton
+NTM
+nondeterministic Turing machine
+TM
+Turing machine
+brute-force algorithm
+polynomial time
+exponential time
+computation branch
+NTIME
+CLIQUE
+clique
+k-clique
+undirected graph
+SUBSET-SUM
+multiset

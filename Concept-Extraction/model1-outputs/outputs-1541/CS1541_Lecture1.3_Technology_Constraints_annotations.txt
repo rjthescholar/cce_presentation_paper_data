@@ -1,0 +1,54 @@
+technology constraints
+power wall
+thermal design power
+TDP
+dynamic power
+leakage power
+static power
+transistor scaling
+Moore’s law
+capacitance
+activity
+clock gating
+power gating
+supply voltage
+frequency
+dynamic voltage frequency scaling
+DVFS
+transistor speed
+processor power management
+advanced configuration and power interface
+ACPI
+operating system
+OS
+system firmware
+multi-cores
+GPUs
+caches
+memory wall
+memory latency
+memory bandwidth
+DRAM
+caching
+3D-stacked memory
+through silicon vias
+TSVs
+variability
+transistor speed variation
+cycle time
+logic path
+chip yield
+wafer yield
+product binning
+limited pipelining
+Dennard scaling
+execution time
+pipelining
+superscalars
+single instruction multiple data
+SIMD
+floating point operations per second
+FLOPS
+energy efficiency
+reliability
+security

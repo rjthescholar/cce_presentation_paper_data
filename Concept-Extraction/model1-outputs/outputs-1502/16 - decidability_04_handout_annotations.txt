@@ -1,0 +1,22 @@
+real number
+decimal representation
+set of real numbers
+countable set
+uncountable set
+correspondence
+one-to-one correspondence
+onto correspondence
+proof by contradiction
+diagonalization
+Σ∗
+string
+infinite binary sequence
+set of all infinite binary sequences
+turing machine
+TM
+turing machine encoding
+language
+set of all languages
+same size
+dictionary order
+turing-recognizable language

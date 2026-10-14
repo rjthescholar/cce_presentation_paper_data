@@ -1,0 +1,67 @@
+warp scheduler
+scatter
+cudafree
+block
+vector instructions
+sps
+rop
+sp
+warps
+gpus
+thread
+gather-
+lanes
+graphical processing unit
+tpc
+cudamalloc
+simd architectures
+special function unit
+kernel
+lane
+simd processor
+thread block
+block index
+blas
+mac
+tlp
+sms
+graphical processing units
+loop tiling
+blocks
+vector registers
+pes
+gpu kernel
+warp scheduling
+shared memory
+warp schedulers
+gather
+raster operations pipeline
+cudamemset
+cudamemcpy
+gpu
+gather-scatter
+threads
+pe
+multiply accumulate
+streaming multi-processor
+sm
+texture cluster processing cluster
+single instruction multiple data
+streaming processor
+simd
+basic linear algebra subprograms
+sfu
+texture processing
+streaming multiprocessor
+gpu thread
+warp
+threads blockidx
+processing element
+cuda
+thread blocks
+thread level parallelism
+arithmetic intensity
+threadidx
+thread-level-parallelism
+streaming multi-processors
+blockidx

@@ -1,0 +1,40 @@
+OOP
+class
+class components
+class-level variables
+instance variables
+methods
+constructor
+inter-class relationships
+subclass
+superclass
+ownership
+object class
+toString()
+string representation
+functional responsibility
+state
+scanner
+scanner buffering quirk
+token
+newline character
+nextLine()
+reading
+reader
+InputStream
+InputStreamReader
+BufferedReader
+exception
+throwing an exception
+catching an exception
+checked exception
+unchecked exception
+IOException
+ArrayIndexOutOfBoundsException
+try block
+catch block
+scope
+parsing input
+primitive types
+Integer.parseInt()
+NumberFormatException

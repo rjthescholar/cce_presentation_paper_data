@@ -1,0 +1,16 @@
+random variable
+sample space
+outcome
+distribution of a random variable
+probability
+expected value
+expectation
+linearity of expected value
+Bernoulli trial
+independent Bernoulli trials
+expected number of successes
+variance
+standard deviation
+Bernoulli distribution
+variance of a Bernoulli distribution
+variance of n Bernoulli trials

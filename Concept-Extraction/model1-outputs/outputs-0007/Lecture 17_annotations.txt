@@ -1,0 +1,27 @@
+class
+class-level variable
+instance variable
+method
+constructor
+inter-class relationship
+subclass
+superclass
+subtype
+inheritance
+field
+protected access
+extends
+super
+superclass constructor
+overloaded constructor
+method overriding
+ownership
+property
+problem modeling
+noun identification
+coalescing
+out-of-scope noun
+simple property
+instance
+primitive type
+service quote

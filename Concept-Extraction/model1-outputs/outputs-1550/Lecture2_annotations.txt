@@ -1,0 +1,30 @@
+race condition
+cooperating processes
+shared memory
+atomic operation
+context switch
+process control block
+PCB
+task control block
+process state
+program counter
+CPU registers
+CPU scheduling information
+memory-management information
+accounting information
+I/O status information
+task_struct
+process table
+process context
+context-switch overhead
+swtch routine
+critical region
+critical section
+mutual exclusion
+turn-based solution
+spinlock
+semaphore
+monitor
+test and set
+atomic swap
+interrupts

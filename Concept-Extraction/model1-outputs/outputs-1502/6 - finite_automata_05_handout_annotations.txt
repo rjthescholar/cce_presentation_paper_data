@@ -1,0 +1,21 @@
+regular language
+regular expression
+finite-state machine
+finite automaton
+DFA
+NFA
+GNFA
+generalized nondeterministic finite automaton
+language recognized by a machine
+start state
+accept state
+transition
+transition label
+ε arrow
+union of regular expressions
+converting a DFA to a GNFA
+converting a GNFA to a regular expression
+reducing the number of states of a GNFA
+equivalence of regular languages and regular expressions
+algorithm
+nonregular language

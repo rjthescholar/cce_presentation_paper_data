@@ -1,0 +1,21 @@
+array
+array element
+array length
+while loop
+for loop
+loop counter
+loop condition
+counter increment
+iteration
+multidimensional array
+1-D array
+one-dimensional array
+2-D array
+two-dimensional array
+N-D array
+n-dimensional array
+row
+column
+row length
+inner for loop
+outer for loop

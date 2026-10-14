@@ -1,0 +1,24 @@
+spill
+join function
+register interference graph
+transfer function
+liveness
+allocate registers
+k-colorable
+rig
+in-state
+live
+bit vector problems
+backwards analysis
+r-colorable
+function inlining
+register allocation
+register
+out-state
+spilling
+chromatic number
+k-colorability
+register pressure
+graph coloring
+liveness algorithm
+backwards analyses

@@ -1,0 +1,61 @@
+data representation
+number bases
+binary
+decimal
+octal
+hexadecimal
+logical operations
+assembly language
+program execution
+logic design
+circuits
+hardware-software interface
+ISA
+instruction set architecture
+CPU
+computer hardware
+high-level language
+machine language
+machine code
+MIPS
+compiler optimization
+embedded systems
+microcontrollers
+consumer-grade computers
+servers
+mainframes
+supercomputers
+multitasking operating systems
+registers
+memory
+persistent storage
+processor
+datapath
+control
+input/output devices
+network
+antikythera mechanism
+jacquard machine
+perforated cards
+differential engine
+analytical engine
+hollerith electric tabulating system
+model K
+complex number computer
+ABC
+atanasoff-berry computer
+ENIAC
+electronic numerical integrator and computer
+EDVAC
+electronic discrete variable automatic computer
+memory stored program
+EDSAC
+electronic delay storage automatic calculator
+UNIVAC
+universal automatic computer
+transistor
+integrated circuit
+microprocessor
+moore’s law
+IoT
+internet of things

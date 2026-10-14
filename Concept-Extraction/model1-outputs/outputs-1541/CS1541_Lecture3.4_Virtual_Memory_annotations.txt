@@ -1,0 +1,45 @@
+virtualization
+virtual memory
+physical memory
+disk storage
+swap space
+caching
+cache block
+spatial locality
+fully associative cache
+block replacement
+LRU
+write-back
+write-through
+page
+page fault
+page swapping
+virtual address
+physical address
+address translation
+virtual page number
+physical page number
+page offset
+page table
+hierarchical page table
+inverted page table
+page table lookup
+page table walking
+page table walker
+page table entry
+PTE
+translation lookaside buffer
+TLB
+TLB hit
+TLB miss
+associative search
+hashing
+conflict miss
+valid bit
+present bit
+dirty block
+protection
+paging
+page fault handler
+memory access
+memory access hierarchy

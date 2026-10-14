@@ -1,0 +1,22 @@
+logic puzzle
+proposition
+compound proposition
+truth value
+tautology
+contradiction
+contingency
+propositional equivalence
+logical equivalence
+truth table
+negation
+direct manipulation of compound propositions
+DeMorgan’s laws
+identity laws
+domination laws
+idempotent laws
+double negation law
+commutative laws
+associative laws
+distributive laws
+absorption laws
+negation laws

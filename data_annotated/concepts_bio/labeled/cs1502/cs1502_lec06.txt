@@ -1,0 +1,19 @@
+finite-state machines
+regular language
+start state
+accept states
+theorem 1.54
+finite-state machine
+regular languages
+nfa
+nonregular languages
+dfa
+finite automata
+generalized nondeterministic finite automaton
+algorithm
+accept state
+finite automaton
+gnfa
+regular expressions
+algorithms
+regular expression

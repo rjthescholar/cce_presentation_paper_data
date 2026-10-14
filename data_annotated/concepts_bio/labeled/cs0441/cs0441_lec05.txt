@@ -1,0 +1,10 @@
+commutative law
+rules
+associative law
+facts
+queries
+logic programming
+query
+prolog
+nested quantifiers
+datalog

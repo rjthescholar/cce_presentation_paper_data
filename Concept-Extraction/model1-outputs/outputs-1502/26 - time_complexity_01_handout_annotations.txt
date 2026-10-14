@@ -1,0 +1,27 @@
+algorithm
+time complexity
+running time
+input length
+asymptotic analysis
+highest-order term
+big-O notation
+small-o notation
+upper bound
+asymptotic upper bound
+polynomial bounds
+exponential bounds
+algorithm analysis
+time complexity class
+TIME(t(n))
+TM
+turing machine
+deterministic turing machine
+nondeterministic turing machine
+NTM
+single-tape turing machine
+multitape turing machine
+two-tape turing machine
+simulation
+computation tree
+computation branch
+breadth-first search

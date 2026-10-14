@@ -1,0 +1,25 @@
+structural hazards
+law of diminishing returns
+cpu time
+stall
+control hazards
+average cpi
+pipelined
+cpi
+multi-cycle cpu
+pipeline
+forwarding
+branch predictors
+data hazards
+branch predictor
+throughput
+cycles per instruction
+average instruction cpi
+stalls
+pipelining
+nop
+latency
+harvard architecture
+instruction mix
+pipeline hazards
+speedup

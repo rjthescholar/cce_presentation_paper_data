@@ -1,0 +1,21 @@
+compiler reordering
+data forwarded
+i-cache
+reorder
+delay slot
+ports
+port
+data dependencies
+d-cache
+static scheduling
+delay slots
+data memory
+data forwarding
+dependencies
+reordering
+data caches
+dynamic scheduling
+instruction memory
+use-after-load
+reordered
+forwarding unit

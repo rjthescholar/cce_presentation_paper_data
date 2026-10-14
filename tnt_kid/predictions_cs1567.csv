@@ -1,0 +1,8 @@
+title,keywords,name
+02_introduction_ros_handout,robot operating; rpc; robot; robot operating system; operating system; capability level; distributed; distributed computing; matchmaking,cs1567-1
+03_publisher_subscriber_handout,publisher; anonymous; type publisher; subscriber publisher; python; debugging; type string; forget; string,cs1567-2
+05_joy_node_handout,joy node; diagnostics; topic joy note; kosiyatrakul joy node,cs1567-3
+07_kobuki_node_handout,kobuki node; kobuki robot; synchronization bumper,cs1567-4
+09_10_blobs_detections_handout,computer vision; blob detection,cs1567-5
+14_pid_control_handout,object detection; camera,cs1567-6
+15_launch_file_handout,launch file; kobuki node package,cs1567-7

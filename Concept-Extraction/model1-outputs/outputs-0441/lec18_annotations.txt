@@ -1,0 +1,19 @@
+permutation
+r-permutation
+combination
+r-combination
+product rule
+sum rule
+bijection
+P(n, r)
+C(n, r)
+n choose r
+binomial
+binomial expression
+binomial coefficient
+coefficient
+binomial theorem
+Pascal’s identity
+recursive definition of C(n, r)
+basis step
+recursive step

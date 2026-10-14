@@ -1,0 +1,17 @@
+mapping reducibility
+reduction
+computable function
+decider
+decidable language
+undecidable language
+regular language
+TM
+turing machine
+ATM
+HALT_TM
+ETM
+REGULAR_TM
+EQ_TM
+MPCP
+PCP
+post correspondence problem

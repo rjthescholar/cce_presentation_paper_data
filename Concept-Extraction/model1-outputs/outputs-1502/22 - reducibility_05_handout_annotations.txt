@@ -1,0 +1,25 @@
+TM
+turing machine
+ATM
+turing machine acceptance problem
+HALT TM
+turing machine halting problem
+ETM
+turing machine language emptiness problem
+REGULAR TM
+turing machine language regularity problem
+EQ TM
+turing machine language equivalence problem
+ONE TM
+turing machine one-string acceptance problem
+language of a turing machine
+regular language
+decidable language
+undecidable language
+decider
+proof by contradiction
+empty language
+empty string
+machine acceptance
+machine rejection
+infinite loop

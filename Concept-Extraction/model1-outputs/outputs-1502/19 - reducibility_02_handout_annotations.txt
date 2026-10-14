@@ -1,0 +1,14 @@
+turing machine
+TM
+language of a turing machine
+accepted strings
+empty language
+language of all strings
+empty string
+nonempty strings
+strings of the form 0ⁿ1ⁿ
+strings starting with 0
+decider
+acceptance
+rejection
+infinite loop

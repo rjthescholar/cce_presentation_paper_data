@@ -1,0 +1,21 @@
+critical sections
+busy waiting
+sleep
+binary semaphore
+atomic
+testandset
+wakeup
+critical section
+swap
+spinlocks
+counting semaphore
+counting semaphores
+down
+semaphores
+critical region
+up
+memory barrier
+priority inversion
+blocking
+spinlock
+semaphore

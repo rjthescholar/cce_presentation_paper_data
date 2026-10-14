@@ -1,0 +1,16 @@
+semaphore
+binary semaphore
+counting semaphore
+spinlock
+busy waiting
+mutual exclusion
+mutex
+deadlock
+starvation
+semaphore queue
+priority inversion
+process priority
+up()
+down()
+fork()
+fork() tracing

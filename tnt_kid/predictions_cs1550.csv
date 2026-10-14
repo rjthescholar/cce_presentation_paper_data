@@ -1,0 +1,29 @@
+title,keywords,name
+Lecture0,system; operating systems; homework; operating; replacement algorithms,cs1550-1
+Lecture1,operating systems; dual mode; homework; interrupt vector table,cs1550-2
+Lecture10,operating systems; homework 5,cs1550-3
+Lecture11,operating systems; homework; condition variables,cs1550-4
+Lecture12,homework; operating systems; condition variables; condition variable implementation; synchronization; locks,cs1550-5
+Lecture13,homework; operating systems; algorithms; scheduler; project,cs1550-6
+Lecture14,homework; operating systems; service time; feedback scheduling; multilevel feedback scheduling,cs1550-7
+Lecture15,resource trajectory; operating systems; algorithm; bankers algorithm; resource trajectory graphs; wait algorithm,cs1550-8
+Lecture16,homework; operating systems; algorithm,cs1550-9
+Lecture17,homework; algorithms; operating systems; replacement algorithm; clock algorithm; interrupt,cs1550-10
+Lecture18,homework; systems; thrashing; operating systems; page fault,cs1550-11
+Lecture19,homework; operating systems,cs1550-12
+Lecture2,homework; operating systems,cs1550-13
+Lecture20,homework; operating systems; algorithms,cs1550-14
+Lecture21,homework; operating systems,cs1550-15
+Lecture22,operating systems; indexing; linked allocation; homework,cs1550-16
+Lecture23,homework; bonus homework; operating systems; raid4; error detection correction; raid5; factors,cs1550-17
+Lecture24,bonus homework; homework; bonus point; device drivers; lecture24,cs1550-18
+Lecture25,bonus point; bonus homework; operating systems; homework 12,cs1550-19
+Lecture26,bonus point; bonus homework; homework; systems; operating systems; homework 12,cs1550-20
+Lecture27,operating systems,cs1550-21
+Lecture3,homework; operating systems; spinlocks; race condition prevention; busy waiting; context switching,cs1550-22
+Lecture4,homework; homework 2; operating systems; busy waiting; semaphore,cs1550-23
+Lecture5,operating systems; homework,cs1550-24
+Lecture6,homework; operating systems; fork tracing; processes,cs1550-25
+Lecture7,operating systems; homework,cs1550-26
+Lecture8,operating systems; reader process writer; semaphore; homework,cs1550-27
+Lecture9,semaphore; operating systems; reader writer problem; mutex code,cs1550-28

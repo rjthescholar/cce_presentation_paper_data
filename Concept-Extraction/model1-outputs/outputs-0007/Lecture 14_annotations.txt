@@ -1,0 +1,38 @@
+assembly
+structured programming
+subroutine
+looping structure
+object-oriented programming
+OOP
+object
+class
+instance
+field
+property
+method
+function
+static
+non-static
+static field
+static method
+class-level variable
+instance variable
+class method
+instance method
+constant
+constructor
+object construction
+subclass
+superclass
+ownership
+inter-class relationship
+visibility
+public
+private
+final
+this
+new
+function header
+function body
+parameter
+return type

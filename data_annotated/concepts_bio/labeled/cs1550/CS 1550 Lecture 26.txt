@@ -1,0 +1,103 @@
+protection matrix
+encryption key
+decryption key
+acl
+virtualization
+domain
+worm
+one-time pad
+interpreted code
+type 2 hypervisors
+private key
+capabilities
+public-key cryptography
+protection commands
+trusted computing base
+pgp
+trojan horse
+data encryption standard
+behavioral checkers
+capability lists
+pretty good privacy
+data integrity
+worms
+capability list
+online cracking
+social engineering
+signed code
+password file
+availability
+access matrix
+denial of service
+magnetic card
+passwords
+protection
+steganography
+hash
+capability
+public key
+des
+vigenere cipher
+type 1 hypervisors
+vmm
+hashing
+polymorphic code
+internet worm
+integrity checkers
+templating
+keys
+key
+vm
+system availability
+encryption
+digital signatures
+decryption
+salt
+bell-la padula multilevel security model
+password
+access control lists
+public key encryption
+live migration
+vmms
+key loggers
+domains
+offline cracking
+data confidentiality
+reference monitor
+integrity
+login spoofing
+polymorphic viruses
+cryptography
+smart card
+monoalphabetic substitution
+user authentication
+secret-key encryption
+one-way hash function
+virtual machine
+covert channels
+security
+one-way function
+covert channel
+trojan horses
+virus
+password cracking
+security level
+type 0 hypervisors
+simple security property
+biometrics
+viruses
+biba
+authentication
+confidentiality
+plaintext
+side-channel attack
+simple integrity principle
+vms
+bell-la padula
+cloud computing
+ciphertext
+biba multilevel integrity model
+sandboxing
+buffer overflow
+symmetric-key encryption
+digital signature

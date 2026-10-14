@@ -1,0 +1,32 @@
+sequence
+term of a sequence
+infinite sequence
+set
+ordered n-tuple
+geometric progression
+geometric sequence
+arithmetic progression
+arithmetic sequence
+Fibonacci sequence
+summation
+summation notation
+index of summation
+upper limit
+lower limit
+shifting the index of summation
+nested summation
+geometric series
+closed form
+cardinality
+cardinality of infinite sets
+one-to-one correspondence
+bijection
+finite set
+natural numbers
+positive integers
+even positive integers
+countable set
+uncountable set
+rational numbers
+real numbers
+diagonalization

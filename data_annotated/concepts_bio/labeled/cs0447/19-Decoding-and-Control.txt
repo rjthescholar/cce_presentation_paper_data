@@ -1,0 +1,33 @@
+write enables
+von neumann architecture
+interconnect
+execute
+mem
+control signals
+memwrite
+alusrc
+write-back
+aluop
+regdatasrc
+instruction format
+instruction execution
+structural hazards
+if
+select pins
+interconnect matrix
+select pin
+shamt
+ex
+multi-cycle
+operand fetch
+funct
+decode
+regwrite
+fetch
+harvard architecture
+memtoreg
+wb
+memory access
+pcsrc
+instruction decoding
+id

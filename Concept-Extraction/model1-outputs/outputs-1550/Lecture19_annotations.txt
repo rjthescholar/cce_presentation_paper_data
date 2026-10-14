@@ -1,0 +1,35 @@
+address translation
+logical address
+physical address
+logical memory
+physical memory
+page
+page size
+page number
+logical page number
+virtual page number
+page offset
+page frame number
+page table
+page table entry
+PTE
+two-level page table
+first-level page table
+second-level page table
+multi-level page table
+inverted page table
+protection bits
+translation lookaside buffer
+TLB
+TLB lookup
+TLB miss
+hardware TLB replacement
+software TLB replacement
+TLB exception
+hit ratio
+memory access time
+effective access time
+EAT
+virtual address
+process ID
+hashing

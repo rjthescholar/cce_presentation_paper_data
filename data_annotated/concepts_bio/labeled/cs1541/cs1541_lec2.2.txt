@@ -1,0 +1,30 @@
+stalled
+control
+structural hazards
+nops
+pipeline stalls
+control hazard
+hazard detection unit
+stalls
+structural hazard
+pipeline hazard
+hazard
+pipelining
+delays
+flush
+compiler nops
+nop
+hazards
+flushed
+pipelined
+hdu
+pipelined instruction execution
+data hazards
+pipeline flush
+data
+pipeline hazards
+flushes
+control hazards
+pipeline
+bubbles
+data hazard

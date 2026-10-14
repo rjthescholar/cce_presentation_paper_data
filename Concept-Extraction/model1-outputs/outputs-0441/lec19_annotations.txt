@@ -1,0 +1,19 @@
+permutation
+combination
+r-permutation
+r-combination
+permutation with repetition
+combination with repetition
+selection with replacement
+selection without replacement
+product rule
+indistinguishable objects
+distinguishable objects
+indistinguishable boxes
+distinguishable boxes
+stars and bars
+overcounting
+partition into non-empty subsets
+Stirling number of the second kind
+S(n, j)
+integer partition

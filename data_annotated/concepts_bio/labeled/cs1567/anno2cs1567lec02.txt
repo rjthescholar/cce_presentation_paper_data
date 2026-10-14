@@ -1,0 +1,28 @@
+node
+camera node
+multiple
+roscore
+main
+rosout
+subscribers
+stream
+universe
+nodes
+single node
+distributed inter-process
+message
+ros master
+topic
+ros messages
+camera
+topics
+ros
+subscriber
+publishers
+rpc
+control
+meta-operating system
+debugging
+publisher
+robot operating system
+control node

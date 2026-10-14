@@ -1,0 +1,56 @@
+blocks
+miss penalty
+set-associative
+cache block index
+direct-mapped cache
+set index
+conflict miss
+fully associative
+miss rate
+cache block
+oracle cache
+policy
+block index
+hit time
+associativity
+replacement scheme
+amat
+direct-mapped
+cache levels
+cache size
+direct mapped caches
+cache blocks sizes
+tag
+associative caches
+set
+set-associative cache
+fully associative cache
+tags
+cache lines
+valid bit
+fully-associative
+full associativity
+single-level
+oracle caches
+cache set
+cache level
+cache designs
+cache blocks
+number of levels
+cache block sizes
+valid bits
+cache block size
+direct-mapped caches
+multi-level caches
+cache
+least-recently-used
+lru
+index
+cache design
+conflict misses
+direct-mapped cache hash function
+cache associativity
+block
+cache block tag
+average memory access time
+cache line

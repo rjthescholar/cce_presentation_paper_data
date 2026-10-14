@@ -1,0 +1,33 @@
+semaphore
+semaphore value
+spinlock
+mutual exclusion
+mutex
+deadlock
+priority inversion
+priority inheritance
+starvation
+process
+thread
+process creation
+process termination
+process lifecycle
+process states
+parent process
+child process
+fork()
+copy-on-write
+exec()
+exit()
+abort()
+kill()
+wait()
+PID
+PCB
+zombie process
+orphan process
+init process
+daemon process
+nohup command
+thread synchronization
+address space

@@ -1,0 +1,5 @@
+string
+strings
+substring
+api
+application programming interface

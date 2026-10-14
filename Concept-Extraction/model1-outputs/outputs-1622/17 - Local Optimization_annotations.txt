@@ -1,0 +1,30 @@
+optimization
+resource utilization
+optimization scope
+local optimization
+global optimization
+interprocedural optimization
+IR
+BB
+CFG
+peephole optimization
+operation
+move
+constant folding
+algebraic simplification
+strength reduction
+copy propagation
+dead store
+dead store elimination
+dead code
+dead code elimination
+DCE
+common subexpression elimination
+CSE
+function inlining
+side effects
+source language semantics
+evaluation rules
+single static assignment form
+SSA
+round-robin scheme

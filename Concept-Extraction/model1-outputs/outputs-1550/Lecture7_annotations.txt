@@ -1,0 +1,13 @@
+bounded buffer problem
+producer-consumer problem
+producer
+consumer
+semaphore
+semaphore-based solution
+mutex
+mutex lock
+spinlock
+condition variable
+wait()
+signal()
+broadcast()

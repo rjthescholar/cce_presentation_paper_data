@@ -1,0 +1,9 @@
+distributions
+random variable
+bernoulli trials
+independence
+conditional probability
+independent
+distribution
+pairwise disjoint
+random variables

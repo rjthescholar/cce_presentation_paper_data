@@ -1,0 +1,25 @@
+bht
+predicates
+correlating predictor
+static branch prediction
+bhrs
+predication
+predicate
+predicated instruction
+return stack buffer
+2-bit bht predictor
+branch history shift register
+branch target buffer
+2-bit predictor
+2-bit saturating counter
+bhr
+branch prediction
+predict not taken
+branch history table
+correlating predictors
+predict taken
+global branch history
+local branch history
+dynamic branch prediction
+btb
+unified correlating predictor

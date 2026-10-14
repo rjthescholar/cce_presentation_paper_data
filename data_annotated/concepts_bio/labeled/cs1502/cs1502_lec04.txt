@@ -1,0 +1,30 @@
+alphabet
+state diagram
+computational tree
+closure under concatenation
+non-accept states
+transition function
+start states
+dfas
+nfa
+closure under union
+empty string
+5-tuple
+accept states
+e (r)
+closure under star
+powerset
+p (q)
+regular language
+operation
+accept state
+regular languages
+start state
+nondeterministic finite automaton
+state diagrams
+dfa
+deterministic finite automaton
+equivalence of nfas and dfas
+reject state
+set of states
+non-accept state

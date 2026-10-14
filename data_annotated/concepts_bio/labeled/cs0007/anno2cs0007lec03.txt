@@ -1,0 +1,13 @@
+characters
+integers
+primitive values
+boolean char double int
+short
+char
+double
+byte
+boolean
+float
+int
+long
+primitive value

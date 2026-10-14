@@ -1,0 +1,94 @@
+title,keywords,name
+lec01 (Part 1),homework; homework grades; tactics; discrete structures,cs0441-1-P1
+lec01 (Part 2),function fib; simulation risk assessment; protocol analysis; modular arithmetic attack; spam,cs0441-1-P2
+lec02 (Part 1),negation; logic; negation examples; video games; logical connectives,cs0441-2-P1
+lec02 (Part 2),implication; natural language; exclusive or,cs0441-2-P2
+lec02 (Part 3),translation; epistemology; law philosophy; video games; free coffee; expression,cs0441-2-P3
+lec03 (Part 1),equivalence; propositional equivalences; technical support revisited; puzzles; logic puzzles,cs0441-3-P1
+lec03 (Part 2),equivalences; logical equivalences; propositional equivalences; contradiction; compound propositions; compound propositions tautologies,cs0441-3-P2
+lec03 (Part 3),logical equivalences; double negation law; negation laws; associative; distributive laws; predicate logic; compound propositions; commutative,cs0441-3-P3
+lec04 (Part 1),logic; logical reasoning; predicate logic; quantifiers propositional logic,cs0441-4-P1
+lec04 (Part 2),existential quantifiers; existential quantification; universal quantification; counterexample,cs0441-4-P2
+lec04 (Part 3),quantifiers; logical equivalence; domains of discourse; expressions; use; class,cs0441-4-P3
+lec04 (Part 4),tea rewrite; school algebra; double negation law; drinking x; quantifier rewrite,cs0441-4-P4
+lec05 (Part 1),nested; security example; nested quantifiers logic; prolog,cs0441-5-P1
+lec05 (Part 2),quantifiers; associative law; rewrite; order; order of quantifiers; logical; logical operators; translation,cs0441-5-P2
+lec05 (Part 3),logical expression; logical; quantifiers; quantifier rewrite,cs0441-5-P3
+lec05 (Part 4),negation; smart student,cs0441-5-P4
+lec06 (Part 1),inference; formally; logically valid ways; modus ponens l; inference l logical equivalences; ground truths; formal proof; informal proof; materials,cs0441-6-P1
+lec06 (Part 2),inference; rule of inference; l rule of inference; tautology; syllogism; →; syllogism l tautology; modus tollens l tautology; l tautology; resolution l tautology,cs0441-6-P2
+lec06 (Part 3),rules of inference; universal; universal instantiation; 1 modus ponens; l rule of inference; quantifiers existential instantiation; video games; turned,cs0441-6-P3
+lec06 (Part 4),,cs0441-6-P4
+lec07 (Part 1),proof; proof methods; proof strategies; direct proof; direct; contradiction direct proof; proof techniques,cs0441-7-P1
+lec07 (Part 2),argumentation; combinatorics; mechanics algebra; pigeonhole principle; contradiction,cs0441-7-P2
+lec07 (Part 3),proof; exhaustive proof; triangle inequality; existence proof; case,cs0441-7-P3
+lec07 (Part 4),scientific process; plan of attack; rational,cs0441-7-P4
+lec07 (Part 5),proofs; use proof; proof strategies,cs0441-7-P5
+lec08 (Part 1),set theory,cs0441-8-P1
+lec08 (Part 2),venn diagrams,cs0441-8-P2
+lec08 (Part 3),set definition; power set definition,cs0441-8-P3
+lec08 (Part 4),cartesian products; social network; tuples definition,cs0441-8-P4
+lec08 (Part 5),unordered; representations,cs0441-8-P5
+lec09 (Part 1),logical equivalences; logical operations; complex set definitions; associative; associative laws; logical expressions; distributive laws; set builder; membership table; logical argument,cs0441-9-P1
+lec09 (Part 2),set builder,cs0441-9-P2
+lec09 (Part 3),logical equivalences; power sets; set builder; function definition; complementation,cs0441-9-P3
+lec09 (Part 4),codomain; onto function; → r; →; codomain definition,cs0441-9-P4
+lec09 (Part 5),ceiling; →; → z; use floor; ceiling function; floor function,cs0441-9-P5
+lec10 (Part 1),,cs0441-10-P1
+lec10 (Part 2),nested loops; geometric series,cs0441-10-P2
+lec10 (Part 3),countable; real; division; time; compact,cs0441-10-P3
+lec11 (Part 1),divisibility; divisibility property; division algorithm; number theory; positive integers; positive; mathematics; materials,cs0441-11-P1
+lec11 (Part 2),quotient; definition; programming languages use; class; errors; string; future classes; positive; valid use; arguments,cs0441-11-P2
+lec11 (Part 3),antiquity; cryptography; algorithms; number theory; congruencies cryptography; inverse function; day algorithms; pseudorandom numbers coding algorithms,cs0441-11-P3
+lec12 (Part 1),composite; composite number; examples,cs0441-12-P1
+lec12 (Part 2),greatest common divisors,cs0441-12-P2
+lec12 (Part 3),common,cs0441-12-P3
+lec12 (Part 4),,cs0441-12-P4
+lec13 (Part 1),mathematical induction; inductive step; base case; ladder analogy; tools,cs0441-13-P1
+lec13 (Part 2),case; base case; inductive case; mathematical induction; inductive step; associative; factoring,cs0441-13-P2
+lec13 (Part 3),factorial; set theory; number theory; divisibility; ⊆ inequalities,cs0441-13-P3
+lec13 (Part 4),number theory; inductive case; mathematical induction; strong induction,cs0441-13-P4
+lec14 (Part 1),induction; mathematical induction; strong induction; materials,cs0441-14-P1
+lec14 (Part 2),inductive; inductive case; mathematical induction; strong induction; base case,cs0441-14-P2
+lec15 (Part 1),recursion; induction; structural induction; algorithm; factorial function; types; recursive objects; strong induction; recursive versions; object,cs0441-15-P1
+lec15 (Part 2),recursive; programming language; recursive step; propositional; well formed formulae; propositional logic; basis; formal language; recursive definition; string,cs0441-15-P2
+lec15 (Part 3),rooted trees; rooted trees base case; inductive case; trees base case; recursive; extended binary tree; rooted trees base step; rooted tree recursive step; recursive defintion,cs0441-15-P3
+lec15 (Part 4),inductive step; recursive step,cs0441-15-P4
+lec16 (Part 1),combinatorics; algorithm; arrangements; product rule; security; complete,cs0441-16-P1
+lec16 (Part 2),license plates; valid license plates,cs0441-16-P2
+lec16 (Part 3),valid passwords; passwords; ipv4,cs0441-16-P3
+lec16 (Part 4),pigeonhole principle; ids; network ids; combinatorics; 2,cs0441-16-P4
+lec17 (Part 1),pigeonhole principle; inclusion exclusion principle; set theory,cs0441-17-P1
+lec17 (Part 2),pigeonhole principle; generalized pigeonhole principle; student; hat,cs0441-17-P2
+lec17 (Part 3),pigeonhole principle; generalized pigeonhole principle; baseball team; games; games played; sports,cs0441-17-P3
+lec17 (Part 4),,cs0441-17-P4
+lec18 (Part 1),permutation; r permutation,cs0441-18-P1
+lec18 (Part 2),cities; r permutations; unordered selections,cs0441-18-P2
+lec18 (Part 3),,cs0441-18-P3
+lec18 (Part 4),multiplication; permutations; generalized permutations; recursive; recursive step; recursively basis; arrange,cs0441-18-P4
+lec19 (Part 1),permutations; materials developed; discrete structures; choices,cs0441-19-P1
+lec19 (Part 2),permutation; count permutations; cookies; cookie types; summary; objects,cs0441-19-P2
+lec19 (Part 3),place objects; homeroom; assigned; card poker hands; type 1 ways,cs0441-19-P3
+lec19 (Part 4),homerooms; three homerooms; indistinguishable homerooms; ways,cs0441-19-P4
+lec19 (Part 5),,cs0441-19-P5
+lec20 (Part 1),combinatorics; probability; count event space; risk assessment; card games; materials developed; genetics algorithm,cs0441-20-P1
+lec20 (Part 2),lottery; poker; order matters,cs0441-20-P2
+lec20 (Part 3),poker; flush; sample; events; straight flush; order,cs0441-20-P3
+lec20 (Part 4),biased coins; case; fair; likelihood,cs0441-20-P4
+lec20 (Part 5),probability theory; likelihood,cs0441-20-P5
+lec21 (Part 1),mathematical induction; games; probability distribution; event; situations; knowledge,cs0441-21-P1
+lec21 (Part 2),bit string; 4 bit string; family,cs0441-21-P2
+lec21 (Part 3),,cs0441-21-P3
+lec21 (Part 4),failure; random,cs0441-21-P4
+lec21 (Part 5),,cs0441-21-P5
+lec21 (Part 6),inductive case,cs0441-21-P6
+lec22 (Part 1),conditional probability; drug; drug test; positive test; positive; conditional probability definition; bayes; sample space,cs0441-22-P1
+lec22 (Part 2),bob chose,cs0441-22-P2
+lec22 (Part 3),skirts; bayes ’ theorem,cs0441-22-P3
+lec22 (Part 4),spam; spam filtering; filters; drug,cs0441-22-P4
+lec22 (Part 5),spam; filter; bayesian filter; probability; events,cs0441-22-P5
+lec22 (Part 6),spam; conditional probability; bayesian spam filter; non spam,cs0441-22-P6
+lec23 (Part 1),convergent; sample space; random; distribution; definition,cs0441-23-P1
+lec23 (Part 2),probability,cs0441-23-P2
+lec23 (Part 3),summations property; summations def,cs0441-23-P3
+lec23 (Part 4),,cs0441-23-P4

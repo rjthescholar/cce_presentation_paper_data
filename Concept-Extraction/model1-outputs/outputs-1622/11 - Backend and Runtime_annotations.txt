@@ -1,0 +1,58 @@
+compiler
+backend
+source language
+target language
+AST
+semantic analysis
+intermediate representation
+IR
+correct translation
+code quality
+output code speed
+output code size
+optimization
+compile-time
+runtime
+dynamic dispatch
+reflection
+class loading
+garbage collection
+exceptions
+code generation
+codegen
+application binary interface
+ABI
+calling convention
+value representation in memory
+system calls
+runtime library
+standard library
+stdlib
+machine code
+executable
+stack frame
+saved registers
+local variables
+symbol table
+registers
+expressions
+statements
+control flow
+linking
+linker
+call graph
+symbolic linking
+relocations
+load-time
+position-independent code
+absolute addresses
+PC-relative addressing
+debugging info
+executable format
+symbol table
+object files
+libraries
+static linking
+dynamic linking
+entry point
+assembly language

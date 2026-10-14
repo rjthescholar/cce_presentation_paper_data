@@ -1,0 +1,35 @@
+calling convention
+function
+function call
+caller
+callee
+arguments
+return value
+flow of control
+program counter
+PC
+conditional branch instruction
+jump and link
+jal
+jump register
+jr
+argument registers
+return value registers
+saved registers
+unsaved registers
+return address
+return address register
+ra
+stack
+stack pointer
+sp
+push
+pop
+pseudo-ops
+activation frame
+function prologue
+function epilogue
+local variables
+heap
+dynamic memory
+memory allocation

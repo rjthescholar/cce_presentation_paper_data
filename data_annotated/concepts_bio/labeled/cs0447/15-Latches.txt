@@ -1,0 +1,30 @@
+combinational logic
+clock speed
+registers
+d latch
+clock edge
+clock skew
+4-bit counter
+1-bit adder
+s/r latch
+propagation delay
+critical path
+flip-flop
+half-adder
+maximum clock speed
+sequential logic
+rising edge
+latches
+clock
+clock signal
+flip-flops
+falling edge
+clock cycle
+register
+counter
+d flip-flop
+latch
+race condition
+write enable
+clock period
+ripple-carry

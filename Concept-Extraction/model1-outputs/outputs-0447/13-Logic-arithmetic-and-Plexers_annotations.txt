@@ -1,0 +1,32 @@
+truth table
+logic function
+half-adder
+full adder
+carry input
+carry output
+sum output
+AND gate
+OR gate
+XOR gate
+NOT gate
+ripple carry adder
+word size
+gate delay
+bit negation
+subtraction
+overflow
+unsigned addition overflow
+signed addition overflow
+multiplexer
+mux
+select input
+demultiplexer
+demux
+encoder
+priority encoder
+don't cares
+decoder
+boolean function
+combinational logic
+sequential logic
+logic minimization

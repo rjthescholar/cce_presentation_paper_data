@@ -1,0 +1,42 @@
+OOP
+object-oriented programming
+class
+class-level variable
+instance variable
+method
+constructor
+inter-class relationship
+subclass
+superclass
+ownership
+problem modeling
+noun identification
+coalescing
+out-of-scope noun
+subtype
+instance
+simple property
+primitive
+object class
+main method
+car
+customer
+service quote
+shop
+make
+model
+year
+name
+address
+telephone number
+estimated parts charges
+estimated labor charges
+sales tax
+total estimated charges
+API
+application programming interface
+toString()
+string representation
+method overriding
+class responsibility
+state

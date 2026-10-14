@@ -1,0 +1,24 @@
+accept
+string
+strings
+finite automaton
+∅
+◦
+reject
+∪
+regular languages
+closed under operations
+finite-state automaton
+regular language
+finite automata
+concatenation
+the regular operations
+ε
+substring
+accepts
+star
+∗
+compiler
+union
+closed under operation
+finite-state machines

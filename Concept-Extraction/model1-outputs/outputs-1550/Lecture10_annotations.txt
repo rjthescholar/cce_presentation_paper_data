@@ -1,0 +1,18 @@
+banker’s algorithm
+deadlock
+deadlock detection algorithm
+deadlock avoidance
+deadlock prevention
+safe state
+event sequence
+what-if state
+resource ordering
+resource request
+resource allocation graph
+sleepy barbers problem
+worker process
+customer process
+rendezvous pattern
+semaphore
+down call
+up call

@@ -1,0 +1,28 @@
+post correspondence problem
+PCP
+modified post correspondence problem
+MPCP
+domino
+set of dominoes
+match
+top string
+bottom string
+TM
+LBA
+configuration
+starting configuration
+computation history
+accepting computation history
+transition
+tape head
+decider
+decidability
+undecidability
+reducibility
+mapping reducibility
+computable function
+reduction via computation history
+ETM
+ATM
+EQTM
+ELBA

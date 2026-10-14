@@ -1,0 +1,3 @@
+spooling
+circular wait
+deadlock prevention

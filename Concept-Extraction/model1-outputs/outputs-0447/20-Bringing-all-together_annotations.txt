@@ -1,0 +1,33 @@
+single-cycle machine
+single-cycle CPU
+central processing unit
+single-cycle datapath
+instruction
+clock cycle
+rising edge of the clock
+r-type instruction
+i-type instruction
+j-type instruction
+lw
+load word
+sw
+store word
+beq
+branch if equal
+jump instruction
+instruction memory
+data memory
+register file
+control unit
+control signals
+ALU
+arithmetic logic unit
+ALU control
+immediate
+offset
+sign extension
+PC
+program counter
+critical path
+clock speed
+memory access time

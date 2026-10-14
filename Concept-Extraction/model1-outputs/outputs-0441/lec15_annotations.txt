@@ -1,0 +1,34 @@
+proof by induction
+strong induction
+recursion
+recursive objects
+recursive definition
+recursive functions
+basis step
+recursive step
+natural numbers
+factorial function
+recursive sequences
+Fibonacci numbers
+alphabet
+binary strings
+strings over an alphabet
+empty string
+string concatenation
+string length
+well-formed formulae
+propositional logic
+propositional variable
+formal language
+structural induction
+base case
+inductive step
+rooted trees
+extended binary trees
+full binary trees
+root node
+subtree
+tree height
+number of nodes in a full binary tree
+binary search tree
+set membership

@@ -1,0 +1,41 @@
+machine code
+instruction encoding
+bitfield
+instruction format
+ISA
+MIPS
+opcode
+funct field
+immediate
+assembler
+compiler
+assembly
+label
+fixup
+data segment
+object file
+executable program
+linking
+token
+AST
+abstract syntax tree
+control signal
+register file
+ALU
+jump
+branch
+control flow instruction
+jump target
+branch target
+target address
+absolute jump
+relative branch
+branch offset
+memory alignment
+instruction fetching
+PC
+PC source
+PCSrc
+MUX selector
+J-type instruction format
+platform-independent assembly code

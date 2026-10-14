@@ -1,0 +1,13 @@
+forking
+copy-on-write
+parent process
+zombie
+threads
+orphan
+child processes
+init process
+fork
+wait
+daemon processes
+thread
+child process

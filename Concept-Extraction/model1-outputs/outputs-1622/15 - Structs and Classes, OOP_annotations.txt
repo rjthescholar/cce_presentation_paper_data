@@ -1,0 +1,51 @@
+primitive types
+arrays
+indirection
+dynamically-sized data structures
+user-defined types
+tuple
+tuple type
+heterogeneous types
+unit
+void
+struct
+record type
+class
+field
+structural identity
+nominal identity
+value type
+reference type
+memory address
+null
+bottom type
+subtype
+type hierarchy
+struct data layout
+field offset
+memory alignment
+struct padding
+dynamic allocation
+field access
+OOP
+object-oriented programming
+method
+method call
+static dispatch
+constructor
+data inheritance
+method inheritance
+base class
+derived class
+subtyping
+supertype
+virtual method
+dynamic dispatch
+RTTI
+run-time type identification
+virtual method table
+vtable
+function pointer
+indirect function call
+interface
+nullable reference type

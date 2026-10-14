@@ -1,0 +1,10 @@
+regular language
+pumping lemma
+pumping lemma conditions
+string decomposition
+string length
+equal number of 0s and 1s
+more 0s than 1s
+borderline string selection
+square number of 0s
+contradiction

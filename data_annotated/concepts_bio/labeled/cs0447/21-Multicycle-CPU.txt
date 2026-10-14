@@ -1,0 +1,16 @@
+cycles per instruction
+clock cycles
+cpis
+ipc
+clock cycle
+multicycle design
+multi-cycle cpu
+average cpi
+cycle time
+single-cycle
+multi-cycle design
+cpi
+multicycle
+five phases of execution
+multicycle datapath
+multi-cycle

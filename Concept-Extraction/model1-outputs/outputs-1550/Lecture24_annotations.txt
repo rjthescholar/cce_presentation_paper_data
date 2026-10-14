@@ -1,0 +1,44 @@
+polling
+interrupt
+interrupt-driven I/O
+interrupt handler
+interrupt service procedure
+interrupt controller
+direct memory access
+DMA
+system call
+
+disk drive
+platter
+surface
+track
+sector
+cylinder
+read/write head
+actuator
+
+disk scheduling
+disk request
+request queue
+head position
+seek time
+seek distance
+first-come-first served
+FCFS
+shortest seek time first
+SSTF
+SJF scheduling
+SCAN
+elevator algorithm
+C-SCAN
+C-LOOK
+
+two-level directory system
+hierarchical directory system
+directory tree
+directory traversal
+file sharing
+link
+unlink
+file owner
+link count

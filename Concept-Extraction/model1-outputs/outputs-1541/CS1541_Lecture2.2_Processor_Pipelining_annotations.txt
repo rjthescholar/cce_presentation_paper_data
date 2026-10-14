@@ -1,0 +1,30 @@
+pipelining
+multi-cycle instruction execution
+pipelined instruction execution
+pipelined parallelism
+pipeline stage
+pipeline depth
+instruction fetch
+instruction decoding
+control signals
+pipeline hazard
+structural hazard
+data hazard
+control hazard
+bubble
+pipeline stall
+pipeline flush
+wrong-path instruction
+conditional branch
+nop instruction
+compiler scheduling
+hazard detection unit
+HDU
+cycles per instruction
+CPI
+clock cycle time
+clock frequency
+latch delay
+unbalanced stages
+memory wall
+power wall

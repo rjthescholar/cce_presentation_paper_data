@@ -1,0 +1,11 @@
+producers-consumers problem
+mutex
+lock
+wait
+locks
+semaphore
+semaphores
+signal
+condition variables
+condition variable
+sleepy barbers

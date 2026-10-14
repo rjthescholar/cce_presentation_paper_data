@@ -1,0 +1,25 @@
+polynomial time
+exponential time
+P
+class P
+TIME(n^k)
+TM
+turing machine
+deterministic single-tape turing machine
+brute-force algorithm
+directed graph
+directed path
+PATH
+breadth-first search
+relatively prime
+RELPRIME
+euclidean algorithm
+GCD
+greatest common divisor
+hamiltonian path
+HAMPATH
+polynomial verifiability
+composite number
+COMPOSITES
+RSA
+RSA algorithm

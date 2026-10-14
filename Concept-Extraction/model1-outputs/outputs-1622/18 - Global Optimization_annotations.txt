@@ -1,0 +1,38 @@
+local optimization
+global optimization
+basic block
+BB
+control flow graph
+CFG
+constant folding
+copy propagation
+constant copy propagation
+global constant copy propagation
+GCCP
+dead store elimination
+control flow optimization
+reachability
+unreachable basic block
+data flow analysis
+forward analysis
+backward analysis
+definition
+use
+def-use pair
+state
+in-state
+out-state
+ANY
+CONST(c)
+UNK
+unknown
+transfer function
+join function
+equilibrium
+termination
+liveness
+live variable
+dead variable
+last use
+liveness range
+register allocation

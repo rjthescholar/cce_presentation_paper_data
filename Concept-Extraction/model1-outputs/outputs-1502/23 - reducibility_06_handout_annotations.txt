@@ -1,0 +1,28 @@
+reducibility
+reduction via computation histories
+configuration
+start configuration
+accepting configuration
+rejecting configuration
+computation history
+accepting computation history
+rejecting computation history
+deterministic Turing machine
+TM
+Turing machine
+LBA
+linear bounded automaton
+tape head
+tape alphabet
+transition function
+finite number of configurations
+loop detection
+decidability
+undecidability
+ATM
+HALT_TM
+ETM
+REGULAR_TM
+EQ_TM
+ALBA
+ELBA

@@ -1,0 +1,89 @@
+title,keywords,name
+CS1541_Lecture1.1_Introduction (Part 1),my classmates; carbon nanotubes; field engineer; supercomputers; collaboration; windows,cs1541-1-P1
+CS1541_Lecture1.1_Introduction (Part 2),homeworks; instruction set architecture; zoom meetings; performance; silicon architecture; performance goals; computer architecture; performance attributes computer architecture; reliability; components beside processor,cs1541-1-P2
+CS1541_Lecture1.1_Introduction (Part 3),diverge; gpus; tpus; transistor,cs1541-1-P3
+CS1541_Lecture1.2_Technology_Advances (Part 1),miniaturization; semiconductor industry; zoom; technology; s,cs1541-2-P1
+CS1541_Lecture1.2_Technology_Advances (Part 2),channel resistance; clock ticks; did architects; layers instruction set; parallel,cs1541-2-P2
+CS1541_Lecture1.2_Technology_Advances (Part 3),transistor switched; mosfet transistor switched off; threshold voltage,cs1541-2-P3
+CS1541_Lecture1.2_Technology_Advances (Part 4),partially powered free ride,cs1541-2-P4
+CS1541_Lecture1.3_Technology_Constraints (Part 1),dvfs; multi cores; thermal design power; bandwidth; low priority cores; leakage power; power wall,cs1541-3-P1
+CS1541_Lecture1.3_Technology_Constraints (Part 2),did variability; multi cores; caches; memory caches; power efficient; latency; complex logic; binning; stacked memory; prioritized,cs1541-3-P2
+CS1541_Lecture1.3_Technology_Constraints (Part 3),multi cores; touch upon; multi instructions; caching; simd; memory instructions; pipelining; cycle; performance; threads,cs1541-3-P3
+CS1541_Lecture2.1_Processor_Review (Part 1),mips; clocking review; processor review,cs1541-4-P1
+CS1541_Lecture2.1_Processor_Review (Part 2),mips,cs1541-4-P2
+CS1541_Lecture2.1_Processor_Review (Part 3),lw; branch target; memwrite file regwrite regdatasrc,cs1541-4-P3
+CS1541_Lecture2.1_Processor_Review (Part 4),instruction mix; lw; instruction execution,cs1541-4-P4
+CS1541_Lecture2.2_Processor_Pipelining (Part 1),pipelined; pipelined parallelism; multi cycle; parallelism; performance; instructions cpi cycle time; processor pipelining; datapath; clock cycle,cs1541-5-P1
+CS1541_Lecture2.2_Processor_Pipelining (Part 2),hazards; compiler; pipeline; control hazard; hazard detection unit; instruction,cs1541-5-P2
+CS1541_Lecture2.2_Processor_Pipelining (Part 3),control hazard; pipeline; pipeline flush; flush; compiler; hazard detection; performance; →; cycle architecture,cs1541-5-P3
+CS1541_Lecture2.3_Optimizing_Pipeline_Hazards (Part 1),structural hazards; memwrite; bathrooms; pipeline hazards; lw,cs1541-6-P1
+CS1541_Lecture2.3_Optimizing_Pipeline_Hazards (Part 2),data forwarding; processor,cs1541-6-P2
+CS1541_Lecture2.3_Optimizing_Pipeline_Hazards (Part 3),machine; washing machine; compiler; compiler reordering; tea boiling; scheduling; static scheduling; lw,cs1541-6-P3
+CS1541_Lecture2.3_Optimizing_Pipeline_Hazards (Part 4),instruction mix; compiler; pipeline flush; pipeline; performance impact; hazard detection; deep pipelines; flush ∝ depth; control hazard; architectures,cs1541-6-P4
+CS1541_Lecture2.3_Optimizing_Pipeline_Hazards (Part 5),branch comparison; comparator,cs1541-6-P5
+CS1541_Lecture2.4_Branch_Prediction (Part 1),branch; branch prediction; predict; →; flush; taken branch prediction; predication; branch history; id stage; code analysis,cs1541-7-P1
+CS1541_Lecture2.4_Branch_Prediction (Part 2),branch; branch target; branch prediction; branch target buffer; branch predictor hash pc; branch pc; hash function; hash pc; branch history,cs1541-7-P2
+CS1541_Lecture2.4_Branch_Prediction (Part 3),base prediction; prediction; 2 bit predictor; pattern; history,cs1541-7-P3
+CS1541_Lecture2.4_Branch_Prediction (Part 4),prediction; → prediction; branch history; branch pc; t → prediction; t capture pattern; correlates prediction; nt → prediction; global history; correlating,cs1541-7-P4
+CS1541_Lecture2.4_Branch_Prediction (Part 5),branch; branch target; branch target buffer; return address; return stack buffer; branch prediction; predication; stack overflow; deep pipeline; pipeline flush,cs1541-7-P5
+CS1541_Lecture2.4_Branch_Prediction (Part 6),compiler; predication; pipeline; cuda; gpu; simd architectures use predication; code analysis; schedule; data dependencies; branch,cs1541-7-P6
+CS1541_Lecture2.5_VLIW_Processors (Part 1),structural hazard; hazards; pipeline; data hazards; data forwarding; power consumption; deep pipelines; cycle time; →; seconds cycle,cs1541-8-P1
+CS1541_Lecture2.5_VLIW_Processors (Part 2),schedule; compiler; dynamic scheduling; scheduling → compiler; vliw; pipeline; pipeline register file; vliw instruction; superscalar processor; alu,cs1541-8-P2
+CS1541_Lecture2.5_VLIW_Processors (Part 3),scheduler; compiler; vliw software; forwarding unit; static scheduling; embedded software; parallelism; vliws; compiler controlled; multithreaded software,cs1541-8-P3
+CS1541_Lecture2.5_VLIW_Processors (Part 4),compiler; compiler scheduling; scheduling; lw; reorder; hazard; mips; array,cs1541-8-P4
+CS1541_Lecture2.5_VLIW_Processors (Part 5),reorder; lw; loop reorder,cs1541-8-P5
+CS1541_Lecture2.5_VLIW_Processors (Part 6),list scheduling; schedule; gpus; compiler schedule; loop unrolling; compiler; prioritized; predication; vliw; critical,cs1541-8-P6
+CS1541_Lecture2.5_VLIW_Processors (Part 7),ilp; data dependency; rename; code; lw; anti dependencies; write; compiler,cs1541-8-P7
+CS1541_Lecture2.5_VLIW_Processors (Part 8),list scheduling; schedule; compiler; data dependence graph; critical path length; optimal schedule; → list scheduling; greedy algorithm; priority; optimal,cs1541-8-P8
+CS1541_Lecture2.6_Superscalar_Processors (Part 1),ilp; instruction; instruction level parallelism; superscalar processors; superscalars; order superscalar; hazards 5 scheduling; hw structure,cs1541-9-P1
+CS1541_Lecture2.6_Superscalar_Processors (Part 2),instruction; register renaming; instruction scheduler; instruction queue; load store instruction scheduler; raw dependency; completes,cs1541-9-P2
+CS1541_Lecture2.6_Superscalar_Processors (Part 3),renamed; instruction scheduler; ilp; mips; pipelining,cs1541-9-P3
+CS1541_Lecture2.6_Superscalar_Processors (Part 4),exception; schedule; impacts scheduling; os exception handler; precise exceptions; precise; flush; access register file; event; call os routines,cs1541-9-P4
+CS1541_Lecture2.6_Superscalar_Processors (Part 5),order commit; commit; order instruction; instructions commit; out of order processors; instruction scheduler; instruction; precise exceptions; register file; retirement register file,cs1541-9-P5
+CS1541_Lecture2.6_Superscalar_Processors (Part 6),processor recycle; processor; commit; order commit; register recycling; instruction scheduler recycle; branch misprediction; instruction scheduler flush; branch; dependencies,cs1541-9-P6
+CS1541_Lecture2.6_Superscalar_Processors (Part 7),renamer instruction queue; load queue age addr; register; address store queue; load unit,cs1541-9-P7
+CS1541_Lecture2.6_Superscalar_Processors (Part 8),flush; address generation unit; committed; branch target buffer; commit instruction; global history buffer; opteron; instruction fetch buffer; lw; order superscalar processor,cs1541-9-P8
+CS1541_Lecture3.1_Memory_Hierarchy (Part 1),linked list,cs1541-10-P1
+CS1541_Lecture3.1_Memory_Hierarchy (Part 2),set associative; 6t sram cell; cpu performance monitoring unit; linux; than linked list; array,cs1541-10-P2
+CS1541_Lecture3.1_Memory_Hierarchy (Part 3),durability; carbon nanotubes; memories; memory hierarchy; reliability; hdd sdd; ok reliability,cs1541-10-P3
+CS1541_Lecture3.1_Memory_Hierarchy (Part 4),cache; lw; ilp; cache block data; mem,cs1541-10-P4
+CS1541_Lecture3.1_Memory_Hierarchy (Part 5),associative; sweet spot; caches; xeon,cs1541-10-P5
+CS1541_Lecture3.1_Memory_Hierarchy (Part 6),buffer; write buffer; write buffer address; queue address; order instruction; commit; cache; retirement; critical path,cs1541-10-P6
+CS1541_Lecture3.1_Memory_Hierarchy (Part 7),cache; list cache load; step up; list cache load miss; cache miss; set overflow; set overflows cache capacity; miss rate; linked list; step function,cs1541-10-P7
+CS1541_Lecture3.1_Memory_Hierarchy (Part 8),caches; linked list cache load; cache miss rate; replacement policies,cs1541-10-P8
+CS1541_Lecture3.1_Memory_Hierarchy (Part 9),prefetcher; array; caches; branch prediction; optimizing; write buffer; hw; design; hw sw design; locality,cs1541-10-P9
+CS1541_Lecture3.1_Memory_Hierarchy (Part 10),memory latency; apps; caching; traffic jam; memory bandwidth limit; cycle time; compiler,cs1541-10-P10
+CS1541_Lecture3.2_Cache_Design (Part 1),cache; cache designs; multi level cache; oracle cache; dram memory; access time,cs1541-11-P1
+CS1541_Lecture3.2_Cache_Design (Part 2),hit time; amat; cache; impact; cache levels; locality,cs1541-11-P2
+CS1541_Lecture3.2_Cache_Design (Part 3),associative; cache associativity; hash conflict; conflict; cache; chaining; hash function; branch prediction; impact; hit time,cs1541-11-P3
+CS1541_Lecture3.2_Cache_Design (Part 4),hash function; cache block; cache; cache block index; tag,cs1541-11-P4
+CS1541_Lecture3.2_Cache_Design (Part 5),associative; associative caches; caches; tag; conflict; hash conflict; cold miss,cs1541-11-P5
+CS1541_Lecture3.2_Cache_Design (Part 6),associative; associative cache; cache; tag; index; set index; visualizes cache; tag set index offset; cache visualizer,cs1541-11-P6
+CS1541_Lecture3.2_Cache_Design (Part 7),lru; real data; locality,cs1541-11-P7
+CS1541_Lecture3.3_Cache_Design2 (Part 1),lw; cache; cache design; write,cs1541-12-P1
+CS1541_Lecture3.3_Cache_Design2 (Part 2),caches; write; write allocate; cache block; write back; tag; write miss,cs1541-12-P2
+CS1541_Lecture3.3_Cache_Design2 (Part 3),cache; tag; cache address; policy; dirty; v tag; buffer,cs1541-12-P3
+CS1541_Lecture3.3_Cache_Design2 (Part 4),caches; buffer; address; tag,cs1541-12-P4
+CS1541_Lecture3.3_Cache_Design2 (Part 5),tag; caches; address; read hit and write; v tag; write buffer,cs1541-12-P5
+CS1541_Lecture3.3_Cache_Design2 (Part 6),caches; compute; ilp; miss; miss hit use; miss rate; code space; parallelism; memory; instruction level parallelism,cs1541-12-P6
+CS1541_Lecture3.3_Cache_Design2 (Part 7),impact; cache; shared cache; core; cores share; hit time; structural hazards; cache space; miss rate,cs1541-12-P7
+CS1541_Lecture3.3_Cache_Design2 (Part 8),prefetch; compiler; caches; pattern; pointer; array; trees,cs1541-12-P8
+CS1541_Lecture3.3_Cache_Design2 (Part 9),prefetches,cs1541-12-P9
+CS1541_Lecture3.4_Virtual_Memory (Part 1),virtualization; virtual memory; associative; physical memory; virtual memory review; virtual page number; caching; locality; complexities,cs1541-13-P1
+CS1541_Lecture3.4_Virtual_Memory (Part 2),associative; virtual; virtual addresses; virtual memory; virtual page; regular page tables; hierarchical page tables; read page table; virtual page number; physical memory,cs1541-13-P2
+CS1541_Lecture3.4_Virtual_Memory (Part 3),address cache; virtual address; cache; virtual address space; page fault; page table walker; service page fault; address translation; ssd; fault handler,cs1541-13-P3
+CS1541_Lecture3.5_Multi_Processors (Part 1),datarace; ajax; directives; xml; multiprocessors; java threads; printf; mpi; thread; web apps,cs1541-14-P1
+CS1541_Lecture3.5_Multi_Processors (Part 2),datarace; data race; caching; review; replication; shared,cs1541-14-P2
+CS1541_Lecture3.5_Multi_Processors (Part 3),logical ordering; caches; cache coherence; shared cache; private caches; memory consistent; flag; o memory consistency; correctness,cs1541-14-P3
+CS1541_Lecture3.5_Multi_Processors (Part 4),flag; loads perform; cache; branch; scenario,cs1541-14-P4
+CS1541_Lecture3.5_Multi_Processors (Part 5),caches; disagree; optimizations; compiler optimizations; memory consistency; cache coherence; java virtual machine; coherent; sequential consistency; custom synchronization,cs1541-14-P5
+CS1541_Lecture3.5_Multi_Processors (Part 6),cache; flush; hardware coherence; coherence; cache controller; write; software,cs1541-14-P6
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 1),data parallel; mips; gpus; simd; vector; mips translation; loop control; digital signal processing; single instruction; decode,cs1541-15-P1
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 2),neural networks; filter; filter vector; vector; convolutional neural network; vector floating point; regular offsets; shifting window; power efficiency; parallel,cs1541-15-P2
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 3),cudamemcpy; gpu cudamemcpy; gpu; gpu programming; pci express; texture cluster; gpu global; gpu memory; shared; multi processor,cs1541-15-P3
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 4),scheduler; warp schedulers; warp; →; superscalar scheduler; gpu; order execution; thread index,cs1541-15-P4
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 5),cuda; cudamalloc; threads,cs1541-15-P5
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 6),warp; gpu; parallelism; instruction level parallelism; thread level parallelism; threads; vliws; balanced threads; mask; sms,cs1541-15-P6
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 7),gpu; fermi gpu; cuda profiler; gflops; wimpy,cs1541-15-P7
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 8),cold misses; arithmetic intensity; vector; cuda; matrix multiplication; algebra; gpus,cs1541-15-P8
+CS1541_Lecture3.6_SIMD_And_GPUs (Part 9),shared; shared memory; tiles; gpu; threads,cs1541-15-P9

@@ -1,0 +1,15 @@
+banker’s algorithm
+safe and unsafe states
+resource trajectory graph
+deadlock
+deadlock prevention
+deadlock avoidance
+deadlock detection
+circular wait
+hold and wait
+no preemption
+starvation
+spooling
+non-resource deadlock
+two-phase locking
+CPU scheduling

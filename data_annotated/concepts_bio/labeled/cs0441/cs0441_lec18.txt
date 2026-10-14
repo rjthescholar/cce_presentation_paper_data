@@ -1,0 +1,11 @@
+binomial coefficients
+permutation
+binomial theorem
+binomial
+r-permutations
+r-combinations
+combinations
+pascal’ s identity
+r-permutation
+r-combination
+permutations

@@ -1,0 +1,107 @@
+title,keywords,name
+01-Introduction (Part 1),midterms; videos online; zoom; computer programming; grades,cs0447-1-P1
+01-Introduction (Part 2),scheduling; video,cs0447-1-P2
+01-Introduction (Part 3),differential engine; unlearn high level languages; programmable; java; assembly; cards; history,cs0447-1-P3
+01-Introduction (Part 4),trajectories,cs0447-1-P4
+01-Introduction (Part 5),ultra low power; power; real time; cores; mobility; home automation; mobile 41; portability; battery; productivity,cs0447-1-P5
+01-Introduction (Part 6),language; assembly language; compiler optimizations; fpgas; →,cs0447-1-P6
+02-Binary-Hex-and-Arbitrariness (Part 1),arbitrariness; hex,cs0447-2-P1
+02-Binary-Hex-and-Arbitrariness (Part 2),arbitrariness,cs0447-2-P2
+02-Binary-Hex-and-Arbitrariness (Part 3),arbitrariness,cs0447-2-P3
+02-Binary-Hex-and-Arbitrariness (Part 4),arbitrariness,cs0447-2-P4
+02-Binary-Hex-and-Arbitrariness (Part 5),arbitrariness; hex; dec hex; binary hex,cs0447-2-P5
+02-Binary-Hex-and-Arbitrariness (Part 6),arbitrariness,cs0447-2-P6
+03-Programs-Instructions-and-Registers (Part 1),machine language; instructions; videos online; programs; registers,cs0447-3-P1
+03-Programs-Instructions-and-Registers (Part 2),instruction control; subtract; instruction set; complex instruction set computer; core; language; machine language; programs instructions; bit patterns; search a string,cs0447-3-P2
+03-Programs-Instructions-and-Registers (Part 3),mips; programs instructions; level languages; registers,cs0447-3-P3
+03-Programs-Instructions-and-Registers (Part 4),mental model; programming language; architectures; c java; programs instructions; compiler; registers,cs0447-3-P4
+04-Memory-and-Addresses (Part 1),load store architecture; memory; architectures; memory accesses; animated; operating,cs0447-4-P1
+04-Memory-and-Addresses (Part 2),address; access memory; contents; extension; ef; size; values,cs0447-4-P2
+04-Memory-and-Addresses (Part 3),address; byteaddressable machine; non byte addressable machines; persistent storage; system; system memory; memory; array; pattern; future,cs0447-4-P3
+04-Memory-and-Addresses (Part 4),address; computers; ef; memory; political reasons; order; endianness; byte; values; sequence,cs0447-4-P4
+05-Arrays (Part 1),memory address; address; string; java; fit; characters; class; array; computer,cs0447-5-P1
+05-Arrays (Part 2),address; array; instruction; mul instruction; register right; load address; print,cs0447-5-P2
+05-Arrays (Part 3),,cs0447-5-P3
+"06-Flow,-Conditionals,-and-Loops (Part 1)",control flow; flow; conditionals; label; datatypes; computer; dead code; loops; procrastination; route,cs0447-6-P1
+"06-Flow,-Conditionals,-and-Loops (Part 2)",conditionals; label; instruction label; instruction; conditional branch instructions; conditional block; loops; flow; write; write pseudocode,cs0447-6-P2
+"06-Flow,-Conditionals,-and-Loops (Part 3)",goto label; label; conditionals; slt together; conditional branch; complex conditionals; loops,cs0447-6-P3
+"06-Flow,-Conditionals,-and-Loops (Part 4)",branch; conditionals; loops,cs0447-6-P4
+07-Functions-and-the-Stack (Part 1),contracts; machine language functions; programs; computer programming functions; videos online o; arguments; stack; class,cs0447-7-P1
+07-Functions-and-the-Stack (Part 2),midterms; function; arguments; address; return address,cs0447-7-P2
+07-Functions-and-the-Stack (Part 3),loop counter,cs0447-7-P3
+07-Functions-and-the-Stack (Part 4),busy desk; desk,cs0447-7-P4
+07-Functions-and-the-Stack (Part 5),stack pointer; stack; mips,cs0447-7-P5
+07-Functions-and-the-Stack (Part 6),arguments; stacking; register contract,cs0447-7-P6
+07-Functions-and-the-Stack (Part 7),design; functions; videos; video editing application; use; array; continuous memory regions; future; memory layout; continuous memory,cs0447-7-P7
+07-Functions-and-the-Stack (Part 8),memory; functions; memory address; knowledge; stack; of memory; bottom,cs0447-7-P8
+08-Bitwise-Operations (Part 1),operations; light; logical product; logical negation; bitwise operations; computers; right; computer programming; switching; ways,cs0447-8-P1
+08-Bitwise-Operations (Part 2),bitwise operations; instruction encoding; java use,cs0447-8-P2
+08-Bitwise-Operations (Part 3),sort; multiply; bitwise operations; shifting right; sign extension; shift right arithmetic; multiplication; logical operators instruction; class; mips,cs0447-8-P3
+08-Bitwise-Operations (Part 4),masters; booleans; bit flags; light; color; networks; bitwise operations; internet; bitfield; cache,cs0447-8-P4
+08-Bitwise-Operations (Part 5),bitfield; mask; bit value; bitwise operations; values,cs0447-8-P5
+08-Bitwise-Operations (Part 6),bitfield; mask; bitwise operations; mips instruction,cs0447-8-P6
+09-Addition-Signed-Numbers-and-Overflow (Part 1),algorithm,cs0447-9-P1
+09-Addition-Signed-Numbers-and-Overflow (Part 2),computers; pattern; bit pattern; time,cs0447-9-P2
+09-Addition-Signed-Numbers-and-Overflow (Part 3),computers; java; pattern,cs0447-9-P3
+09-Addition-Signed-Numbers-and-Overflow (Part 4),mips; overflow,cs0447-9-P4
+10-Fractional binary (Part 1),points; fractions,cs0447-10-P1
+10-Fractional binary (Part 2),floating point; representation floating point; representation; scientific notation; decimal point; normalized scientific notation; fixed point,cs0447-10-P2
+10-Fractional binary (Part 3),biased exponent; biased notation; binary scientific notation; bias,cs0447-10-P3
+10-Fractional binary (Part 4),normalize; divide; divide floating point; exponents; meaning exponent fraction; gpus,cs0447-10-P4
+11-Multiplication_and_Division (Part 1),partial products; multiplication; multiply; positional numbers; logic; division,cs0447-11-P1
+11-Multiplication_and_Division (Part 2),partial products; algorithm; multiplication; factoring polynomials; subtractions; multiplying polynomials,cs0447-11-P2
+11-Multiplication_and_Division (Part 3),,cs0447-11-P3
+11-Multiplication_and_Division (Part 4),truncated division,cs0447-11-P4
+12-Logic (Part 1),logic; computer programming logic; complex,cs0447-12-P1
+12-Logic (Part 2),wire bundles; logic gates; boolean logic functions; combining logic; gate implements,cs0447-12-P2
+12-Logic (Part 3),cool property; logic; computer; real circuits; electrical engineer; use,cs0447-12-P3
+13-Logic-arithmetic-and-Plexers (Part 1),circuit; isolation; adder; truth; logic; input; carry input; lowest bit,cs0447-13-P1
+13-Logic-arithmetic-and-Plexers (Part 2),adders; ripple carry adder; adder co a; ripple carry; negation; logic,cs0447-13-P2
+13-Logic-arithmetic-and-Plexers (Part 3),carryout; impedance,cs0447-13-P3
+13-Logic-arithmetic-and-Plexers (Part 4),boolean function; valid; logisim,cs0447-13-P4
+14-Minimization-and-Karnaught (Part 1),circuits; stuff; booleans; faster circuits; boolean function; yield; complex,cs0447-14-P1
+14-Minimization-and-Karnaught (Part 2),boolean algebra; sum of products; associative; commutative,cs0447-14-P2
+14-Minimization-and-Karnaught (Part 3),karnaugh maps; fill in; term multiple times,cs0447-14-P3
+14-Minimization-and-Karnaught (Part 4),xor; gray code,cs0447-14-P4
+14-Minimization-and-Karnaught (Part 5),hex; boolean function; segments,cs0447-14-P5
+14-Minimization-and-Karnaught (Part 6),hex; segments; segment on off; map,cs0447-14-P6
+14-Minimization-and-Karnaught (Part 7),minterms; try making; logisim,cs0447-14-P7
+15-Latches (Part 1),latches; combinational logic; nor stable feedback; animated; s r latch,cs0447-15-P1
+15-Latches (Part 2),delay; propagation delay; sequential circuits; critical path; time; latches; updates; synchronize; electrocute; clock,cs0447-15-P2
+15-Latches (Part 3),clock; remember propagation delay; latches; abstract; set operation,cs0447-15-P3
+15-Latches (Part 4),flip; flip flop; adder; sequential circuit; clocking; clock skew; propagation delay; race; latches; d latch,cs0447-15-P4
+15-Latches (Part 5),adder; flip flop adder; flip flop; bit adder; sequential logic; co adder; clock; propagation delay; compute; assume clock,cs0447-15-P5
+15-Latches (Part 6),flip flop; flip flop adder; adder; ripple carry; clock speed; bit adder; per adder; 4 bit adder; clock pulse; latches,cs0447-15-P6
+16-ALU (Part 1),datapath; alu; datapath processor; register file alu; register file; arithmetic and logic unit; instruction control,cs0447-16-P1
+16-ALU (Part 2),control signals; select signal; write; instruction; register file; mips register file; clock signal; write enable; chekhov; alu,cs0447-16-P2
+16-ALU (Part 3),alu; adder alu; binvert carry; bit alu; adder; bit adder; addition binvert carry; subtraction binvert carry; invert binvert carry; subtract,cs0447-16-P3
+16-ALU (Part 4),binvert; slt; slt instruction; subtraction slt; carry; adder; carry in; mux; a binvert 0; detect overflow,cs0447-16-P4
+16-ALU (Part 5),alu; tune; datapath,cs0447-16-P5
+17-FSM (Part 1),finite; finite state machines; computer,cs0447-17-P1
+17-FSM (Part 2),state machine; controller; machine; general; state transition; transition; transition logic,cs0447-17-P2
+17-FSM (Part 3),red; encoded; map,cs0447-17-P3
+18-Controlling-the-PC (Part 1),controlling; machine code; register file; machine code sausage; components; instruction; compilers,cs0447-18-P1
+18-Controlling-the-PC (Part 2),control flow; compiler; sausage object files; machine; assembly,cs0447-18-P2
+18-Controlling-the-PC (Part 3),control signal; jump instruction; instruction,cs0447-18-P3
+18-Controlling-the-PC (Part 4),,cs0447-18-P4
+19-Decoding-and-Control (Part 1),von neumann machine; interconnect; von neumann architecture; instruction control; instruction address; harvard architecture instruction memory; address multi cycle machines; isolation; memories; operate,cs0447-19-P1
+19-Decoding-and-Control (Part 2),mips; memwrite; register file; load store architectures; alu; interconnect; control,cs0447-19-P2
+19-Decoding-and-Control (Part 3),register file; memwrite,cs0447-19-P3
+19-Decoding-and-Control (Part 4),decoder; control; control signal; memwrite control signal; debug; aluop; opcode,cs0447-19-P4
+20-Bringing-all-together (Part 1),single cycle machine; address control; clock,cs0447-20-P1
+20-Bringing-all-together (Part 2),memory; memory instruction; address,cs0447-20-P2
+20-Bringing-all-together (Part 3),register file; alu; x alu add; memory instruction; instruction,cs0447-20-P3
+20-Bringing-all-together (Part 4),i type; address instruction; data instruction; address write data instruction; write data instruction; alu,cs0447-20-P4
+20-Bringing-all-together (Part 5),critical; critical path; memory address register,cs0447-20-P5
+21-Multicycle-CPU (Part 1),multi cycle design; multi cycle cpu; balanced stages,cs0447-21-P1
+21-Multicycle-CPU (Part 2),cycle; single cycle; clock cycle time; multicycle implementation; instruction count,cs0447-21-P2
+21-Multicycle-CPU (Part 3),read memwrite write; regwrite register file,cs0447-21-P3
+21-Multicycle-CPU (Part 4),response; response time; throughput; finite state machine; state machine; machine; span; cd; datapath control; circuit,cs0447-21-P4
+21-Multicycle-CPU (Part 5),clock; clock count; animated,cs0447-21-P5
+21-Multicycle-CPU (Part 6),clock,cs0447-21-P6
+22-Pipelining (Part 1),pipelined; multi cycle pipelining; 22 pipelining; computer programming pipelining,cs0447-22-P1
+22-Pipelining (Part 2),harvard architecture; pipeline; hazards; structural hazards; 22 pipelining; hardware,cs0447-22-P2
+22-Pipelining (Part 3),control hazards; pipeline; 22 pipelining; sequential instruction,cs0447-22-P3
+22-Pipelining (Part 4),mult; lw mult; time; 22 pipelining; multiplier design,cs0447-22-P4
+22-Pipelining (Part 5),pipelining; instruction mix; 22 pipelining; implementation; total instruction count; cycle count,cs0447-22-P5
+22-Pipelining (Part 6),pipelined; 22 pipelining; multi cycle,cs0447-22-P6

@@ -1,0 +1,45 @@
+application binary interface
+ABI
+architectural ABI
+operating system ABI
+language ABI
+machine code
+code generation
+calling convention
+function call
+system call
+syscall
+call stack
+stack pointer
+sp
+stack alignment
+stack overflow
+return address
+return value
+caller
+callee
+standard library
+stdlib
+runtime library
+language runtime
+string concatenation
+dynamic method dispatch
+function closure
+exception
+Truss’s MIPS ABI
+memory region
+data segment
+heap
+stack
+global variable
+string literal
+runtime data representation
+reference type
+pointer
+zero-terminated ASCII string
+stack frame
+local variable
+frame pointer
+fp
+function prologue
+function epilogue

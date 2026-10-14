@@ -1,0 +1,62 @@
+SIMD
+single instruction multiple data
+SIMD architecture
+data parallel workload
+ISA
+vector instruction
+vector register
+loop unrolling
+processing element
+PE
+vector load-store unit
+striding
+gather-scatter
+sparse data
+sparse format
+convolution
+CNN
+convolutional neural network
+dot product
+GPU
+graphical processing unit
+streaming multi-processor
+SM
+streaming processor
+SP
+GPU global memory
+shared memory
+GPU programming model
+GPU kernel
+thread
+thread block
+warp
+warp scheduler
+warp scheduling
+latency hiding
+thread index
+block index
+global index
+two-dimensional grid
+predication
+predicate mask
+thread level parallelism
+TLP
+instruction level parallelism
+ILP
+thread block layout
+GPU utilization
+memory bandwidth
+memory wall
+cache miss
+capacity miss
+arithmetic intensity
+matrix-vector multiplication
+matrix-matrix multiplication
+BLAS
+basic linear algebra subprograms
+GeMV
+general matrix-vector multiplication
+GeMM
+general matrix multiplication
+loop tiling
+tile

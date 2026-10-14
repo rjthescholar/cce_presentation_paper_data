@@ -1,0 +1,19 @@
+direct pointers
+file allocation table
+indexed allocation
+index nodes
+single indirect
+unix fast file system
+ffs
+block index
+double indirect
+directories
+directory
+fat
+triple indirect
+i-nodes
+i-node
+inode
+file metadata
+free block tracking
+index block

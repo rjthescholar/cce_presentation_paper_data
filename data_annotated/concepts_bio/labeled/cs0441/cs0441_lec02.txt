@@ -1,0 +1,21 @@
+xor
+bitwise logical operations
+conjunction
+biconditional
+propositional logic
+propositions
+disjunction
+truth tables
+truth table
+logical connectives
+proposition
+negation
+implication
+converse
+exclusive or
+precedence
+conclusion
+inverse
+bitwise operations
+contrapositive
+hypothesis

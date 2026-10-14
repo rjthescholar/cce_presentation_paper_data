@@ -1,0 +1,21 @@
+object tracking
+camera field-of-view
+object detection node
+control system
+open loop control
+closed loop control
+feedback
+error
+oscillation
+overcompensation
+PID
+proportional-integral-derivative controller
+proportional
+integral
+differential
+error magnitude
+accumulated error
+error rate
+Kp
+Ki
+Kd

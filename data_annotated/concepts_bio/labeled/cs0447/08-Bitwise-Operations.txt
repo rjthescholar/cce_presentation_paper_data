@@ -1,0 +1,51 @@
+immediate
+bit flags
+rs
+sll
+∧
+shift right logical
+left shift
+bitfield
+¬
+logical sum
+zero-extended immediate
+and
+srl
+|
+logical product
+lui
+rt
+shift right arithmetic
+load upper immediate
+bitfields
+opcode
+rgb565
+not
+~
+&
+green
+sllv
+imm
+or
+mask
+red
+srav
+sra
+zero extension
+shift left logical
+blue
+bitwise operations
+sign extension
+shift left logical variable
+truth table
+left-shifting and oring
+∨
+bitwise logical operators
+bit shifting
+logical negation
+pattern of bits
+ori
+right-shifting and anding
+sign-extension
+instruction encoding
+srlv

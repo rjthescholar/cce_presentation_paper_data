@@ -1,0 +1,18 @@
+syllogisms
+existential quantification
+logical equivalence
+propositional functions
+universe of discourse
+existential quantifiers
+domain
+existential quantifier
+demorgan’ s law
+propositional function
+universal quantification
+universal quantifier
+predicate logic
+predicate
+quantifiers
+demorgan’ s laws
+logically equivalent
+predicates

@@ -1,0 +1,34 @@
+scanner
+token
+newline character
+nextLine()
+reading
+reader
+InputStream
+byte
+InputStreamReader
+character
+BufferedReader
+line of input
+exception
+throwing an exception
+catching an exception
+checked exception
+unchecked exception
+try block
+catch block
+finally
+IOException
+ArrayIndexOutOfBoundsException
+NumberFormatException
+FileNotFoundException
+scope
+string-to-primitive conversion
+primitive
+wrapper class
+Integer
+file input/output
+FileReader
+writing
+writer
+FileWriter

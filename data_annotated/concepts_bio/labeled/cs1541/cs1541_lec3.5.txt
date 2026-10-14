@@ -1,0 +1,26 @@
+inter-processor interrupts
+mesi
+tlb shootdown
+multiprocessor system
+memory consistency model
+msi
+dataraces
+cache coherence protocol
+modified-shared-invalid
+datarace
+snoop
+modified
+tlb coherence
+ipis
+memory consistency models
+invalid
+sc
+modified-exclusive-shared-invalid
+snooped
+cache coherence
+shared
+multiprocessors
+sequential consistency
+snoops
+shared memory system
+cache incoherence

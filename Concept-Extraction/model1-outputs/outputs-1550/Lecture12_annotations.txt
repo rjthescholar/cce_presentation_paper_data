@@ -1,0 +1,57 @@
+condition variable
+CV
+Hoare semantics
+Mesa semantics
+deadlock
+process synchronization
+message passing
+barriers
+futex
+re-entrant locks
+atomic operations
+CPU scheduling
+short-term scheduler
+dispatcher
+dispatch latency
+context switching
+user mode
+ready queue
+user-oriented scheduling criteria
+system-oriented scheduling criteria
+response time
+average response time
+turnaround time
+processor utilization
+throughput
+fairness
+CPU-I/O cycle
+CPU burst
+I/O burst
+CPU-bound process
+I/O-bound process
+arrival time
+service time
+long job
+scheduling algorithm
+selection function
+decision mode
+nonpreemptive scheduling
+preemptive scheduling
+first-come, first-served scheduling
+FCFS
+shortest-job-first scheduling
+SJF
+shortest process next
+SPN
+priority scheduling
+dynamic priorities
+starvation
+round-robin scheduling
+RR
+time slice
+time quantum
+clock interrupt
+multilevel queue scheduling
+multilevel feedback queue scheduling
+convoy effect
+I/O device utilization

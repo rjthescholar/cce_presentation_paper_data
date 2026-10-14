@@ -1,0 +1,23 @@
+title,keywords,name
+02_introduction_ros_handout (Part 1),rpc; distributed; robot operating system; distributed computing; operating; operating system; system; hardware abstractions; communication,cs1567-1-P1
+02_introduction_ros_handout (Part 2),anonymous publish subscribe; robot; robot operating system; kobuki node,cs1567-1-P2
+03_publisher_subscriber_handout (Part 1),publisher; type publisher; anonymous; forget; subscriber publisher; type string; python; debugging,cs1567-2-P1
+03_publisher_subscriber_handout (Part 2),listener; debugging; publisher; chatter; def listener; forget,cs1567-2-P2
+03_publisher_subscriber_handout (Part 3),data def mainprogram; callback; def listener; callback function; function cleanup; listener; process; publisher,cs1567-2-P3
+05_joy_node_handout (Part 1),joy node; stick right,cs1567-3-P1
+05_joy_node_handout (Part 2),,cs1567-3-P2
+07_kobuki_node_handout (Part 1),kobuki robot; kobuki node; synchronization bumper switches buttons,cs1567-4-P1
+07_kobuki_node_handout (Part 2),bumper; def bumperexample; right bumper; bumperexample; bumperevent def bumpercallback; bumpercallback; def buttoncallback; center bumper; left bumper,cs1567-4-P2
+07_kobuki_node_handout (Part 3),def odomcallback; odometry,cs1567-4-P3
+09_10_blobs_detections_handout (Part 1),computer vision; detection; blob detection,cs1567-5-P1
+09_10_blobs_detections_handout (Part 2),def main; colorimage; global colorimage,cs1567-5-P2
+09_10_blobs_detections_handout (Part 3),color file,cs1567-5-P3
+09_10_blobs_detections_handout (Part 4),opencv def main; colorimage; global colorimage; green blue,cs1567-5-P4
+09_10_blobs_detections_handout (Part 5),blob detection,cs1567-5-P5
+09_10_blobs_detections_handout (Part 6),,cs1567-5-P6
+09_10_blobs_detections_handout (Part 7),drawkeypoints,cs1567-5-P7
+14_pid_control_handout (Part 1),,cs1567-6-P1
+14_pid_control_handout (Part 2),,cs1567-6-P2
+14_pid_control_handout (Part 3),,cs1567-6-P3
+15_launch_file_handout (Part 1),launch file; kobuki; kobuki node,cs1567-7-P1
+15_launch_file_handout (Part 2),launch file; file,cs1567-7-P2

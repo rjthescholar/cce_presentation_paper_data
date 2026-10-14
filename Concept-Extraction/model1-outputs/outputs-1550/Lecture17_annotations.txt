@@ -1,0 +1,27 @@
+page replacement algorithm
+page replacement simulation
+reference string
+page frame
+physical memory
+page fault
+page fault rate
+paging system
+FIFO
+first-in, first out
+clock algorithm
+LRU
+least recently used
+OPT
+optimal
+NRU
+not recently used
+NFU
+not frequently used
+second chance
+aging
+working set
+WSClock
+Belady’s anomaly
+stack algorithm
+reference distance
+distance string

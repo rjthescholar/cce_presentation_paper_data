@@ -1,0 +1,37 @@
+abstract syntax tree
+AST
+control flow
+control flow analysis
+data flow analysis
+control flow graph
+CFG
+intermediate representation
+IR
+basic block
+BB
+predecessor
+successor
+back edge
+entry point
+instruction
+terminator
+return terminator
+goto terminator
+conditional terminator
+local variable
+temporary
+place
+constant
+source
+field access
+function address
+return value
+lowering
+code generation
+optimization
+source language
+target language
+frontend
+backend
+postorder
+depth-first traversal

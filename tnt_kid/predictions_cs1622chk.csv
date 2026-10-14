@@ -1,0 +1,103 @@
+title,keywords,name
+01 - Intro and Rust (Part 1),powerpoint; be sure; discord hours; drs; disabilities; rust,cs1622-1-P1
+01 - Intro and Rust (Part 2),cheat; exams; mess; language; sounds; objects; trust; rust; actions,cs1622-1-P2
+01 - Intro and Rust (Part 3),machine language; native machine; decompilers; bytecode; jvm bytecode; level languages; lower level languages; native code; hlls; source language,cs1622-1-P3
+01 - Intro and Rust (Part 4),syntax tree; language; abstract syntax trees; type systems,cs1622-1-P4
+01 - Intro and Rust (Part 5),rust; class; space,cs1622-1-P5
+"02 - Rust, Strings, and Text (Part 1)",rust; strings; iterator,cs1622-2-P1
+"02 - Rust, Strings, and Text (Part 2)",rust; privacy; class hierarchy,cs1622-2-P2
+"02 - Rust, Strings, and Text (Part 3)",rust,cs1622-2-P3
+"02 - Rust, Strings, and Text (Part 4)",rust; strings; codepoints; reversing strings; character; unicode; unicode text; ascii characters; java; clusters,cs1622-2-P4
+"02 - Rust, Strings, and Text (Part 5)",rust,cs1622-2-P5
+03 - Lexing and Grammars (Part 1),grammars; lexer; lexing; lexer strips; programming language; lexing 3; compiler; compiler stuff,cs1622-3-P1
+03 - Lexing and Grammars (Part 2),grammars; lexing; tokens,cs1622-3-P2
+03 - Lexing and Grammars (Part 3),grammars; lexing; language; programming language; metalanguage; patterns; code,cs1622-3-P3
+03 - Lexing and Grammars (Part 4),grammars; lexing; lexer; parser; tokenizations; compilers; ambiguity; java,cs1622-3-P4
+03 - Lexing and Grammars (Part 5),lex; grammars; lexing algorithm; lexer; lexer parser; general; language; list string; list; language design,cs1622-3-P5
+04 - CFGs and ASTs (Part 1),languages; regular languages; asts; dependency graph; dag; power; lexing grammars; tree; fair; complex algorithms,cs1622-4-P1
+04 - CFGs and ASTs (Part 2),cfg; language; tree; parser; semantics; radix; java,cs1622-4-P2
+04 - CFGs and ASTs (Part 3),,cs1622-4-P3
+04 - CFGs and ASTs (Part 4),recursion; recursive algorithm; children; evaluate; transformations; tree; multiplication,cs1622-4-P4
+05 - Top-down Parsing (Part 1),language; grammar; error; derivation; tree; example language; error messages; language family; parsing; lisp,cs1622-5-P1
+05 - Top-down Parsing (Part 2),parsing,cs1622-5-P2
+05 - Top-down Parsing (Part 3),parsing; grammar; grammar metalanguage; metalanguage; design; parser; match; real parser; patterns; sequencing,cs1622-5-P3
+05 - Top-down Parsing (Part 4),comma; parser; algorithm; error; compiler errors; compilers; situations; programming languages; terminology; error messages,cs1622-5-P4
+05 - Top-down Parsing (Part 5),errors; parser; tokens; error messages; parsing; semantic errors; parsing error recovery; semantic analysis; compile; top,cs1622-5-P5
+06 - Bottom-up Parsing (Part 1),parse; programming languages; rank; bottom up parsing; algorithmically checkable method; mathematicians; parsing now; parsing expressions; source code; horizontal division,cs1622-6-P1
+06 - Bottom-up Parsing (Part 2),associative; postfix operators; parsed; bottom up parsing; language; style languages; grammar,cs1622-6-P2
+06 - Bottom-up Parsing (Part 3),expression; expression grammar; grammar; algorithm; core; language; associativity; parse; operators; associative binary operators,cs1622-6-P3
+06 - Bottom-up Parsing (Part 4),algorithm; parsing; bottom up parsing; expressions; animated; precedence,cs1622-6-P4
+06 - Bottom-up Parsing (Part 5),parse; parser; expression parser; language; expressions; bottom up parsing; block; exp block; bottom up; exp,cs1622-6-P5
+06 - Bottom-up Parsing (Part 6),bottom up parsing; programmer; write,cs1622-6-P6
+07 - Semantic Analysis (Part 1),language; java; semantics; semantic analysis; java compiler; lexes; compiler; rules; boolean; times,cs1622-7-P1
+07 - Semantic Analysis (Part 2),language; programming language; type system; java; program; useful programs; use; type system affects; methods; type,cs1622-7-P2
+07 - Semantic Analysis (Part 3),arguments; type arguments; language; sounds; type; type constructor; assembly language; array; type systems; java,cs1622-7-P3
+07 - Semantic Analysis (Part 4),languages; dynamic languages; class; runtime error; print; case; shadowing; runtime; variables; code,cs1622-7-P4
+07 - Semantic Analysis (Part 5),effects; language; evaluation; semantics; functional languages; code; evaluation order; function; java code; order,cs1622-7-P5
+07 - Semantic Analysis (Part 6),interpreter code; ast interpreter; semantic analysis,cs1622-7-P6
+08 - Scoping and Naming (Part 1),scoping; tables; macros; algorithm; semantic analysis; tree; mapping; symbol tables; data structure; class,cs1622-8-P1
+08 - Scoping and Naming (Part 2),scoping; scope tree; resolution; name resolution algorithm; name resolution; abstract syntax tree; scope tree data structure; declaration; match; ast,cs1622-8-P2
+08 - Scoping and Naming (Part 3),use; use map; scope tree; situation; scoping; class; data structure; system; assignment; access,cs1622-8-P3
+08 - Scoping and Naming (Part 4),ownership; java; performance; compiler; design; real compilers; identifier; associated data; physical locality; ast,cs1622-8-P4
+08 - Scoping and Naming (Part 5),scoping; declaration; scope tree; compiler; class; declaration map; direct pointers; vector; semantic analysis; use map,cs1622-8-P5
+08 - Scoping and Naming (Part 6),name resolution; naming; scope tree; scoping; name checking; use map; recursive ast; semantic analysis; perform name resolution; whenever,cs1622-8-P6
+09 - Typing (Part 1),language; device drivers; systems; type system; operating systems; valid operations; type safety; type theory; type error; mathematics,cs1622-9-P1
+09 - Typing (Part 2),gpus; languages; scripting language; future; specific languages; java; decidability; typed languages; runtime; dsls,cs1622-9-P2
+09 - Typing (Part 3),coercion; language; javascript; compiler; conversion; system; typed languages; type conversion; type errors; type inference,cs1622-9-P3
+09 - Typing (Part 4),languages; function types; types; type constructor; argument types; axiomatic rules; arguments; type system; type inference; type checking algorithm,cs1622-9-P4
+09 - Typing (Part 5),java; inference; types; type checking; implementing; rust,cs1622-9-P5
+10 - Advanced Typing (Part 1),languages; polymorphism; array; arraylist class; language features; java; morph; ad hoc,cs1622-10-P1
+10 - Advanced Typing (Part 2),subtype; subtype polymorphism; implicit type conversions; java; match; languages; print,cs1622-10-P2
+10 - Advanced Typing (Part 3),ad hoc polymorphism; languages; subtype polymorphism; object; subtyping; supertrait; interface variables; print; layout; parametric polymorphism,cs1622-10-P3
+10 - Advanced Typing (Part 4),polymorphic; java; type; polymorphic code; parametric polymorphism; compiler; code; arraylist; compilation time; monomorphization,cs1622-10-P4
+10 - Advanced Typing (Part 5),polymorphism; subtype polymorphism; error; templates; parametric polymorphism; system; function overloading; type systems; rust; compiler,cs1622-10-P5
+11 - Backend and Runtime (Part 1),compiler; code; language; source code; source language; validate; maps; correctness; exaaaaaaaam; translation,cs1622-11-P1
+11 - Backend and Runtime (Part 2),compilers; runtime; code; compile time; class; example; algorithms; language; computers; optimizing code,cs1622-11-P2
+11 - Backend and Runtime (Part 3),runtime; language; templates; compiler; runtime library; code; standard library; function; language features; time,cs1622-11-P3
+11 - Backend and Runtime (Part 4),compiler; trust recursion; code; codegen; fragments; linking; address; executables; functions,cs1622-11-P4
+11 - Backend and Runtime (Part 5),compiler; language; libraries; shared libraries; code; types; custom types; object files; linking; versions,cs1622-11-P5
+12 - Dynamic Memory Management (Part 1),code generation; dynamic memory management; lifetime; ownership; compiler; dynamic allocation; finite resource; deallocation; allocation; deallocation marks,cs1622-12-P1
+12 - Dynamic Memory Management (Part 2),dynamic memory management; memory; bracket operators perform; memory address; java; reference; write; array; structures; index,cs1622-12-P2
+12 - Dynamic Memory Management (Part 3),text; sounds; reuse; object; processing; example; reuse memory; times; program; memory,cs1622-12-P3
+12 - Dynamic Memory Management (Part 4),dynamic memory management; heap memory management; compiler; refcounting; pointers pointing; deadlocks; assignment,cs1622-12-P4
+12 - Dynamic Memory Management (Part 5),objects; performance; algorithm; pointer; information; compiler; tracing algorithm; time; multithreading; global,cs1622-12-P5
+13 - ABI and Codegen (Part 1),compilers; embedded devices; application binary interfaces; code; architectural; code programs; programs; language; grades; dynamic method dispatch,cs1622-13-P1
+13 - ABI and Codegen (Part 2),compiler; alignment; language designer; programs; points; pointer; stack space; stack pointer; features; support,cs1622-13-P2
+13 - ABI and Codegen (Part 3),languages; classes; interface; systems language; code; systems programming languages; standard library; program; runtime libraries; standard,cs1622-13-P3
+13 - ABI and Codegen (Part 4),compiler; code; codegen; language; codegen treats; standard library; print; mips; concat; features,cs1622-13-P4
+13 - ABI and Codegen (Part 5),arguments; super simple function; return address register; local; program; order; space,cs1622-13-P5
+13 - ABI and Codegen (Part 6),offsets; function; local; return address; pointer; positive offsets; stack pointer; reference point; arguments,cs1622-13-P6
+14 - More Codegen and Arrays (Part 1),offsets; function; arrays; positive offsets; arguments,cs1622-14-P1
+14 - More Codegen and Arrays (Part 2),evaluate; you mix function; arrays,cs1622-14-P2
+14 - More Codegen and Arrays (Part 3),code; control flow; languages; register allocation; codegen; java; register; algorithm; arrays; loops,cs1622-14-P3
+14 - More Codegen and Arrays (Part 4),viable product; core features; arrays; java; code; write array types,cs1622-14-P4
+14 - More Codegen and Arrays (Part 5),arrays; code generation; java; language; array allocations; runtime library; address; version,cs1622-14-P5
+"15 - Structs and Classes, OOP (Part 1)",languages; classes; stuff; structs and classes; heterogeneous; structs; arrays; heterogeneous types; const age; types,cs1622-15-P1
+"15 - Structs and Classes, OOP (Part 2)",types; reference types; address; languages; reference variable; string; value types; structs; object y,cs1622-15-P2
+"15 - Structs and Classes, OOP (Part 3)",runtime library; memory allocator; language; structs,cs1622-15-P3
+"15 - Structs and Classes, OOP (Part 4)",inheritance; java; java code; method; o method; subtyping; structs; class; static dispatch; constructor,cs1622-15-P4
+"15 - Structs and Classes, OOP (Part 5)",class; whiskers; structs; virtual methods; method; subtypes; language,cs1622-15-P5
+"15 - Structs and Classes, OOP (Part 6)",structs,cs1622-15-P6
+16 - Control Flow Graphs and IR (Part 1),control flow graphs; code; code generator; control flow analysis; data flow analysis; machine assembly; fit for; compiler; asts; quality,cs1622-16-P1
+16 - Control Flow Graphs and IR (Part 2),algorithms; control flow; control flow graphs; semantic analysis; source language; target machine code; real languages; hidden complexity; abstract; flexible,cs1622-16-P2
+16 - Control Flow Graphs and IR (Part 3),control flow graphs,cs1622-16-P3
+16 - Control Flow Graphs and IR (Part 4),code generation; function; control flow graphs; abstract syntax tree; conditional terminator; goto terminator; return terminator; complex register allocation algorithms,cs1622-16-P4
+16 - Control Flow Graphs and IR (Part 5),control flow graphs; control flow; goto,cs1622-16-P5
+17 - Local Optimization (Part 1),optimization; order; automated versions; code; resource utilization; behavior; time; local optimization; debug; compilers,cs1622-17-P1
+17 - Local Optimization (Part 2),optimizations; language; time; combination; semantics; complete; local optimization; compilation; global optimizations; assignments,cs1622-17-P2
+17 - Local Optimization (Part 3),optimize; operations; reduction; performance; code; code generator; simplify; algebraic simplification; 17 local optimization; uses algebraic laws,cs1622-17-P3
+17 - Local Optimization (Part 4),optimizing; algorithms; local optimizations; mixed bag; cfg; super useful; 17 local optimization,cs1622-17-P4
+17 - Local Optimization (Part 5),optimization; scheme; code; compiler; 17 local optimization; dead store elimination,cs1622-17-P5
+18 - Global Optimization (Part 1),optimizations; global optimization; local optimization; cfg; goto; real functions; copy propagation; forget,cs1622-18-P1
+18 - Global Optimization (Part 2),optimizations; global optimization; data flow analysis; assignment; framework; termination; compiler,cs1622-18-P2
+18 - Global Optimization (Part 3),optimizations; global optimization; backward analysis; forward analysis; global constant copy propagation; cfg,cs1622-18-P3
+18 - Global Optimization (Part 4),transfer function; global optimization; variable x right; knowledge,cs1622-18-P4
+18 - Global Optimization (Part 5),global optimization,cs1622-18-P5
+18 - Global Optimization (Part 6),global optimization; termination; algorithm,cs1622-18-P6
+18 - Global Optimization (Part 7),global optimization; optimizations; liveness; misalignment; register allocation; ranges,cs1622-18-P7
+19 - Liveness and Register Allocation (Part 1),backwards; register allocation; join function; transfer function; sounds; liveness algorithm; state flows; liveness,cs1622-19-P1
+19 - Liveness and Register Allocation (Part 2),liveness; termination; liveness algorithm; register allocation; diamond shape; compiler; implementation; efficient; functions; code,cs1622-19-P2
+19 - Liveness and Register Allocation (Part 3),register allocation; reasons; register allocation algorithms; mips; real mips; pipeline; real; compiler; core; performance,cs1622-19-P3
+19 - Liveness and Register Allocation (Part 4),graph; graph algorithms; heuristic; graph coloring; np complete; color; register interference graph; coloring order; register used; register allocation,cs1622-19-P4
+19 - Liveness and Register Allocation (Part 5),colored; register allocation; heuristic; obj,cs1622-19-P5
+19 - Liveness and Register Allocation (Part 6),heuristics; register allocation; register allocation algorithm; algorithm; registers; color; use; rewrite spill liveness; rewrite; compute liveness,cs1622-19-P6

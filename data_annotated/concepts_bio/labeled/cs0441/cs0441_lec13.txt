@@ -1,0 +1,8 @@
+mathematical induction
+base case
+i.h.
+factorial
+inductive step
+well ordering
+inductive hypothesis
+well ordering axiom

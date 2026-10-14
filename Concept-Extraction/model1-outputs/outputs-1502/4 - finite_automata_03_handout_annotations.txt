@@ -1,0 +1,29 @@
+nondeterministic finite automaton
+NFA
+deterministic finite automaton
+DFA
+computational tree
+state
+start state
+accept state
+transition
+transition function
+ε transition
+input symbol
+input string
+alphabet
+language
+regular language
+powerset
+state diagram
+unreachable state
+E(R)
+NFA-to-DFA conversion
+equivalence of NFAs and DFAs
+closure under union
+closure under concatenation
+closure under star
+union
+concatenation
+star operation
+empty string

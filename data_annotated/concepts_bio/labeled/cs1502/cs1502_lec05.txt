@@ -1,0 +1,16 @@
+σ ∗
+empty string
+regular languages
+dfa
+σ
+rk
+nfa
+regular expressions
+r+
+∅
+recursive definition
+regular language
+alphabet σ
+regular expression
+concatenation
+ε

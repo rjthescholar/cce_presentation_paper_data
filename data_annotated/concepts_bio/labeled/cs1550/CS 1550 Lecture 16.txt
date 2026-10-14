@@ -1,0 +1,24 @@
+nfu
+second chance
+first-in,first-out
+dirty bit
+page replacement
+fifo
+page replacement algorithms
+reference bit
+working set
+least recently used
+demand paging
+page replacement algorithm
+clock algorithm
+not-recently-used
+locality of reference
+page fault
+aging
+thrashing
+lru
+optimal page replacement algorithm
+not frequently used
+nru
+victim page
+opt

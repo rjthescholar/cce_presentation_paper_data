@@ -1,0 +1,22 @@
+FSM
+finite state machine
+state machine
+state
+input
+output
+state transition
+state transition diagram
+state transition table
+truth table
+state encoding
+output bit
+current state
+next state
+output table
+sequential circuit
+transition logic
+state register
+output logic
+Moore FSM circuit
+K-map
+Karnaugh map

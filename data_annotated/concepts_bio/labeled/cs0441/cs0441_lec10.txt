@@ -1,0 +1,19 @@
+fibonacci sequence
+geometric progressions
+terms
+uncountable
+cardinality
+diagonalization
+one-to-one correspondence
+index of summation
+summation notation
+closed-form
+term
+sequence
+arithmetic progressions
+countable
+closed form
+geometric sequence
+geometric series
+arithmetic sequence
+sequences

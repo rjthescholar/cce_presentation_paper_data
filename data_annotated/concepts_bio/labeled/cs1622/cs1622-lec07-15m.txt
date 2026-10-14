@@ -1,0 +1,38 @@
+side effects
+order
+type system
+type
+primitive
+semantics
+static
+types
+ast interpreter
+scope
+untyped
+name resolution
+dynamic scope
+program
+type constructor
+generic types
+static scope
+dynamically scoped
+side-effect-free functions
+type constructors
+eager
+generic type
+dynamically-typed language
+scoping
+compile
+shadowing
+semantic analysis
+shadows
+compile-time
+typing
+runtime
+compound types
+type arguments
+dynamic
+type systems
+primitive types
+lazy
+evaluation

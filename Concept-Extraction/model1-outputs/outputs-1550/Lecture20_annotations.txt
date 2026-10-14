@@ -1,0 +1,36 @@
+page size
+internal fragmentation
+physical memory
+page table
+multi-level page tables
+inverted page tables
+TLB
+page sharing
+physical page frame
+virtual address
+paging
+page fault
+page replacement
+dirty page
+page locking
+virtual memory
+I/O buffer
+MMU
+OS
+operating systems
+partition table
+master boot record
+boot block
+superblock
+index node
+free space management
+disk block
+file block allocation
+contiguous allocation
+linked allocation
+random access
+logical-to-physical mapping
+directory structure
+free-block bitmap
+FAT
+file allocation table

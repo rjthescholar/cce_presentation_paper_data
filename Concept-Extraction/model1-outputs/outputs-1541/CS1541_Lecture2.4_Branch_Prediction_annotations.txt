@@ -1,0 +1,59 @@
+branch prediction
+branch predictor
+branch outcome
+branch direction
+branch target
+branch misprediction
+pipeline flush
+pipeline bubble
+data hazard
+predict taken
+predict not taken
+static branch prediction
+dynamic branch prediction
+branch history
+branch history table
+BHT
+taken
+T
+not taken
+NT
+branch target buffer
+BTB
+program counter
+PC
+hash table
+combined branch predictor
+1-bit BHT predictor
+2-bit BHT predictor
+2-bit saturating counter
+strongly not taken
+weakly not taken
+weakly taken
+strongly taken
+correlating predictor
+local branch history
+global branch history
+local branch history correlating predictor
+global branch history correlating predictor
+unified correlating predictor
+branch history shift register
+BHR
+indirect branch
+return address
+return stack buffer
+misprediction rate
+pipeline flush penalty
+CPI
+predication
+predicate
+predicated instruction
+conditional execution
+control dependency
+data dependency
+predicate dependency
+data forwarding
+instruction scheduling
+software profiling
+conditional move instruction
+logical mask

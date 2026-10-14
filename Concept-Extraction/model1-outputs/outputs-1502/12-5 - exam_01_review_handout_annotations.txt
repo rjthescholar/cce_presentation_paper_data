@@ -1,0 +1,34 @@
+deterministic finite automaton
+DFA
+nondeterministic finite automaton
+NFA
+generalized nondeterministic finite automaton
+GNFA
+state diagram
+formal definition of a finite automaton
+state
+alphabet
+transition function
+start state
+accept state
+input string
+language
+language of a DFA
+regular language
+finite state machine
+union
+concatenation
+star operation
+closure under union
+closure under concatenation
+closure under star
+computational tree
+ε-transition
+powerset
+equivalence of NFAs and DFAs
+regular expression
+regular expression to NFA conversion
+DFA to regular expression conversion
+unreachable state
+pumping lemma
+proof by contradiction

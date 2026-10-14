@@ -1,0 +1,20 @@
+title,keywords,name
+01 - Intro and Rust,powerpoint; use email; rust; disabilities; discord hours; sure; drs,cs1622-1
+"02 - Rust, Strings, and Text",rust; iterator,cs1622-2
+03 - Lexing and Grammars,lex; grammars; lexer; programming language; lexer strips; compiler; lexing 3; compiler stuff; python,cs1622-3
+04 - CFGs and ASTs,languages; dag; regular languages; dependency graph; power; asts; lexing grammars; context free languages; complex; recursive rules,cs1622-4
+05 - Top-down Parsing,language; derivation; lisp; error; top down parsing; tree; grammar; abstract; error messages; example language,cs1622-5
+06 - Bottom-up Parsing,mathematicians; parsing; programming languages; bottom up parsing; parsing expressions; rank; algorithmically checkable method; formalized; trees; order,cs1622-6
+07 - Semantic Analysis,language; java; semantics; java compiler; compiler; semantic analysis; lexes; runtime; boolean; code,cs1622-7
+08 - Scoping and Naming,scoping; macros; tables; algorithm; semantic analysis; symbol tables; mapping; data structure; name checking; methods,cs1622-8
+09 - Typing,language; device drivers; types; type systems; type theory; programming languages; type error; type safety; programs; operating systems,cs1622-9
+10 - Advanced Typing,languages; polymorphism; java; array; arraylist; arraylist class; language features; morph; python; ad hoc,cs1622-10
+11 - Backend and Runtime,compiler; source code; runtime; correctness; language; translation; lw; course,cs1622-11
+12 - Dynamic Memory Management,code generation; dynamic memory management; compiler; dynamic allocation; runtime library; ownership; output machine code; compiler design; space; deallocation,cs1622-12
+13 - ABI and Codegen,compilers; embedded devices; application binary interfaces; architectural; codegen; code; language; grades; exceptions; code programs,cs1622-13
+14 - More Codegen and Arrays,offsets; arrays; positive offsets; arguments; function; code; point,cs1622-14
+"15 - Structs and Classes, OOP",languages; heterogeneous; stuff; index; class; heterogeneous types; structured types; semantic analysis; power; structs and classes,cs1622-15
+16 - Control Flow Graphs and IR,code generator; code; fit; cfg; control flow graphs; control flow analysis; assembly code; data flow analysis; compiler; function,cs1622-16
+17 - Local Optimization,optimization; code; automated versions; resource utilization; time; order; code elimination; global optimizations; data variables; power,cs1622-17
+18 - Global Optimization,global; global optimization; optimizations; local optimization; cfg; functions,cs1622-18
+19 - Liveness and Register Allocation,backwards; register allocation; cfg; join function; transfer function; liveness algorithm; compilers; 19 liveness,cs1622-19

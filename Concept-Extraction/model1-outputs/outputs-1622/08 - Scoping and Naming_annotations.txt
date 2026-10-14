@@ -1,0 +1,35 @@
+semantic analysis
+name-checking
+scoping violations
+scope
+scoping rules
+global scope
+parent scope
+symbol
+symbol table
+scope tree
+referent
+declaration
+use
+name resolution
+name resolution algorithm
+unresolved symbol
+type error
+typechecking
+forward reference
+local variable declaration
+AST
+abstract syntax tree
+AST node identifier
+symbol object
+symbol identifier
+declaration map
+use map
+name context
+recursive AST visit
+bidirectionally linked scopes
+decoupling
+cyclical data structures
+ownership
+borrowing
+memory safety

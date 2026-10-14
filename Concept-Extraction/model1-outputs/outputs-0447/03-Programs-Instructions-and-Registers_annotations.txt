@@ -1,0 +1,30 @@
+instruction
+program
+machine language
+assembly language
+asm
+bit pattern
+CPU
+Turing machine
+memory
+register
+instruction set architecture
+ISA
+CISC
+complex instruction set computer
+RISC
+reduced instruction set computer
+MIPS
+x86
+ARM
+general-purpose register
+special-purpose register
+temporary register
+saved register
+load immediate
+li
+immediate
+compiler
+high-level language
+HLL
+cognitive load

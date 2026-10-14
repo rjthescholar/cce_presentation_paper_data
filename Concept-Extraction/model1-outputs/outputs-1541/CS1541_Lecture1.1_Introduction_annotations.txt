@@ -1,0 +1,28 @@
+zero-sum thinking
+collaboration
+competition
+collaborative learning
+computer architecture
+processor
+CPU
+instruction set architecture
+ISA
+processor organization
+microarchitecture
+transistor implementation
+physical layer
+software layer
+system architecture
+instruction set
+registers
+performance attributes
+speed
+energy efficiency
+reliability
+application pull
+technology push
+latency
+throughput
+redundancy
+floating point units
+memory cache

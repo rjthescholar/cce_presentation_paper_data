@@ -1,0 +1,36 @@
+application software
+system software
+operating system
+device drivers
+virtual machine
+VM
+compiler
+compilation
+java bytecode
+platform independence
+runtime isolation
+hello world program
+case sensitivity
+statement
+console
+string
+escape character
+variable
+variable declaration
+variable assignment
+type
+variable name
+value
+identifier
+valid identifier
+reserved java keyword
+naming convention
+lowerCamelCase
+UpperCamelCase
+print
+println
+string concatenation
+comment
+line-by-line commenting
+block comment
+nested comment

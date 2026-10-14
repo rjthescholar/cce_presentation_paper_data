@@ -1,0 +1,51 @@
+stack
+type safety
+stack frame
+statically-determined location
+dereferencing
+concurrent collectors
+deallocating
+referent
+static allocation
+deallocation
+reference
+automatic memory management
+pointers
+multithreaded collectors
+memory-safe
+aliasing
+pointer aliasing
+lifetime
+allocate
+references
+pointer
+ownership
+pointer arithmetic
+allocation
+allocates
+generational collectors
+mutation phase
+dynamic allocation
+arena allocation
+manual memory management
+collection phase
+copying collectors
+dynamic memory management
+stacks
+allocated
+automatic heap memory management
+heap-allocated
+memory safety
+memory leak
+dangling pointers
+tracing garbage collection
+deallocated
+mark-and-sweep
+deallocate
+indirection
+owner
+heap
+dangling/invalid pointers
+heap memory management
+reference counting
+memory address

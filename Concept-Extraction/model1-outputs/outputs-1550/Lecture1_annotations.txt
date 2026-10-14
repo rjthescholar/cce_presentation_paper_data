@@ -1,0 +1,53 @@
+operating system
+OS
+resource management
+resource protection
+separation of policy and mechanism
+abstraction
+virtualization
+interrupt
+hardware interrupt
+software interrupt
+exception
+trap
+system call
+interrupt service routine
+ISR
+interrupt vector
+interrupt vector table
+interrupt descriptor table
+IDT
+operating system kernel
+dual-mode operation
+user mode
+kernel mode
+mode bit
+privileged instruction
+privileged memory address
+segmentation fault
+virtual machine manager
+VMM
+virtual machine
+system call interface
+system call implementation function
+system-call table
+system call parameter passing
+register
+memory block
+stack
+application programming interface
+API
+Win32 API
+POSIX API
+Java API
+Java virtual machine
+JVM
+library call
+traditional UNIX system structure
+microkernel system structure
+microkernel
+interprocess communication
+file system
+device driver
+CPU scheduling
+memory management

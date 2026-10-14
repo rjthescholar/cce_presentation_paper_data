@@ -1,0 +1,39 @@
+fractional binary
+positional number representation
+binary-to-decimal conversion
+decimal-to-binary conversion
+integer part
+fractional part
+binary point
+fixed-point representation
+bitfield
+representation range
+representation accuracy
+scientific notation
+binary scientific notation
+normalized scientific notation
+floating-point representation
+floating-point arithmetic
+IEEE 754
+single-precision floating-point format
+double-precision floating-point format
+half-precision floating-point format
+sign
+significand
+fraction
+exponent
+exponent field
+biased notation
+biased exponent
+bias constant
+normalized representation
+implicit leading 1
+sign-magnitude
+floating-point addition
+floating-point multiplication
+floating-point division
+zero
+infinity
+denormalized number
+NaN
+not a number

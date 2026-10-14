@@ -1,0 +1,39 @@
+top-down parsing
+parsing
+grammar
+grammar rule
+generative view
+nonterminal
+terminal
+derivation
+input string
+abstract syntax tree
+AST
+Lisp
+token
+lexing
+error handling
+Result type
+type alias
+Ok
+Err
+recursive descent parser
+recursion
+root rule
+grammar metalanguage
+sequencing
+alternation
+repetition
+optional rule
+struct
+enum
+vector
+Option
+expression
+backtracking
+error reporting
+error message
+error recovery
+location information
+semantic analysis
+error context

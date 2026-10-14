@@ -1,0 +1,10 @@
+super
+protected
+subclass
+super class
+ownership
+sub
+extends
+superclass
+parent class
+subclasses

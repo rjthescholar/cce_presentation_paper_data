@@ -1,0 +1,44 @@
+return value registers
+arguments
+s register contract
+calling conventions
+s register
+jump register instruction
+ra
+pseudo-ops
+local variables
+callee
+jr
+pc
+function prologue
+program counter
+program counter register
+calling convention
+unsaved registers
+a0-a3
+caller
+v0-v1
+heap
+return values
+functions
+saved registers
+function epilogue
+v registers
+a registers
+memory layout
+pop
+dynamic memory
+return address register
+return address
+push
+jal
+sp
+s registers
+function
+jump and link instruction
+flow of control
+stack
+jump and link
+activation frame
+argument registers
+stack pointer

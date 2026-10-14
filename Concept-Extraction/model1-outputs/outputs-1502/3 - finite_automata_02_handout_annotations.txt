@@ -1,0 +1,25 @@
+finite automaton
+finite-state automaton
+DFA
+deterministic finite automaton
+computational model
+string
+alphabet
+language
+regular language
+problem represented as a language
+solvable problem
+acceptance
+state
+start state
+accept state
+transition function
+regular operations
+union
+concatenation
+star
+closure under operations
+closure under union
+intersection
+empty string
+empty language

@@ -1,0 +1,29 @@
+interrupts
+api
+exception
+syscall
+system call
+user mode
+interrupt vector table
+idt
+application programming interface
+system-call table
+interrupt
+software interrupt
+system calls
+dual-mode operation
+os
+segmentation fault
+microkernel
+interrupt descriptor table
+operating system
+kernel mode
+hardware interrupt
+interrupt vector
+isrs
+interrupt service routine
+isr
+mode bit
+os kernel
+system call interface
+trap

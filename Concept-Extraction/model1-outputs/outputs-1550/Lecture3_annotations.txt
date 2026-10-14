@@ -1,0 +1,25 @@
+busy waiting
+spinning
+spinlock
+critical region
+critical section
+atomic instruction
+TestAndSet
+Swap
+SMP
+symmetric multi-processing
+priority inversion
+instruction reordering
+memory barrier
+semaphore
+Down
+Up
+P
+V
+blocking
+context switch
+counting semaphore
+binary semaphore
+Sleep
+Wakeup
+semaphore data structure

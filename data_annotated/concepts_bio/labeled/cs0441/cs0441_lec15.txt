@@ -1,0 +1,21 @@
+recursive sequences
+recursive step
+recursive function
+extended binary trees
+height
+recursive functions
+recursive
+basis step
+structural induction
+concatenation
+extended binary tree
+full binary tree
+length
+rooted trees
+well-formed
+rooted tree
+full binary trees
+fibonacci numbers
+base step
+well-formed formulae
+recursion

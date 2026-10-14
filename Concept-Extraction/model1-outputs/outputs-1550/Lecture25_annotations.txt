@@ -1,0 +1,38 @@
+journaling file system
+on-disk journal
+log-structured file system
+LSFS
+file linking
+file copying
+maximum partition size
+block size
+FAT-12
+FAT-16
+FAT-32
+open file table
+disk quota
+effective disk access time
+minimum seek time
+maximum seek time
+average rotational delay
+I/O buffering
+unbuffered input
+user-space buffering
+kernel-space buffering
+double buffering
+protection
+protection domain
+access rights
+domain transfer
+protection matrix
+access matrix
+access control list
+ACL
+capabilities
+file owner
+user group
+read permission
+write permission
+execute permission
+Unix file system
+AFS

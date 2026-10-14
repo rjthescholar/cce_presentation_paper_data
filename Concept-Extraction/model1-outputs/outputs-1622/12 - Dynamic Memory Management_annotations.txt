@@ -1,0 +1,54 @@
+dynamic memory management
+allocation
+static allocation
+dynamic allocation
+deallocation
+lifetime
+ownership
+global variable
+local variable
+stack
+stack frame
+heap
+heap allocation
+object
+indirection
+memory address
+pointer
+reference
+referent
+dereferencing
+memory safety
+arena allocation
+manual memory management
+automatic heap memory management
+pointer aliasing
+directed graph
+digraph
+directed acyclic graph
+DAG
+in-degree
+race condition
+deadlock
+dangling pointer
+pointer arithmetic
+undefined behavior
+UB
+root
+reachable object
+unreachable object
+reference counting
+refcounting
+refcount
+memory leak
+tracing garbage collection
+GC
+mark-and-sweep
+garbage collector
+mutation phase
+collection phase
+type safety
+concurrent collector
+multithreaded collector
+generational collector
+copying collector

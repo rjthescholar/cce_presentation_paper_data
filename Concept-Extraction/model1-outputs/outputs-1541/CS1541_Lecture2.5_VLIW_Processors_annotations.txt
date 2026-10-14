@@ -1,0 +1,54 @@
+pipelining
+deep pipelining
+cycle time
+CPI
+cycles per instruction
+IPC
+instructions per cycle
+pipeline stalls
+branch misprediction
+data hazards
+structural hazards
+wide-issue processors
+instruction scheduling
+static scheduling
+dynamic scheduling
+VLIW
+very long instruction word
+VLIW processor
+VLIW instruction
+instruction encoding
+superscalar processor
+instruction bundle
+stop bit
+EPIC
+explicitly parallel instruction computing
+binary translation
+predicates
+predication
+control dependencies
+loopback branches
+loop unrolling
+unroll factor
+induction variable increment
+instruction window
+list scheduling
+critical path
+data dependence graph
+ILP
+instruction level parallelism
+data dependencies
+RAW
+read-after-write
+true dependencies
+WAR
+write-after-read
+anti-dependencies
+WAW
+write-after-write
+false dependencies
+register renaming
+SSA
+static single assignment
+ready instructions
+greedy algorithm

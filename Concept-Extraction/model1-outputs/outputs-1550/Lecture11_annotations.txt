@@ -1,0 +1,23 @@
+deadlock detection
+deadlock avoidance
+banker’s algorithm
+sleepy barbers problem
+producer-consumer problem
+shared buffer
+semaphore
+lock
+mutex
+mutual exclusion
+waiting queue
+higher-priority waiters
+condition variable
+condition variable waiting
+condition variable signaling
+Hoare semantics
+Mesa semantics
+monitor
+process synchronization
+resource counter
+waiting space
+shared variables
+condition variable broadcasting

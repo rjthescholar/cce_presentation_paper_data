@@ -1,0 +1,22 @@
+function
+function components
+function header
+function body
+visibility type
+static
+return type
+function name
+parameters
+function overloading
+constructor
+main function
+scope
+if statement
+boolean condition
+if block
+else if
+assignment
+comparison
+equals()
+non-primitive values
+boolean operators

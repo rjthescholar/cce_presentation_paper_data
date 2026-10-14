@@ -1,0 +1,5 @@
+mapping reducible
+≤ m
+reductions
+mapping reducibility
+reduction

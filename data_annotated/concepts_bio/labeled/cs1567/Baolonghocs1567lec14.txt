@@ -1,0 +1,10 @@
+control system
+closed loop
+simplified method
+pid kp
+integral
+differential
+pid kd
+proportional
+open loop
+pid

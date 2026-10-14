@@ -1,0 +1,25 @@
+regular expression
+recursive definition
+alphabet
+symbol
+string
+empty string
+empty language
+language
+regular language
+union
+concatenation
+star operation
+R+ notation
+R^k notation
+operator precedence
+regular expression identities
+closure under union
+closure under concatenation
+closure under star
+NFA
+nondeterministic finite automaton
+DFA
+deterministic finite automaton
+regular expression to NFA conversion
+floating-point representation

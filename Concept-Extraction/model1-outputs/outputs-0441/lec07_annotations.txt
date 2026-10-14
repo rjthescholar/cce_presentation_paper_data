@@ -1,0 +1,23 @@
+implication
+proof techniques
+proof strategies
+direct proof
+indirect proof
+proof by contraposition
+proof by contradiction
+proof by cases
+exhaustive proof
+constructive existence proof
+non-constructive existence proof
+existential generalization
+uniqueness
+forward reasoning
+backward reasoning
+counterexample
+proof by counterexample
+adapting existing proofs
+pigeonhole principle
+triangle inequality
+arithmetic mean
+geometric mean
+distributive law

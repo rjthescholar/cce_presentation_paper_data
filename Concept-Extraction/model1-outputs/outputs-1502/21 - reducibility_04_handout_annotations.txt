@@ -1,0 +1,18 @@
+undecidability
+undecidability proof
+proof by contradiction
+decidable language
+undecidable language
+decider
+halting problem
+turing machine acceptance problem
+turing machine language emptiness problem
+turing machine
+TM
+ATM
+HALT_TM
+ETM
+language of a turing machine
+L(M)
+infinite loop
+helper machine

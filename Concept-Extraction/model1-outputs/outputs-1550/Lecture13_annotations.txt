@@ -1,0 +1,34 @@
+short-term scheduler
+CPU scheduling
+scheduling algorithm
+FCFS
+first come first serve
+SJF
+shortest process first
+priority scheduling
+RR
+round robin
+convoy effect
+preemptive scheduling
+non-preemptive scheduling
+arrival time
+service time
+time quantum
+CPU burst
+I/O-bound process
+CPU-bound job
+multilevel feedback scheduling
+dynamic priorities
+RQ
+ready to execute queue
+dispatcher
+starvation
+turnaround time
+process promotion
+system workload
+response time
+CPU utilization
+throughput
+CPU burst estimation
+simple averaging
+exponential averaging

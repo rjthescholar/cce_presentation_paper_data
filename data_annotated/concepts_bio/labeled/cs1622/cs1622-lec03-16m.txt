@@ -1,0 +1,33 @@
+terminal
+lookahead
+alphabet
+lexer
+terminals
+language
+keywords
+tokens
+nonterminals
+repetition
+nonterminal
+lookaheads
+sequencing
+alternation
+*
+metalanguage
+unicode
++
+ambiguity
+symbols
+keyword
+literals
+string
+identifiers
+languages
+truss
+maximal munch
+?
+symbol
+grammars
+|
+source code
+lexing

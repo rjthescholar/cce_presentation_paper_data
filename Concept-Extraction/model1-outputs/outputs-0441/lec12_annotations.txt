@@ -1,0 +1,18 @@
+prime number
+composite number
+prime factor
+prime factorization
+fundamental theorem of arithmetic
+prime divisor
+naive primality test
+sieve of Eratosthenes
+greatest common divisor
+GCD
+relatively prime
+coprime
+pairwise relatively prime
+euclid’s algorithm
+least common multiple
+LCM
+proof by contradiction
+non-constructive existence proof

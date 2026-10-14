@@ -1,0 +1,40 @@
+programmed i/o
+block
+cache
+system call
+raid 1
+interrupts
+raid 5
+raid 0
+memory-mapped i/o
+raid 4
+file system
+interrupt-driven i/o
+wear leveling
+polling
+single-bus
+ecc
+track
+raid4
+blocks
+log-structured file systems
+error detection
+dual-bus
+dumped
+interrupt handler
+i-node
+interrupt
+log structured file system
+sectors
+dump
+redundant array of inexpensive disks
+sector
+separate i/o
+log
+caching
+raids
+bus
+raid5
+lfs
+dma
+defense in depth

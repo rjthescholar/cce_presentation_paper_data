@@ -1,0 +1,69 @@
+language
+human language
+computer language
+programming language
+declarative language
+interchange format
+binary file format
+network protocol
+programs as proofs
+Curry–Howard correspondence
+proof language
+proof assistant
+machine code
+assembly language
+high-level language
+HLL
+abstraction
+performance
+compiler
+source language
+target language
+transpiler
+recompiler
+decompiler
+machine language
+ahead-of-time compilation
+AOT
+just-in-time compilation
+JIT
+interpreter
+compiler frontend
+compiler backend
+intermediate representation
+IR
+lexical analysis
+lexing
+scanning
+token
+syntactic analysis
+parsing
+grammar
+syntactic error
+abstract syntax tree
+AST
+semantic analysis
+type checking
+optimization
+code generation
+type theory
+type system
+static typing
+dynamic typing
+strong typing
+weak typing
+parametric type
+generic
+runtime representation
+memory management
+linking
+Rust
+systems language
+Rust toolchain
+rustup
+cargo
+crate
+dependency
+vector
+iteration
+compiler error

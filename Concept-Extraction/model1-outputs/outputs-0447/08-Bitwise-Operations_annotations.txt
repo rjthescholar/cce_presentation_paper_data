@@ -1,0 +1,31 @@
+bitwise operations
+bit pattern
+truth table
+not
+logical negation
+and
+logical product
+or
+logical sum
+bit shifting
+left shift
+right shift
+zero extension
+sign extension
+sll
+shift left logical
+sllv
+shift left logical variable
+srl
+shift right logical
+sra
+shift right arithmetic
+lui
+load upper immediate
+bit flags
+bitfield
+field
+RGB565
+mask
+bitfield assembly
+field extraction

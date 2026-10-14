@@ -1,0 +1,44 @@
+blob
+blob detection
+blob detection algorithm
+connected regions
+color filtering
+color range
+RGB format
+red, green, and blue
+YUV format
+luminance
+chrominance
+foreground
+background
+lighting conditions
+Gaussian blur
+noise reduction
+one-bit image
+pixel connectivity
+queue
+contour
+bounding box
+contour hierarchy
+object detection
+object recognition
+object tracking
+robot navigation
+object avoidance
+robot location
+robot orientation
+image message
+blob message
+blobs message
+gscam node
+image_view node
+cmvision node
+colorgui
+color file
+color threshold
+OpenCV
+computer vision
+SimpleBlobDetector
+keypoint
+findContours
+drawContours

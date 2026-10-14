@@ -1,0 +1,15 @@
+reducibility
+membership problem
+set
+function
+problem instance
+language
+decidability
+undecidability
+boolean algebra
+proof by contradiction
+decider
+TM
+turing machine
+ATM
+turing machine acceptance problem

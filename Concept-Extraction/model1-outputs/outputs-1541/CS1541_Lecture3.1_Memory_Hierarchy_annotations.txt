@@ -1,0 +1,69 @@
+memory hierarchy
+system memory hierarchy
+memory technologies
+static RAM
+SRAM
+dynamic RAM
+DRAM
+spinning magnetic disks
+HDD
+flash memory
+volatile memory
+nonvolatile memory
+memory density
+access time
+memory cell delay
+address decode delay
+wire delay
+registers
+cache
+caching
+multi-level caching
+L1 cache
+L2 cache
+L3 cache
+cache block
+cache block size
+cache hit
+cache miss
+cache capacity
+cache miss rate
+temporal locality
+spatial locality
+cold miss
+compulsory miss
+capacity miss
+working set
+working set overflow
+cache replacement
+least-recently-used replacement
+LRU
+PLRU
+linked list
+array
+contiguous memory
+memory access pattern
+performance monitoring unit
+PMU
+performance counter
+cycles per instruction
+CPI
+IPC
+memory stalls
+memory stall cycles
+CPU compute cycles
+memory latency
+memory bandwidth
+load
+store
+critical path
+pending store
+write buffer
+structural hazard
+DVFS
+cycle time
+operational intensity
+roofline model
+peak CPU performance
+memory-bound applications
+compute-bound applications

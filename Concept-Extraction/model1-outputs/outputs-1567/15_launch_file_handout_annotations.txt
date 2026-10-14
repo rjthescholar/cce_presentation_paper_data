@@ -1,0 +1,20 @@
+multiple processes for one application
+ROS
+launch file
+XML
+launch directory
+launch tag
+include tag
+node tag
+comment
+node
+node name
+package
+package name
+executable file
+console output
+working directory
+roslaunch
+roscore
+rosrun
+roscd

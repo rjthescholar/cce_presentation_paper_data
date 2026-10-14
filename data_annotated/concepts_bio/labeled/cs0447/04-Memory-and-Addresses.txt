@@ -1,0 +1,51 @@
+sw
+register
+memory addresses
+.text
+read,modify,write
+addresses
+lh
+mips
+lb
+sb
+stores
+sign bit
+endianness
+half-word
+la
+little-endian
+registers
+bi-endian
+memory
+signed numbers
+.word
+variable
+assembler
+sh
+cpu
+.byte
+address
+.data
+lw
+byteaddressable machine
+variables
+load-store architecture
+lbu
+truncation
+msb
+.half
+load
+byte
+value
+sign extension
+system memory
+persistent storage
+store
+loads
+word
+zero extension
+bytes
+big-endian
+assemblers
+load-store architectures
+words

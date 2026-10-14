@@ -1,0 +1,32 @@
+algorithm
+Turing machine
+combining Turing machines
+accept state
+reject state
+start state
+transition function
+tape
+tape head
+blank symbol
+palindrome
+copy
+NB
+PB
+R
+equal
+reverse of a string
+multitape Turing machine
+single-tape Turing machine
+simulation of a multitape Turing machine
+nondeterministic Turing machine
+NTM
+nondeterministic finite automata
+NFA
+deterministic Turing machine
+computation tree
+branch
+breadth-first search
+universal Turing machine
+formal definition of a Turing machine
+Church-Turing thesis
+model of computation

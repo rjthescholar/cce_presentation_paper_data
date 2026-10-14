@@ -1,0 +1,16 @@
+class np
+clique
+n p
+polynomial time verifier
+ntime
+hampath
+hamiltonian path
+certificate
+polynomial time verifiers
+nondeterministic polynomial time
+nondeterministic polynomial
+polynomially verifiable
+verifier
+np
+subset − sum
+polynomial verifiability

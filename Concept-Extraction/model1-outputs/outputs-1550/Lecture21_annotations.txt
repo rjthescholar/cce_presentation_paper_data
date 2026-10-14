@@ -1,0 +1,28 @@
+reference bit
+page fault
+page locking
+valid bit
+contiguous allocation
+linked allocation
+file allocation table
+FAT
+linked list
+block index
+indexed allocation
+index block
+random access
+maximum file size
+i-node
+index node
+fast file system
+FFS
+direct pointers
+single indirect
+double indirect
+triple indirect
+file metadata
+file name
+directory entry
+fixed-size entry
+long file name
+free block tracking

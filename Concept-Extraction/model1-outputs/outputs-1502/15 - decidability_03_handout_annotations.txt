@@ -1,0 +1,25 @@
+undecidability
+decidable
+undecidable
+ATM
+recognizable language
+unrecognizable language
+Turing-recognizable language
+TM
+Turing machine
+accept state
+reject state
+infinite loop
+Cantor’s observation
+correspondence
+bijection
+one-to-one function
+onto function
+countable set
+uncountable set
+finite set
+infinite set
+natural numbers
+even natural numbers
+integers
+positive rational numbers

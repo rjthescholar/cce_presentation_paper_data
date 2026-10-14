@@ -1,0 +1,27 @@
+binary addition
+carry
+grade school addition algorithm
+LSB
+least significant bit
+MSB
+most significant bit
+signed integers
+unsigned integers
+sign extension
+zero extension
+sign bit
+sign-magnitude representation
+sign-magnitude arithmetic
+negative zero
+one's complement
+one's complement arithmetic
+two's complement
+two's complement addition
+two's complement negation
+bit pattern interpretation
+overflow
+unsigned overflow
+signed overflow
+modular arithmetic
+carry bit register
+arbitrary precision arithmetic

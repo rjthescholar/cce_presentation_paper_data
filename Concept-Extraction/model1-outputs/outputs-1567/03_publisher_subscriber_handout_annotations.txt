@@ -1,0 +1,27 @@
+publisher
+subscriber
+topic
+message
+message type
+node
+anonymous node
+message queue
+publishing rate
+callback function
+global variable
+blob detection
+distributed computing
+process
+shutdown
+shutdown hook
+cleanup
+loop
+rospy.spin()
+rostopic
+rostopic list
+rostopic echo
+rostopic info
+rostopic type
+rostopic pub
+workspace directory
+ROS

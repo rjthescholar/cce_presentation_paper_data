@@ -1,0 +1,17 @@
+strings
+.byte
+load address
+addresses
+.asciiz
+zero terminator
+string
+la
+memory address
+aligned
+array
+alignment
+address
+pointers
+.ascii
+address calculation
+arrays

@@ -1,0 +1,40 @@
+memory
+stack frames
+calling convention
+memory regions
+stack pointer
+system call
+function epilogue
+codegen
+.data segment
+function calls
+shared libraries
+call stack
+application binary interfaces
+truss's mips abi
+language abi os abi architectural abi
+syscalls
+runtime data representation
+abis
+stack frame
+system calls
+stack
+truss’ s mips abi
+fp
+runtime libraries
+standard library
+asynchronous messages
+executables
+frame pointer register
+function
+isa
+architectural abi
+syscall
+runtime library
+frame pointers
+standard libraries
+application binary interface
+abi
+stack overflow
+stdlib
+heap

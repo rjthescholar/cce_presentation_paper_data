@@ -1,0 +1,34 @@
+decidability
+decidable language
+decider
+TM
+Turing machine
+DFA
+deterministic finite automaton
+NFA
+nondeterministic finite automaton
+regular expression
+regular language
+language emptiness
+EDFA
+DFA language emptiness
+EQDFA
+DFA language equivalence
+ONE DFA
+DFA accepting exactly one string
+ADFA
+DFA string acceptance
+ANFA
+NFA string acceptance
+AREX
+regular expression string generation
+start state
+accept state
+reachable state
+state transition
+closure under complement
+closure under union
+closure under intersection
+language equality
+subset
+helper machine

@@ -1,0 +1,3 @@
+inclusion/exclusion principle
+pigeonhole principle
+generalized pigeonhole principle

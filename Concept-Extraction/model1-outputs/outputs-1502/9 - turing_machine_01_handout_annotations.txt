@@ -1,0 +1,37 @@
+human computer
+finite-state machine
+Turing machine
+TM
+tape
+tape head
+control
+state diagram
+state
+input string
+input alphabet
+tape alphabet
+blank symbol
+transition function
+start state
+accept state
+reject state
+DFA
+NFA
+computational tree
+configuration
+current state
+tape content
+tape head location
+configuration yields
+starting configuration
+accepting configuration
+rejecting configuration
+halting configuration
+language of a Turing machine
+Turing-recognizable language
+recognizable language
+decider
+Turing-decidable language
+decidable language
+regular language
+pumping lemma

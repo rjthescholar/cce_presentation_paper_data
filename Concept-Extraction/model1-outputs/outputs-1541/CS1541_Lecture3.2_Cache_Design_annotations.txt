@@ -1,0 +1,53 @@
+oracle cache
+cache design
+CPU cycles
+CPU compute cycles
+memory stall cycles
+AMAT
+average memory access time
+hit time
+miss rate
+miss penalty
+cache hit
+cache miss
+cache access time
+single-level cache
+multi-level cache
+L1 cache
+L2 cache
+L3 cache
+DRAM access time
+cache size
+cache capacity
+working set
+capacity miss
+temporal locality
+spatial locality
+cache block
+cache line
+cache block size
+cold miss
+compulsory miss
+memory bus
+bus width
+bus speed
+transfer time
+cache associativity
+direct-mapped cache
+set-associative cache
+fully associative cache
+conflict miss
+hash function
+memory address
+cache block index
+set index
+cache set
+tag
+valid bit
+offset within cache block
+cache replacement policy
+random replacement
+LRU
+least-recently-used replacement
+saturating counter
+cache metadata

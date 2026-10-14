@@ -1,0 +1,29 @@
+logic programming
+automated reasoning
+predicate logic
+Prolog
+Datalog
+fact
+rule
+predicate
+constant
+variable
+query
+knowledge base
+nested quantifiers
+universal quantifier
+existential quantifier
+scope of variables
+order of quantifiers
+additive inverse
+multiplicative inverse
+commutative law for addition
+associative law for addition
+propositional function
+domain of variables
+translation between English and logical expressions
+negation of quantified statements
+DeMorgan’s laws
+implication
+conjunction
+disjunction

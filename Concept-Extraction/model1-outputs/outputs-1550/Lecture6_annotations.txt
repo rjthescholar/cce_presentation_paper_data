@@ -1,0 +1,36 @@
+process
+thread
+fork()
+exec()
+wait()
+zombie process
+orphan process
+process termination
+exit()
+kill()
+abort()
+bounded buffer problem
+producers consumers problem
+shared circular-array buffer
+buffer capacity
+producer
+consumer
+full buffer
+empty buffer
+semaphore
+producer arrival
+producer entry
+producer departure
+consumer arrival
+consumer entry
+consumer departure
+event sequence
+sequence feasibility
+system state
+UI
+user interface
+main UI thread
+background thread
+front-end process
+back-end process
+shared buffer

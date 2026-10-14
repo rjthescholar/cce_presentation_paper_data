@@ -1,0 +1,32 @@
+pipelining
+pipeline
+pipeline stage
+multi-cycle CPU
+clock cycle
+instruction latency
+throughput
+cycles per instruction
+CPI
+pipeline hazard
+structural hazard
+data hazard
+control hazard
+resource conflict
+stall
+forwarding
+register file
+branch
+branch prediction
+branch predictor
+Harvard architecture
+CPU time
+instruction mix
+instruction class
+average instruction CPI
+weighted average CPI
+cycle length
+speedup ratio
+execution time
+optimization
+bottleneck
+diminishing returns

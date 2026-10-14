@@ -1,0 +1,53 @@
+regular grammar
+regular language
+lexing
+dependency graph
+DAG
+directed acyclic graph
+recursive grammar rule
+context-free grammar
+CFG
+context-free language
+nesting
+context-sensitive grammar
+CSG
+ambiguity
+lexer
+token
+parser
+parsing
+syntax
+syntactic structure
+abstract syntax tree
+AST
+value
+expression
+statement
+tree
+linked list
+reference
+null
+Box
+heap
+call stack
+Option
+Some
+None
+AST node
+constant
+negation
+binary operator
+operand
+enum
+recursion
+recursive call
+local variable
+LHS
+left-hand side
+RHS
+right-hand side
+tree evaluation
+tree transformation
+reciprocal
+macro
+preprocessor macro

@@ -1,0 +1,7 @@
+modified post correspondence problem
+pcp
+domino
+post correspondence problem
+mpcp
+dominoes
+pcp is undecidable

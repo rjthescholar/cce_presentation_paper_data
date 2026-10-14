@@ -1,0 +1,23 @@
+title,keywords,name
+01-Introduction,midterms; zoom; computer programming; semi cumulative; grades; videos,cs0447-1
+02-Binary-Hex-and-Arbitrariness,arbitrariness; hex; videos online o,cs0447-2
+03-Programs-Instructions-and-Registers,machine language; bits; instructions; videos; search a string; programs instructions; registers; programs; mars,cs0447-3
+04-Memory-and-Addresses,architectures; load store architecture; java; super important concept; memory; memory accesses,cs0447-4
+05-Arrays,ef; address; memory address; java; computer programming arrays; array; characters; millions; string; class,cs0447-5
+"06-Flow,-Conditionals,-and-Loops",control flow; flow; conditionals; datatypes; loops; label; code; bits; procrastination; dead code,cs0447-6
+07-Functions-and-the-Stack,contracts; stack; videos online; machine language functions; computer programming functions; label; arguments; control,cs0447-7
+08-Bitwise-Operations,logical product; computers; operations; right; logical negation; bitwise operations; light; computer programming; java; ways,cs0447-8
+09-Addition-Signed-Numbers-and-Overflow,algorithm; school algorithm; bucket,cs0447-9
+10-Fractional binary,forget the points; computer programming fractions; real world,cs0447-10
+11-Multiplication_and_Division,partial products; multiplication; multiplication and division,cs0447-11
+12-Logic,logic; computer programming logic,cs0447-12
+13-Logic-arithmetic-and-Plexers,isolation; adder; input; carry input; logic; circuit; logic arithmetic; column,cs0447-13
+14-Minimization-and-Karnaught,boolean functions; booleans; price; yield; faster circuits; crystals; one,cs0447-14
+15-Latches,latches; nor stable feedback; s r latch; animated; combinational logic; reset,cs0447-15
+16-ALU,datapath; register file; register file alu; alu; datapath processor; arithmetic and logic unit,cs0447-16
+17-FSM,finite state machines; computer,cs0447-17
+18-Controlling-the-PC,machine code; code; instruction; register file; compilers; computer; components; controlling,cs0447-18
+19-Decoding-and-Control,lw; control; memory control; memories; instruction control; von neumann architecture; von neumann machine; address multi cycle machines; operate; isolation,cs0447-19
+20-Bringing-all-together,single cycle machine; computer programming; sign extend,cs0447-20
+21-Multicycle-CPU,multi cycle design,cs0447-21
+22-Pipelining,pipelined; computer programming pipelining; 22 pipelining; multi cycle pipelining,cs0447-22

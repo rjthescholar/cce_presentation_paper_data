@@ -1,0 +1,17 @@
+harmonic series
+array
+array element
+array length
+while loop
+for loop
+loop condition
+loop counter
+increment
+mathematical combination operators
++=
+-=
+*=
+/=
+%=
+++
+--

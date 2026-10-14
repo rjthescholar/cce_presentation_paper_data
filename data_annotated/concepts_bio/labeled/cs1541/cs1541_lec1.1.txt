@@ -1,0 +1,8 @@
+computer architecture
+isa
+application pull
+instruction set architecture
+technology push
+processor organization
+isas
+microarchitecture

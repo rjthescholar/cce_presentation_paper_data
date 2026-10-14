@@ -1,0 +1,38 @@
+spindle
+first-come-first served
+cylinder
+scan
+interrupt-driven i/o
+heads
+sstf
+fcfs
+disk arm scheduling
+track
+sector
+elevator algorithm
+platters
+two-level directory system
+disk scheduling algorithms
+seek time
+links
+link
+shortest seek time first
+directories
+seek distance
+polling
+c-look
+directory
+hierarchical directory system
+sectors
+platter
+interrupts
+dma
+cylinders
+surfaces
+actuator
+c-scan
+tracks
+direct memory access
+interrupt
+interrupt handler
+head

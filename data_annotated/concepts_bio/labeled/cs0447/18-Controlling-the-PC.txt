@@ -1,0 +1,37 @@
+rs
+data segment
+jumps
+instruction fetching
+fixups
+ast
+compilers
+jump target
+rt
+abstract syntax tree
+opcode
+machine code
+pc
+funct
+rd
+control signal
+instruction formats
+alu
+branch offset
+shamt
+compiler
+control flow instructions
+register file
+jalr
+immediate
+assemblers
+imm
+j-type instruction format
+tokens
+la
+pc source
+bitfield
+memory alignment
+branches
+object file
+pcsrc
+assembler

@@ -1,0 +1,28 @@
+logic
+propositional logic
+proposition
+compound proposition
+truth value
+truth table
+logical connective
+negation
+conjunction
+disjunction
+exclusive disjunction
+exclusive or
+XOR
+implication
+hypothesis
+conclusion
+converse
+contrapositive
+inverse
+biconditional
+if and only if
+iff
+sufficient condition
+necessary and sufficient condition
+logical operator precedence
+translation into propositional logic
+bit
+bitwise logical operation

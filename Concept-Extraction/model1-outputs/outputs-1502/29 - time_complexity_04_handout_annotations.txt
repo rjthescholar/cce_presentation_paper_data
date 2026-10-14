@@ -1,0 +1,43 @@
+NP
+NP-complete
+NP-completeness
+polynomial time computable function
+polynomial time Turing machine
+polynomial time mapping reducibility
+polynomial time reducibility
+polynomial time reduction
+mapping reducibility
+P
+TM
+Turing machine
+NTM
+nondeterministic Turing machine
+polynomial time verifier
+SAT
+satisfiability problem
+Boolean formula
+Boolean variable
+Boolean operator
+satisfiable formula
+truth assignment
+CNF
+conjunctive normal form
+literal
+clause
+cnf-formula
+3cnf-formula
+3SAT
+CLIQUE
+clique
+k-clique
+undirected graph
+reduction from 3SAT to CLIQUE
+accepting computation history
+reduction via computation histories
+Cook–Levin theorem
+reduction from SAT to 3SAT
+satisfiability equivalence
+VERTEX-COVER
+vertex cover
+HAMPATH
+SUBSET-SUM

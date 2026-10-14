@@ -1,0 +1,39 @@
+lexing
+scanning
+lexer
+token
+tokenization
+whitespace
+indentation
+comment
+location information
+keyword
+identifier
+symbol
+literal
+numeric literal
+integer literal
+string literal
+language
+string
+alphabet
+terminal
+nonterminal
+grammar
+metalanguage
+sequencing
+alternation
+repetition
+optional rule
+grouping
+character set
+lookahead
+EOF
+end of file
+start rule
+compiler compiler
+ambiguity
+maximal munch
+parser
+regular language
+semantic analysis

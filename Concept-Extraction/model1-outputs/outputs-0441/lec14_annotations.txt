@@ -1,0 +1,13 @@
+mathematical induction
+strong mathematical induction
+strong induction
+universally quantified statement
+base case
+inductive hypothesis
+I.H.
+inductive step
+product of primes
+prime
+composite
+well ordering
+inference rule

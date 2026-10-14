@@ -1,0 +1,63 @@
+vector
+Vec<T>
+immutability
+mutability
+array
+iteration
+iterator
+iterable
+for-in loop
+mapping
+function literal
+anonymous function
+lambda
+
+algebraic data type
+abstract data type
+ADT
+primitive type
+product type
+sum type
+struct
+tuple
+field
+enum
+enum variant
+class
+inheritance
+interface
+method
+constructor
+associated function
+mutator
+OOP
+object-oriented programming
+pattern matching
+Option
+Some
+None
+
+lexing
+lexer
+token
+string
+character
+Unicode
+codepoint
+combining mark
+Unicode transformation format
+UTF
+UTF-8
+UTF-16
+UTF-32
+ASCII
+American standard code for information interchange
+grapheme cluster
+string length
+string indexing
+substring
+string reversal
+string comparison
+collation
+canonicalization
+text processing

@@ -1,0 +1,38 @@
+boolean inputs
+reconfigurable hardware
+boolean outputs
+minterm
+ics
+distributivity
+xors
+7 segment led display
+idempotent
+gray code
+associative
+fpgas
+boolean function
+manufacturing yield
+multiplexer
+wafers
+adjacencies
+hex digit led
+minterms
+distributive
+yield
+k-map
+xor
+sum-of-products
+full adder
+gate delay
+de morgan’ s laws
+logic minimization
+boolean algebra
+logical adjacency
+commutative
+karnaugh maps
+k-maps
+gals
+integrated circuits
+boolean functions
+carry-out bit
+cplds

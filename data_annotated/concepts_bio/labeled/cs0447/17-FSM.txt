@@ -1,0 +1,8 @@
+fsm
+state transition
+finite state machine
+state machine
+state transition diagram
+state transition table
+finite state machines
+fsms

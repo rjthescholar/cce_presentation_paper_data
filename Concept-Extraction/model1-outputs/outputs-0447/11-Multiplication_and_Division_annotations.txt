@@ -1,0 +1,38 @@
+multiplication
+multiplication by repeated addition
+binary multiplication
+multiplicand
+multiplier
+product
+partial products
+positional numbers
+powers of the base
+product bit width
+MIPS
+HI register
+LO register
+mul pseudo-op
+multiplication overflow
+signed multiplication
+unsigned multiplication
+division
+division by repeated subtraction
+binary division
+signed division
+dividend
+divisor
+quotient
+remainder
+division by zero
+divide-and-conquer multiplication
+parallel multiplication
+commutativity
+SRT division
+quotient bits
+modulo
+bit shifting
+masking
+bitwise AND
+truncated division
+flooring division
+arithmetic right shift

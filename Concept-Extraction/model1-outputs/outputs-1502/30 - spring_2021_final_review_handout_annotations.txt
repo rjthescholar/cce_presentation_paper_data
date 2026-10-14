@@ -1,0 +1,33 @@
+PSUBSETDFA
+proper-subset problem for deterministic finite automata
+ALLBUTONETM
+all-but-one problem for Turing machines
+NOTPRIME
+nonprime numbers
+ATM
+acceptance problem for Turing machines
+EQDFA
+equivalence problem for deterministic finite automata
+EDFA
+emptiness problem for deterministic finite automata
+DFA
+deterministic finite automaton
+TM
+Turing machine
+NTM
+nondeterministic Turing machine
+language
+proper subset
+language equality
+language emptiness
+language intersection
+decidability
+decider
+undecidability
+mapping reducibility
+reduction
+verifier
+nondeterministic selection
+brute-force algorithm
+prime number
+divisibility

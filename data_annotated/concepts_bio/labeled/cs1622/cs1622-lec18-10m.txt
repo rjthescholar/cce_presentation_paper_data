@@ -1,0 +1,22 @@
+defs
+liveness
+live
+forward analysis
+-
+constant copy propagation
+join function
+transfer function
+state
+in
+global
+liveness ranges
+-state
+unk
+in-state
+gccp
+global constant copy propagation
+backward analysis
+dataflow analysis
+uses
+data flow
+out-state

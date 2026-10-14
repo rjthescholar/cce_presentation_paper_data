@@ -1,0 +1,17 @@
+uppercamelcase
+semicolon
+lowercamelcase
+escape character
+comment
+identifiers
+concatenation
+variables
+commented
+applications
+comments
+variable
+string
+virtual machine
+strings
+device drivers
+world

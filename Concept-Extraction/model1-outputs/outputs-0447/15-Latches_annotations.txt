@@ -1,0 +1,42 @@
+latch
+S/R latch
+set/reset latch
+feedback
+latch operation
+set operation
+reset operation
+oscillation
+combinational logic
+sequential logic
+propagation delay
+critical path
+clock
+clock signal
+clock cycle
+clock state
+clock edge
+rising edge
+falling edge
+D latch
+data latch
+write enable
+W
+D flip-flop
+data flip-flop
+register
+1-bit register
+1-bit volatile memory cell
+clock speed
+clock period
+frequency
+Hz
+hertz
+clock skew
+race condition
+adder
+half-adder
+register-backed 1-bit adder
+counter
+4-bit counter
+ripple-carry
+4-bit adder

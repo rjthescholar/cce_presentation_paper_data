@@ -1,0 +1,30 @@
+higher order function
+type coercion
+decidable
+type systems
+inference rules
+weakly-typed languages
+statically-typed languages
+type
+type conversion
+type coercions
+decidability
+statically typed languages
+type context
+terms
+punning
+domain-specific languages
+type safety
+undecidable
+type system
+type inference
+existential polymorphism
+conversion
+type errors
+function types
+dynamically typed languages
+term
+type constructor
+type-checking
+type theory
+dsls

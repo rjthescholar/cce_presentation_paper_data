@@ -1,0 +1,33 @@
+title,keywords,name
+0 - cs1502_syllabus_handout,formal methods,cs1502-1
+1 - math_prelim_handout,mathematics preliminaries predicates,cs1502-2
+10 - turing_machine_02_handout,turing machine; zig zag,cs1502-3
+11 - turing_machine_03_handout,turing machines; palindrome,cs1502-4
+12 - turing_machine_04_handout,turing machine; polynomial; decidable languages,cs1502-5
+12-5 - exam_01_review_hanbdout,dfa; regular language; formal; formal definition,cs1502-6
+13 - decidability_01_handout,dfa; decidability; is decidable,cs1502-7
+14  - decidability_02_handout,dfa; turing machine; decidability; edfa; graph theory; decidable languages,cs1502-8
+15 - decidability_03_handout,undecidable; atm; atm decidable,cs1502-9
+16 - decidability_04_handout,valid; decidability; decidability 04; → r,cs1502-10
+17 - decidability_05_handout,undecidable,cs1502-11
+18 - reducibility_01_handout,lady; ⊆; ⊆ y; ↔; specific element; ⊆ x,cs1502-12
+19 - reducibility_02_handout,turing machine; language,cs1502-13
+2 - finite_automata_01_handout,finite automata,cs1502-14
+20 - reducibility_as_methods_handout,turing machines; method; methods language; java methods; language; type string,cs1502-15
+21 - reducibility_04_handout,programmer; turing machine,cs1502-16
+22 - reducibility_05_handout,language; regular language; algorithm; reducibility 05,cs1502-17
+23 - reducibility_06_handout,language,cs1502-18
+24 - pcp_handout,post correspondence; post correspondence problem; atm; decider,cs1502-19
+25 - reducibility_08_handout,reduction; is decidable; reducibility theorem; language,cs1502-20
+26 - time_complexity_01_handout,asymptotic analysis; turing machine runs; deterministic turing machine,cs1502-21
+27 - time_complexity_02_handout,algorithms; turing machine,cs1502-22
+28 - time_complexity_03_handout,hamiltonian path; hampath; directed graph,cs1502-23
+29 - time_complexity_04_handout,reducibility property; language; polynomial time algorithm; polynomial time reduction; reduction; polynomial time computable; time computable; complexity; ≤m,cs1502-24
+3 - finite_automata_02_handout,finite; computational model; finite automata; finite automaton; regular language,cs1502-25
+30 - spring_2021_final_review_handout,dfa; decider,cs1502-26
+4 - finite_automata_03_handout,dfa; finite; finite automaton; finite automata; nfa; splits; tree,cs1502-27
+5 - finite_automata_04_handout,regular expression; finite automata,cs1502-28
+6 - finite_automata_05_handout,dfa; regular expression; finite state machines; regular languages; finite automata; finite automaton; generalized nondeterministic finite automaton,cs1502-29
+7 - finite_automata_06_handout,finite; finite state machine; finite automata; languages; regular languages; infinite languages,cs1502-30
+8 - finite_automata_07_handout,finite automata,cs1502-31
+9 - turing_machine_01_handout,turing machine; dfa; finite state machine; human computation,cs1502-32

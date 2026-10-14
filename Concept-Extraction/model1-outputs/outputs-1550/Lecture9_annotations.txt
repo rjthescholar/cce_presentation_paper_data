@@ -1,0 +1,13 @@
+dining philosophers
+semaphore
+deadlock
+fairness
+process
+resource
+resource allocation graph
+directed graph
+deadlock detection
+deadlock detection algorithm
+deadlock prevention
+deadlock avoidance
+ostrich algorithm
